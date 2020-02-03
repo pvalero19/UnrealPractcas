@@ -22023,3 +22023,8 @@ Script Stack (0 frames):
 [2020.02.03-10.39.53:977][433]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Prac1world08BE4E1A49A4DD2CD3F9B388A0A26B78.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/Prac1world.umap'
 [2020.02.03-10.39.54:022][433]AssetCheck: New page: Asset Save: Prac1world
 [2020.02.03-10.39.54:022][433]LogContentValidation: Display: Validating World /Game/Practica1/Prac1world.Prac1world
+[2020.02.03-10.41.05:290][794]LogUObjectHash: Compacting FUObjectHashTables data took   8.60ms
+[2020.02.03-10.41.05:737][794]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Prac1worldAA7858C94EFEA5132D0687B891E6F7C3.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/Prac1world.umap'
+[2020.02.03-10.41.05:778][794]AssetCheck: New page: Asset Save: Prac1world
+[2020.02.03-10.41.05:778][794]LogContentValidation: Display: Validating World /Game/Practica1/Prac1world.Prac1world
+[2020.02.03-10.41.07:459][844]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
