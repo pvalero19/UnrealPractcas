@@ -22028,3 +22028,1895 @@ Script Stack (0 frames):
 [2020.02.03-10.41.05:778][794]AssetCheck: New page: Asset Save: Prac1world
 [2020.02.03-10.41.05:778][794]LogContentValidation: Display: Validating World /Game/Practica1/Prac1world.Prac1world
 [2020.02.03-10.41.07:459][844]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.02.03-10.41.26:377][323]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (sm_WallD_03_02)
+[2020.02.03-10.41.27:200][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_WallD_03_02)
+[2020.02.03-10.42.59:065][653]Cmd: TRANSACTION UNDO
+[2020.02.03-10.42.59:065][653]LogEditorTransaction: Undo Move Actors
+[2020.02.03-10.43.10:063][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Teulat)
+[2020.02.03-10.43.45:675][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_en_Roof_01_14)
+[2020.02.03-10.43.48:314][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_en_Roof_01_10)
+[2020.02.03-10.44.52:999][584]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/KeyDoor.KeyDoor
+[2020.02.03-10.45.00:150][805]BlueprintLog: New page: Compile KeyDoor
+[2020.02.03-10.45.00:827][805]LogUObjectHash: Compacting FUObjectHashTables data took   7.84ms
+[2020.02.03-10.45.00:934][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/KeyDoor" FILE="../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/KeyDoor.uasset" SILENT=true
+[2020.02.03-10.45.00:970][805]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/KeyDoor5FBBEC80406728398206E29CCB13E60D.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/KeyDoor.uasset'
+[2020.02.03-10.45.01:039][805]AssetCheck: New page: Asset Save: KeyDoor
+[2020.02.03-10.45.01:039][805]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/KeyDoor.KeyDoor
+[2020.02.03-10.45.01:345][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/KeyDoor" FILE="../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/KeyDoor.uasset" SILENT=true
+[2020.02.03-10.45.01:363][809]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/KeyDoorCFD18B0648836ACC601CDA8081793711.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/KeyDoor.uasset'
+[2020.02.03-10.45.01:388][809]AssetCheck: New page: Asset Save: KeyDoor
+[2020.02.03-10.45.01:388][809]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/KeyDoor.KeyDoor
+[2020.02.03-10.45.07:355][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_WallA_03_03)
+[2020.02.03-10.45.08:242][171]LogEditorViewport: Clicking on Actor (LMB): KeyDoor_C (KeyDoor)
+[2020.02.03-10.45.54:583][182]BlueprintLog: New page: Compile KeyDoor
+[2020.02.03-10.45.55:014][182]LogUObjectHash: Compacting FUObjectHashTables data took  10.59ms
+[2020.02.03-10.45.55:501][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/KeyDoor" FILE="../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/KeyDoor.uasset" SILENT=true
+[2020.02.03-10.45.55:532][195]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/KeyDoor2BE59CEC4EBBCBA40D0A56AFD9406AF3.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/KeyDoor.uasset'
+[2020.02.03-10.45.55:558][195]AssetCheck: New page: Asset Save: KeyDoor
+[2020.02.03-10.45.55:558][195]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/KeyDoor.KeyDoor
+[2020.02.03-10.46.02:650][549]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  Event Tick  and was replaced as a Custom Event!
+[2020.02.03-10.46.28:184][772]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.03-10.46.28:642][772]LogUObjectHash: Compacting FUObjectHashTables data took   6.63ms
+[2020.02.03-10.46.29:314][782]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/ThirdPersonCharacter60042D9A4F6927790E585AA0B0B4CB62.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.02.03-10.46.29:336][782]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.02.03-10.46.29:336][782]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.02.03-10.46.39:644][951]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.03-10.46.40:923][  7]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.03-10.46.41:362][  7]LogUObjectHash: Compacting FUObjectHashTables data took   7.76ms
+[2020.02.03-10.46.42:341][ 32]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/ThirdPersonCharacter99C03FDB4912BDAF6F781182F4F322DA.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.02.03-10.46.42:364][ 32]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.02.03-10.46.42:364][ 32]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.02.03-10.46.45:999][216]LogUObjectHash: Compacting FUObjectHashTables data took   6.46ms
+[2020.02.03-10.46.46:459][216]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Prac1worldE9FCC94E4B838948F1F992ACD311F70E.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/Prac1world.umap'
+[2020.02.03-10.46.46:493][216]AssetCheck: New page: Asset Save: Prac1world
+[2020.02.03-10.46.46:493][216]LogContentValidation: Display: Validating World /Game/Practica1/Prac1world.Prac1world
+[2020.02.03-10.46.48:116][291]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2020.02.03-10.46.50:207][393]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.03-10.46.50:215][393]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.02.03-10.46.50:215][393]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.03-10.46.50:216][393]PIE: New page: PIE session: Prac1world (3 feb. 2020 12:46:50)
+[2020.02.03-10.46.50:219][393]LogPlayLevel: Creating play world package: /Game/Practica1/UEDPIE_0_Prac1world
+[2020.02.03-10.46.50:336][393]LogPlayLevel: PIE: StaticDuplicateObject took: (0.116659s)
+[2020.02.03-10.46.50:336][393]LogAIModule: Creating AISystem for world Prac1world
+[2020.02.03-10.46.50:337][393]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2020.02.03-10.46.50:337][393]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Practica1/Prac1world.Prac1world to /Game/Practica1/UEDPIE_0_Prac1world.Prac1world (0.117824s)
+[2020.02.03-10.46.50:396][393]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.02.03-10.46.50:396][393]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.03-10.46.50:397][393]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.03-10.46.50:397][393]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.03-10.46.50:397][393]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.03-10.46.50:397][393]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.03-10.46.50:397][393]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.03-10.46.50:397][393]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.03-10.46.50:397][393]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.03-10.46.50:397][393]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.03-10.46.50:397][393]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.03-10.46.50:409][393]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.03-10.46.50:409][393]LogAudioMixer: Display: Name: Altavoces (2- Realtek(R) Audio)
+[2020.02.03-10.46.50:409][393]LogAudioMixer: Display: Is Default: Yes
+[2020.02.03-10.46.50:409][393]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.03-10.46.50:409][393]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.03-10.46.50:409][393]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.03-10.46.50:409][393]LogAudioMixer: Display: Channel Order:
+[2020.02.03-10.46.50:409][393]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.03-10.46.50:409][393]LogAudioMixer: Display: 1: FrontRight
+[2020.02.03-10.46.50:421][393]LogAudioMixer: Display: Using Audio Device Altavoces (2- Realtek(R) Audio)
+[2020.02.03-10.46.50:422][393]LogInit: FAudioDevice initialized.
+[2020.02.03-10.46.50:438][393]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.03-10.46.50:447][393]LogWorld: Bringing World /Game/Practica1/UEDPIE_0_Prac1world.Prac1world up for play (max tick rate 60) at 2020.02.03-11.46.50
+[2020.02.03-10.46.50:448][393]LogWorld: Bringing up level for play took: 0.009490
+[2020.02.03-10.46.50:448][393]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2020.02.03-10.46.50:452][393]PIE: Play in editor start time for /Game/Practica1/UEDPIE_0_Prac1world 0,341
+[2020.02.03-10.46.50:452][393]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.02.03-10.46.50:452][393]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.50:470][394]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.50:555][395]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.50:572][396]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.50:588][397]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.50:605][398]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.50:622][399]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.50:638][400]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.50:654][401]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.50:672][402]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.50:688][403]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.50:705][404]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.50:722][405]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.50:739][406]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.50:755][407]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.50:772][408]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.50:789][409]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.50:805][410]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.50:822][411]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.50:839][412]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.50:856][413]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.50:871][414]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.50:888][415]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.50:905][416]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.50:922][417]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.50:938][418]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.50:954][419]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.50:971][420]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.50:988][421]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:005][422]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:022][423]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:038][424]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:055][425]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:072][426]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:088][427]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:105][428]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:121][429]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:146][430]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:155][431]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:171][432]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:188][433]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:205][434]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:222][435]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:238][436]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:254][437]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:271][438]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:288][439]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:304][440]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:322][441]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:338][442]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:355][443]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:371][444]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:388][445]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:404][446]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:421][447]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:438][448]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:455][449]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:471][450]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:488][451]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:505][452]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:521][453]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:538][454]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:555][455]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:571][456]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:588][457]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:605][458]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:622][459]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:638][460]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:655][461]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:671][462]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:688][463]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:704][464]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:721][465]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:738][466]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:755][467]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:771][468]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:789][469]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:805][470]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:823][471]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:838][472]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:855][473]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:871][474]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:888][475]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:905][476]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:922][477]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:938][478]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:955][479]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:972][480]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.51:990][481]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:005][482]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:022][483]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:039][484]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:055][485]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:072][486]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:088][487]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:105][488]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:122][489]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:138][490]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:155][491]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:172][492]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:188][493]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:205][494]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:222][495]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:239][496]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:256][497]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:272][498]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:289][499]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:305][500]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:322][501]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:339][502]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:357][503]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:371][504]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:388][505]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:404][506]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:421][507]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:437][508]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:454][509]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:471][510]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:488][511]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:504][512]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:521][513]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:538][514]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:555][515]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:571][516]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:588][517]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:605][518]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:622][519]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:638][520]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:655][521]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:672][522]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:692][523]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:706][524]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:722][525]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:739][526]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:755][527]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:772][528]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:789][529]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:804][530]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:821][531]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:838][532]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:854][533]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:871][534]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:888][535]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:905][536]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:921][537]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:938][538]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:955][539]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:972][540]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.52:989][541]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:005][542]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:022][543]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:039][544]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:055][545]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:071][546]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:088][547]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:105][548]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:122][549]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:138][550]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:155][551]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:171][552]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:188][553]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:204][554]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:221][555]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:238][556]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:254][557]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:271][558]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:288][559]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:304][560]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:321][561]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:338][562]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:355][563]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:371][564]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:388][565]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:405][566]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:422][567]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:439][568]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:456][569]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:472][570]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:490][571]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:505][572]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:523][573]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:538][574]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:555][575]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:571][576]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:588][577]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:605][578]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:621][579]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:638][580]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:655][581]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:672][582]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:689][583]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:705][584]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:722][585]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:740][586]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:756][587]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:773][588]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:789][589]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:805][590]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:822][591]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:838][592]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:855][593]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:871][594]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:888][595]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:905][596]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:921][597]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:938][598]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:955][599]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:972][600]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.53:989][601]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:004][602]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:021][603]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:039][604]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:055][605]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:072][606]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:089][607]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:104][608]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:121][609]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:138][610]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:155][611]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:171][612]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:188][613]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:205][614]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:222][615]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:239][616]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:256][617]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:272][618]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:289][619]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:305][620]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:322][621]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:339][622]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:357][623]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:371][624]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:388][625]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:408][626]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:422][627]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:438][628]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:456][629]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:472][630]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:490][631]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:504][632]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:522][633]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:539][634]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:555][635]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:573][636]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:588][637]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:605][638]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:622][639]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:638][640]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:655][641]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:671][642]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:689][643]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:704][644]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:724][645]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:740][646]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:756][647]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:772][648]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:789][649]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:805][650]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:822][651]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:838][652]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:857][653]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:872][654]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:889][655]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:906][656]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:921][657]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:938][658]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:955][659]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:972][660]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.54:990][661]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:005][662]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:023][663]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:039][664]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:055][665]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:073][666]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:088][667]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:105][668]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:124][669]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:139][670]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:155][671]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:173][672]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:189][673]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:205][674]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:222][675]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:238][676]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:255][677]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:273][678]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:289][679]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:304][680]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:322][681]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:338][682]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:356][683]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:371][684]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:388][685]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:406][686]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:422][687]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:439][688]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:455][689]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:472][690]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:489][691]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:505][692]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:522][693]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:538][694]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:555][695]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:572][696]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:588][697]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:605][698]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:622][699]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:639][700]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:655][701]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:672][702]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:688][703]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:705][704]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:721][705]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:738][706]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:757][707]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:772][708]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:789][709]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:805][710]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:823][711]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:839][712]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:855][713]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:871][714]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:888][715]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:904][716]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:922][717]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:938][718]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:955][719]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:971][720]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.55:988][721]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:004][722]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:022][723]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:038][724]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:055][725]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:075][726]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:089][727]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:105][728]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:122][729]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:139][730]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:155][731]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:172][732]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:188][733]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:206][734]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:222][735]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:239][736]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:256][737]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:272][738]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:288][739]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:305][740]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:323][741]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:338][742]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:356][743]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:372][744]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:389][745]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:405][746]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:422][747]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:438][748]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:455][749]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:474][750]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:489][751]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:505][752]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:522][753]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:539][754]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:555][755]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:572][756]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:589][757]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:605][758]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:622][759]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:639][760]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:655][761]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:671][762]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:688][763]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:704][764]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:722][765]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:738][766]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:756][767]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:772][768]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:789][769]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:806][770]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:823][771]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:839][772]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:855][773]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:872][774]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:889][775]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:905][776]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:922][777]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:938][778]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:955][779]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:972][780]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.56:988][781]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:004][782]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:021][783]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:038][784]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:055][785]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:072][786]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:088][787]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:107][788]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:122][789]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:139][790]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:155][791]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:172][792]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:189][793]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:206][794]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:222][795]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:239][796]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:255][797]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:272][798]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:289][799]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:306][800]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:323][801]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:338][802]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:357][803]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:373][804]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:389][805]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:405][806]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:421][807]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:438][808]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:455][809]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:471][810]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:488][811]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:505][812]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:521][813]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:538][814]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:554][815]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:572][816]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:588][817]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:605][818]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:622][819]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:638][820]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:655][821]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:671][822]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:688][823]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:705][824]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:722][825]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:739][826]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:755][827]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:773][828]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:789][829]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:804][830]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:821][831]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:838][832]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:855][833]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:872][834]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:889][835]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:905][836]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:922][837]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:938][838]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:955][839]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:972][840]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.57:988][841]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:006][842]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:021][843]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:038][844]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:055][845]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:073][846]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:088][847]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:105][848]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:123][849]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:139][850]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:155][851]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:172][852]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:189][853]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:207][854]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:223][855]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:242][856]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:257][857]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:274][858]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:291][859]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:309][860]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:328][861]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:346][862]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:365][863]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:383][864]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:399][865]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:417][866]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:442][867]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:458][868]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:475][869]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:490][870]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:509][871]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:526][872]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:545][873]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:562][874]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:582][875]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:598][876]LogBlueprintUserMessages: [PlayerBB] 0
+[2020.02.03-10.46.58:615][877]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.58:632][878]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.58:650][879]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.58:667][880]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.58:685][881]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.58:701][882]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.58:717][883]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.58:734][884]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.58:751][885]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.58:768][886]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.58:785][887]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.58:802][888]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.58:818][889]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.58:835][890]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.58:851][891]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.58:868][892]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.58:886][893]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.58:901][894]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.58:919][895]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.58:935][896]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.58:951][897]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.58:969][898]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.58:985][899]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:001][900]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:018][901]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:035][902]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:052][903]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:068][904]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:085][905]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:102][906]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:119][907]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:135][908]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:152][909]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:168][910]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:184][911]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:202][912]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:218][913]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:236][914]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:252][915]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:268][916]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:286][917]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:303][918]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:318][919]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:336][920]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:351][921]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:369][922]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:385][923]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:402][924]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:419][925]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:436][926]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:452][927]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:468][928]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:487][929]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:501][930]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:518][931]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:535][932]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:552][933]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:568][934]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:586][935]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:602][936]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:618][937]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:635][938]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:651][939]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:668][940]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:685][941]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:701][942]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:718][943]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:735][944]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:752][945]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:768][946]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:785][947]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:803][948]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:818][949]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:834][950]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:851][951]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:868][952]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:885][953]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:902][954]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:918][955]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:935][956]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:952][957]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:969][958]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.46.59:985][959]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:002][960]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:019][961]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:035][962]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:052][963]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:068][964]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:085][965]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:102][966]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:118][967]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:135][968]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:152][969]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:168][970]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:185][971]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:201][972]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:218][973]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:235][974]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:252][975]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:268][976]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:285][977]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:302][978]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:318][979]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:335][980]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:351][981]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:369][982]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:385][983]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:402][984]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:419][985]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:435][986]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:452][987]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:469][988]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:484][989]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:501][990]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:518][991]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:534][992]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:552][993]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:568][994]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:585][995]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:602][996]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:618][997]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:635][998]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:651][999]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:669][  0]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:684][  1]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:701][  2]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:718][  3]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:734][  4]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:751][  5]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:768][  6]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:785][  7]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:802][  8]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:818][  9]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:835][ 10]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:851][ 11]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:868][ 12]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:885][ 13]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:901][ 14]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:918][ 15]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:935][ 16]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:951][ 17]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:968][ 18]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.00:985][ 19]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:002][ 20]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:018][ 21]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:035][ 22]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:052][ 23]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:069][ 24]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:085][ 25]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:102][ 26]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:118][ 27]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:136][ 28]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:153][ 29]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:168][ 30]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:185][ 31]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:202][ 32]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:218][ 33]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:235][ 34]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:251][ 35]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:268][ 36]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:285][ 37]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:303][ 38]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:319][ 39]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:335][ 40]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:352][ 41]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:369][ 42]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:385][ 43]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:402][ 44]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:418][ 45]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:435][ 46]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:452][ 47]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:468][ 48]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:485][ 49]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:502][ 50]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:518][ 51]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:535][ 52]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:552][ 53]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:569][ 54]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:585][ 55]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:602][ 56]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:619][ 57]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:635][ 58]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:652][ 59]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:669][ 60]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:686][ 61]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:701][ 62]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:718][ 63]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:735][ 64]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:752][ 65]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:769][ 66]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:785][ 67]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:802][ 68]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:819][ 69]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:835][ 70]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:852][ 71]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:869][ 72]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:887][ 73]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:902][ 74]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:919][ 75]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:935][ 76]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:953][ 77]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:969][ 78]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.01:986][ 79]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:003][ 80]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:019][ 81]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:035][ 82]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:053][ 83]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:068][ 84]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:084][ 85]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:101][ 86]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:118][ 87]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:135][ 88]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:152][ 89]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:168][ 90]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:185][ 91]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:202][ 92]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:218][ 93]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:235][ 94]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:251][ 95]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:268][ 96]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:285][ 97]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:303][ 98]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:318][ 99]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:335][100]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:353][101]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:369][102]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:386][103]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:401][104]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:419][105]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:435][106]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:451][107]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:469][108]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:485][109]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:502][110]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:519][111]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:536][112]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:552][113]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:569][114]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:585][115]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:602][116]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:619][117]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:635][118]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:652][119]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:669][120]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:685][121]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:702][122]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:719][123]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:735][124]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:751][125]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:769][126]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:786][127]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:802][128]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:818][129]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:834][130]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:852][131]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:868][132]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:886][133]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:902][134]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:918][135]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:935][136]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:951][137]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:968][138]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.02:985][139]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:002][140]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:018][141]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:035][142]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:053][143]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:069][144]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:086][145]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:102][146]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:119][147]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:136][148]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:152][149]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:169][150]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:186][151]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:202][152]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:219][153]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:235][154]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:252][155]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:268][156]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:285][157]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:302][158]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:318][159]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:335][160]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:352][161]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:368][162]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:385][163]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:402][164]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:418][165]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:435][166]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:452][167]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:468][168]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:485][169]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:502][170]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:518][171]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:534][172]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:552][173]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:569][174]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:585][175]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:602][176]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:618][177]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:636][178]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:651][179]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:669][180]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:685][181]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:702][182]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:718][183]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:735][184]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:751][185]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:769][186]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:785][187]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:802][188]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:819][189]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:835][190]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:852][191]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:869][192]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:885][193]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:902][194]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:919][195]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:935][196]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:952][197]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:968][198]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.03:985][199]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:001][200]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:019][201]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:035][202]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:052][203]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:068][204]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:085][205]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:101][206]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:118][207]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:135][208]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:152][209]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:168][210]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:185][211]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:202][212]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:219][213]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:235][214]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:251][215]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:268][216]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:285][217]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:302][218]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:319][219]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:336][220]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:352][221]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:369][222]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:385][223]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:401][224]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:419][225]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:436][226]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:451][227]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:469][228]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:485][229]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:501][230]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:518][231]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:535][232]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:552][233]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:569][234]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:585][235]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:602][236]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:619][237]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:636][238]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:652][239]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:669][240]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:685][241]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:702][242]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:719][243]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:736][244]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:753][245]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:768][246]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:786][247]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:803][248]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:819][249]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:838][250]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:852][251]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:868][252]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:885][253]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:902][254]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:918][255]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:935][256]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:952][257]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:968][258]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.04:985][259]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:002][260]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:019][261]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:036][262]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:052][263]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:068][264]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:085][265]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:101][266]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:119][267]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:135][268]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:151][269]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:168][270]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:185][271]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:201][272]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:218][273]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:235][274]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:252][275]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:268][276]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:285][277]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:302][278]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:318][279]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:335][280]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:352][281]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:368][282]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:386][283]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:402][284]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:419][285]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:435][286]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:452][287]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:468][288]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:485][289]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:502][290]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:518][291]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:535][292]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:552][293]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:568][294]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:585][295]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:602][296]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:618][297]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:635][298]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:651][299]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:668][300]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:685][301]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:702][302]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:719][303]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:735][304]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:752][305]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:768][306]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:785][307]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:801][308]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:818][309]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:835][310]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:852][311]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:868][312]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:885][313]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:901][314]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:918][315]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:935][316]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:952][317]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:968][318]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.05:985][319]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.06:002][320]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.06:018][321]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.06:035][322]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.06:053][323]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.06:068][324]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.06:085][325]LogBlueprintUserMessages: [PlayerBB] 1
+[2020.02.03-10.47.06:102][326]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:119][327]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:135][328]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:151][329]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:168][330]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:185][331]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:202][332]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:218][333]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:235][334]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:252][335]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:268][336]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:285][337]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:302][338]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:319][339]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:335][340]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:352][341]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:369][342]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:386][343]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:402][344]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:419][345]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:435][346]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:451][347]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:468][348]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:485][349]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:502][350]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:518][351]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:535][352]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:552][353]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:569][354]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:585][355]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:602][356]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:618][357]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:635][358]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:652][359]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:669][360]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:685][361]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:702][362]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:719][363]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:735][364]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:752][365]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:769][366]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:785][367]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:802][368]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:819][369]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:835][370]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:851][371]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:869][372]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:885][373]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:901][374]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:919][375]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:935][376]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:952][377]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:969][378]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.06:985][379]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:001][380]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:019][381]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:036][382]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:052][383]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:068][384]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:085][385]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:102][386]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:118][387]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:137][388]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:152][389]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:169][390]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:185][391]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:202][392]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:219][393]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:236][394]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:252][395]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:269][396]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:285][397]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:303][398]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:318][399]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:336][400]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:353][401]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:368][402]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:385][403]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:402][404]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:419][405]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:435][406]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:451][407]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:469][408]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:485][409]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:502][410]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:519][411]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:535][412]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:553][413]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:569][414]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:585][415]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:602][416]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:619][417]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:635][418]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:651][419]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:669][420]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:685][421]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:702][422]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:718][423]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:735][424]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:752][425]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:769][426]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:785][427]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:802][428]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:818][429]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:835][430]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:854][431]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:868][432]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:885][433]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:901][434]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:918][435]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:935][436]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:951][437]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:969][438]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.07:985][439]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:002][440]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:018][441]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:035][442]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:052][443]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:069][444]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:085][445]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:102][446]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:119][447]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:135][448]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:152][449]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:169][450]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:185][451]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:202][452]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:218][453]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:235][454]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:251][455]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:269][456]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:285][457]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:302][458]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:318][459]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:335][460]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:351][461]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:368][462]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:385][463]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:402][464]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:418][465]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:435][466]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:452][467]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:469][468]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:485][469]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:502][470]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:518][471]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:535][472]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:552][473]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:568][474]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:585][475]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:602][476]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:618][477]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:636][478]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:652][479]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:669][480]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:685][481]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:702][482]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:719][483]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:735][484]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:752][485]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:769][486]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:785][487]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:802][488]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:819][489]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:836][490]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:852][491]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:869][492]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:885][493]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:902][494]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:918][495]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:935][496]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:952][497]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:968][498]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.08:985][499]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:002][500]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:019][501]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:036][502]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:052][503]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:069][504]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:086][505]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:102][506]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:119][507]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:135][508]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:153][509]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:169][510]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:185][511]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:202][512]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:219][513]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:235][514]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:252][515]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:269][516]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:285][517]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:302][518]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:318][519]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:336][520]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:352][521]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:368][522]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:385][523]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:402][524]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:418][525]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:435][526]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:452][527]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:469][528]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:485][529]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:502][530]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:519][531]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:535][532]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:552][533]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:569][534]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:586][535]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:602][536]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:619][537]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:636][538]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:653][539]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:669][540]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:685][541]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:702][542]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:719][543]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:736][544]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:753][545]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:769][546]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:786][547]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:802][548]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:819][549]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:836][550]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:852][551]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:869][552]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:886][553]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:902][554]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:919][555]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:935][556]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:952][557]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:969][558]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.09:986][559]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:003][560]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:019][561]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:036][562]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:052][563]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:068][564]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:085][565]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:102][566]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:118][567]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:135][568]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:152][569]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:169][570]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:185][571]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:202][572]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:218][573]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:235][574]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:252][575]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:269][576]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:285][577]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:303][578]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:319][579]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:336][580]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:353][581]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:369][582]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:387][583]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:403][584]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:419][585]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:435][586]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:452][587]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:468][588]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:485][589]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:502][590]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:518][591]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:535][592]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:552][593]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:569][594]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:585][595]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:602][596]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:619][597]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:636][598]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:652][599]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:669][600]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:686][601]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:703][602]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:719][603]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:736][604]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:753][605]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:769][606]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:786][607]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:803][608]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:818][609]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:835][610]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:852][611]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:869][612]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:886][613]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:902][614]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:918][615]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:935][616]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:952][617]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:969][618]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.10:985][619]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:002][620]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:019][621]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:036][622]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:053][623]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:069][624]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:085][625]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:102][626]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:118][627]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:135][628]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:151][629]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:168][630]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:185][631]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:202][632]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:218][633]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:235][634]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:252][635]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:269][636]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:285][637]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:303][638]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:319][639]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:336][640]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:352][641]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:369][642]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:386][643]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:402][644]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:419][645]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:436][646]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:452][647]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:469][648]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:486][649]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:502][650]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:518][651]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:535][652]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:552][653]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:568][654]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:586][655]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:602][656]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:619][657]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:635][658]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:652][659]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:669][660]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:685][661]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:702][662]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:718][663]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:736][664]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:752][665]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:769][666]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:785][667]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:802][668]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:818][669]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:835][670]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:852][671]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:869][672]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:885][673]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:902][674]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:919][675]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:936][676]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:952][677]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:969][678]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.11:985][679]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:002][680]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:019][681]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:036][682]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:052][683]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:069][684]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:086][685]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:103][686]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:119][687]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:137][688]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:152][689]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:169][690]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:186][691]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:203][692]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:219][693]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:235][694]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:252][695]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:269][696]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:285][697]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:302][698]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:319][699]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:336][700]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:352][701]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:369][702]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:385][703]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:402][704]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:418][705]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:435][706]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:452][707]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:469][708]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:485][709]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:502][710]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:519][711]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:536][712]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:554][713]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:569][714]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:586][715]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:602][716]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:619][717]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:635][718]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:652][719]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:669][720]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:686][721]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:703][722]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:719][723]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:737][724]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:753][725]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:769][726]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:786][727]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:802][728]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:819][729]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:835][730]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:853][731]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:869][732]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:886][733]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:902][734]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:918][735]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:936][736]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:952][737]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:969][738]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.12:985][739]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:002][740]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:018][741]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:035][742]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:052][743]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:068][744]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:086][745]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:102][746]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:119][747]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:136][748]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:152][749]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:168][750]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:185][751]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:202][752]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:219][753]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:236][754]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:253][755]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:271][756]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:285][757]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:302][758]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:319][759]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:336][760]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:353][761]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:369][762]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:385][763]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:403][764]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:419][765]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:435][766]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:452][767]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:469][768]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:486][769]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:502][770]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:520][771]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:538][772]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:554][773]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:575][774]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:594][775]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:611][776]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:629][777]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:646][778]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:663][779]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:679][780]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:697][781]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:714][782]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:732][783]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:749][784]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:768][785]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:786][786]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:804][787]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:821][788]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:841][789]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:860][790]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:874][791]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:892][792]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:915][793]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:930][794]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:948][795]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:963][796]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:980][797]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.13:997][798]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:014][799]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:031][800]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:052][801]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:069][802]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:085][803]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:103][804]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:122][805]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:140][806]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:158][807]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:174][808]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:193][809]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:210][810]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:232][811]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:247][812]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:263][813]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:346][814]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:353][815]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:369][816]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:386][817]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:402][818]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:419][819]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:435][820]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:452][821]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:468][822]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:485][823]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:502][824]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:518][825]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:535][826]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:553][827]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:570][828]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:585][829]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:602][830]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:618][831]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:635][832]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:652][833]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:669][834]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:684][835]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:702][836]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:718][837]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:735][838]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:752][839]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:768][840]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:785][841]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:801][842]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:818][843]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:835][844]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:852][845]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:868][846]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:886][847]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:902][848]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:919][849]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:935][850]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:952][851]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:968][852]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.14:984][853]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:001][854]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:018][855]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:034][856]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:051][857]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:068][858]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:085][859]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:101][860]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:118][861]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:135][862]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:152][863]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:168][864]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:185][865]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:202][866]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:218][867]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:235][868]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:252][869]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:269][870]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:285][871]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:302][872]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:318][873]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:335][874]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:351][875]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:368][876]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:384][877]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:401][878]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:418][879]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:434][880]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:451][881]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:468][882]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:485][883]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:501][884]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:518][885]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:540][886]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:552][887]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:569][888]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:585][889]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:602][890]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:619][891]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:638][892]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:652][893]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:671][894]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:686][895]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:702][896]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:719][897]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:736][898]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:751][899]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:768][900]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:785][901]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:802][902]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:818][903]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:835][904]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:851][905]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:868][906]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:885][907]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:905][908]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:918][909]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:935][910]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:952][911]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:968][912]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.15:985][913]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:003][914]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:019][915]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:038][916]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:054][917]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:069][918]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:086][919]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:102][920]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:118][921]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:135][922]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:151][923]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:169][924]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:185][925]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:202][926]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:220][927]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:235][928]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:252][929]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:269][930]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:285][931]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:303][932]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:319][933]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:336][934]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:352][935]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:371][936]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:386][937]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:402][938]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:420][939]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:436][940]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:452][941]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:470][942]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:485][943]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:502][944]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:519][945]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:537][946]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:554][947]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:570][948]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:586][949]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:603][950]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:620][951]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:638][952]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:654][953]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:670][954]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:687][955]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:702][956]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:719][957]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:735][958]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:752][959]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:768][960]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:786][961]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:804][962]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:818][963]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:837][964]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:851][965]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:869][966]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:889][967]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:903][968]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:921][969]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:938][970]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:955][971]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:970][972]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.16:988][973]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:003][974]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:020][975]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:036][976]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:054][977]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:068][978]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:088][979]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:102][980]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:119][981]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:136][982]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:155][983]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:168][984]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:186][985]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:203][986]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:220][987]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:236][988]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:252][989]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:269][990]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:285][991]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:302][992]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:318][993]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:334][994]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:352][995]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:368][996]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:385][997]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:401][998]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:419][999]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:436][  0]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:452][  1]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:469][  2]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:486][  3]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:502][  4]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:519][  5]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:536][  6]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:555][  7]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:569][  8]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:587][  9]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:602][ 10]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:619][ 11]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:636][ 12]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:652][ 13]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:671][ 14]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:686][ 15]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:703][ 16]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:719][ 17]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:736][ 18]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:752][ 19]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:770][ 20]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:785][ 21]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:802][ 22]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:819][ 23]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:836][ 24]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:852][ 25]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:869][ 26]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:887][ 27]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:903][ 28]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:920][ 29]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:936][ 30]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:953][ 31]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:970][ 32]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.17:985][ 33]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:004][ 34]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:020][ 35]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:036][ 36]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:053][ 37]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:069][ 38]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:086][ 39]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:102][ 40]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:120][ 41]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:138][ 42]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:155][ 43]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:170][ 44]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:187][ 45]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:204][ 46]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:220][ 47]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:236][ 48]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:254][ 49]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:270][ 50]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:287][ 51]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:304][ 52]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:320][ 53]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:335][ 54]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:353][ 55]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:369][ 56]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:387][ 57]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:404][ 58]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:418][ 59]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:436][ 60]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:453][ 61]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:470][ 62]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:487][ 63]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:505][ 64]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:522][ 65]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:539][ 66]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:555][ 67]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:572][ 68]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:595][ 69]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:612][ 70]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:629][ 71]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:647][ 72]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:663][ 73]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:679][ 74]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:698][ 75]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:714][ 76]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:731][ 77]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:748][ 78]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:765][ 79]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:783][ 80]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:804][ 81]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:819][ 82]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:835][ 83]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:852][ 84]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:869][ 85]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:885][ 86]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:906][ 87]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:923][ 88]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:939][ 89]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:957][ 90]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:974][ 91]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.18:990][ 92]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:007][ 93]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:023][ 94]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:039][ 95]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:057][ 96]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:073][ 97]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:091][ 98]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:107][ 99]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:123][100]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:140][101]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:157][102]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:172][103]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:189][104]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:206][105]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:223][106]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:239][107]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:255][108]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:272][109]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:288][110]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:306][111]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:324][112]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:339][113]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:357][114]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:372][115]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:389][116]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:405][117]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:422][118]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:438][119]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:454][120]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:471][121]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:488][122]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:505][123]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:521][124]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:538][125]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:555][126]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:571][127]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:588][128]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:604][129]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:621][130]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:639][131]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:655][132]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:672][133]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:689][134]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:705][135]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:721][136]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:737][137]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:755][138]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:772][139]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:788][140]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:805][141]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:822][142]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:839][143]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:855][144]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:872][145]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:888][146]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:905][147]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:921][148]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:939][149]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:955][150]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:971][151]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.19:989][152]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.20:005][153]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.20:022][154]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.20:038][155]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.20:055][156]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.20:072][157]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.20:088][158]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.20:105][159]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.20:121][160]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.20:138][161]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.20:155][162]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.20:172][163]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.20:188][164]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.20:204][165]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.20:222][166]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.20:239][167]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.20:255][168]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.20:272][169]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.20:288][170]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.20:304][171]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.20:322][172]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.20:338][173]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.20:355][174]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.20:371][175]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.20:388][176]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.20:405][177]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.20:421][178]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.20:438][179]LogBlueprintUserMessages: [PlayerBB] 2
+[2020.02.03-10.47.20:439][179]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.03-10.47.20:439][179]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.03-10.47.20:439][179]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.02.03-10.47.20:439][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-10.47.20:439][179]LogWorld: BeginTearingDown for /Game/Practica1/UEDPIE_0_Prac1world
+[2020.02.03-10.47.20:439][179]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.03-10.47.20:440][179]LogWorld: UWorld::CleanupWorld for Prac1world, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-10.47.20:446][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-10.47.20:477][179]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.03-10.47.20:478][179]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.02.03-10.47.20:485][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-10.47.20:539][179]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.03-10.47.20:542][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-10.47.20:551][179]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2020.02.03-10.47.20:582][180]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2020.02.03-10.47.23:075][300]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.02.03-10.47.24:056][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.02.03-10.47.24:551][352]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Prac1world4B9970BA4DE4FC8FF5BCA5AB0E2D08C8.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/Prac1world.umap'
+[2020.02.03-10.47.24:592][352]AssetCheck: New page: Asset Save: Prac1world
+[2020.02.03-10.47.24:592][352]LogContentValidation: Display: Validating World /Game/Practica1/Prac1world.Prac1world
+[2020.02.03-10.47.35:326][462]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.02.03-10.47.35:781][462]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Prac1world2769D3BA492867E68F1B0AAB5C89D847.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/Prac1world.umap'
+[2020.02.03-10.47.35:823][462]AssetCheck: New page: Asset Save: Prac1world
+[2020.02.03-10.47.35:823][462]LogContentValidation: Display: Validating World /Game/Practica1/Prac1world.Prac1world
+[2020.02.03-10.47.37:123][524]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
