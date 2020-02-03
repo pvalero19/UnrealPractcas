@@ -34203,3 +34203,1173 @@ Make sure 'Ascensor_C' has been compiled for  Get StaticMesh
 [2020.02.03-11.49.46:402][168]AssetCheck: New page: Asset Save: Prac1world
 [2020.02.03-11.49.46:402][168]LogContentValidation: Display: Validating World /Game/Practica1/Prac1world.Prac1world
 [2020.02.03-11.49.48:244][229]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2020.02.03-11.54.47:452][702]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2020.02.03-11.54.49:019][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.02.03-11.54.49:507][787]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Prac1worldDBA66E7F48FDD96663F1D8B0CC4874D7.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/Prac1world.umap'
+[2020.02.03-11.54.49:541][787]AssetCheck: New page: Asset Save: Prac1world
+[2020.02.03-11.54.49:541][787]LogContentValidation: Display: Validating World /Game/Practica1/Prac1world.Prac1world
+[2020.02.03-13.51.27:128][306]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.03-13.51.27:184][306]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.03-13.53.35:838][966]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.03-13.53.37:249][966]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.02.03-13.53.37:267][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.03-13.53.37:288][966]PIE: New page: PIE session: Prac1world (3 feb. 2020 15:53:37)
+[2020.02.03-13.53.37:332][966]LogPlayLevel: Creating play world package: /Game/Practica1/UEDPIE_0_Prac1world
+[2020.02.03-13.53.38:181][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.843101s)
+[2020.02.03-13.53.38:282][966]LogAIModule: Creating AISystem for world Prac1world
+[2020.02.03-13.53.38:322][966]LogPlayLevel: PIE: World Init took: (0.139914s)
+[2020.02.03-13.53.38:324][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Practica1/Prac1world.Prac1world to /Game/Practica1/UEDPIE_0_Prac1world.Prac1world (0.993395s)
+[2020.02.03-13.53.41:154][966]LogUObjectHash: Compacting FUObjectHashTables data took 116.68ms
+[2020.02.03-13.53.41:303][966]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.03-13.53.41:304][966]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.03-13.53.41:304][966]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.03-13.53.41:304][966]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.03-13.53.41:304][966]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.03-13.53.41:304][966]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.03-13.53.41:304][966]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.03-13.53.41:305][966]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.03-13.53.41:317][966]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.03-13.53.41:319][966]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.03-13.53.41:352][966]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.03-13.53.41:352][966]LogAudioMixer: Display: Name: Altavoces (2- Realtek(R) Audio)
+[2020.02.03-13.53.41:352][966]LogAudioMixer: Display: Is Default: Yes
+[2020.02.03-13.53.41:352][966]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.03-13.53.41:352][966]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.03-13.53.41:352][966]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.03-13.53.41:352][966]LogAudioMixer: Display: Channel Order:
+[2020.02.03-13.53.41:352][966]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.03-13.53.41:352][966]LogAudioMixer: Display: 1: FrontRight
+[2020.02.03-13.53.41:382][966]LogAudioMixer: Display: Using Audio Device Altavoces (2- Realtek(R) Audio)
+[2020.02.03-13.53.41:457][966]LogInit: FAudioDevice initialized.
+[2020.02.03-13.53.41:565][966]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.03-13.53.41:759][966]LogWorld: Bringing World /Game/Practica1/UEDPIE_0_Prac1world.Prac1world up for play (max tick rate 60) at 2020.02.03-14.53.41
+[2020.02.03-13.53.41:790][966]LogWorld: Bringing up level for play took: 0.189944
+[2020.02.03-13.53.41:806][966]LogOnline: OSS: Creating online subsystem instance for: :Context_85
+[2020.02.03-13.53.41:899][966]PIE: Play in editor start time for /Game/Practica1/UEDPIE_0_Prac1world 5,777
+[2020.02.03-13.53.41:931][966]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.02.03-13.55.10:320][ 36]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.03-13.55.10:320][ 36]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.03-13.55.10:324][ 36]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.02.03-13.55.10:334][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-13.55.10:334][ 36]LogWorld: BeginTearingDown for /Game/Practica1/UEDPIE_0_Prac1world
+[2020.02.03-13.55.10:342][ 36]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.03-13.55.10:347][ 36]LogWorld: UWorld::CleanupWorld for Prac1world, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-13.55.10:351][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-13.55.11:167][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.03-13.55.11:168][ 36]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.02.03-13.55.11:177][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-13.55.11:270][ 36]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.03-13.55.11:297][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-13.55.11:348][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.02.03-13.55.11:475][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2020.02.03-13.55.15:121][228]LogEditorViewport: Clicking on Actor (LMB): KeyDoor_C (KeyDoor)
+[2020.02.03-13.55.15:950][229]LogEditorViewport: Clicking on Actor (LMB): KeyDoor_C (KeyDoor)
+[2020.02.03-13.55.16:144][229]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Cube)
+[2020.02.03-13.55.43:653][387]LogUObjectArray: Warning: Invalid object index 7471220
+[2020.02.03-13.55.43:653][387]LogUObjectArray: Warning: Invalid object index 7471220
+[2020.02.03-13.55.43:661][387]LogUObjectArray: Warning: Invalid object index 7471220
+[2020.02.03-13.55.43:667][387]LogUObjectArray: Warning: Invalid object index 7471220
+[2020.02.03-13.55.44:047][403]LogUObjectArray: Warning: Invalid object index 7471220
+[2020.02.03-13.55.44:047][403]LogUObjectArray: Warning: Invalid object index 7471220
+[2020.02.03-13.55.44:050][403]LogUObjectArray: Warning: Invalid object index 7471220
+[2020.02.03-13.55.44:052][403]LogUObjectArray: Warning: Invalid object index 7471220
+[2020.02.03-13.55.44:065][403]LogUObjectArray: Warning: Invalid object index 7471220
+[2020.02.03-13.55.54:782][859]BlueprintLog: New page: Compile KeyDoor
+[2020.02.03-13.55.56:328][859]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2020.02.03-13.55.57:145][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/KeyDoor" FILE="../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/KeyDoor.uasset" SILENT=true
+[2020.02.03-13.55.57:261][881]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/KeyDoorE6B008224D5E7A4C6F4C23A5449C48F2.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/KeyDoor.uasset'
+[2020.02.03-13.55.57:308][881]AssetCheck: New page: Asset Save: KeyDoor
+[2020.02.03-13.55.57:309][881]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/KeyDoor.KeyDoor
+[2020.02.03-13.56.31:132][503]MapCheck: New page: Map Check
+[2020.02.03-13.56.31:182][503]LightingResults: New page: Lighting Build - 3 feb. 2020 15:56:31
+[2020.02.03-13.56.31:239][503]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2020.02.03-13.56.31:240][503]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.02.03-13.56.31:241][503]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.02.03-13.56.31:694][503]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.03-13.56.31:961][503]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.03-13.56.32:045][503]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.03-13.56.34:091][503]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.03-13.56.34:091][503]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17328
+[2020.02.03-13.56.36:666][503]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.02.03-13.56.36:669][503]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.03-13.56.36:669][503]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.03-13.56.36:669][503]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.03-13.56.36:669][503]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.03-13.56.36:669][503]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.03-13.56.38:869][503]LogEditorBuildUtils: Build time 0:07
+[2020.02.03-13.56.38:908][503]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.02.03-13.56.38:945][503]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2020.02.03-13.56.38:946][503]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.02.03-13.56.38:946][503]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.02.03-13.56.39:002][504]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.02.03-13.56.39:002][504]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.02.03-13.56.39:030][504]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_44, compiling. 
+[2020.02.03-13.56.39:059][504]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2020.02.03-13.56.39:059][504]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.02.03-13.56.39:059][504]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_44, compiling. 
+[2020.02.03-13.56.39:119][504]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.02.03-13.56.39:119][504]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.02.03-13.56.39:174][505]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_40, compiling. 
+[2020.02.03-13.56.39:212][505]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_40, compiling. 
+[2020.02.03-13.56.39:330][506]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_48, compiling. 
+[2020.02.03-13.56.39:371][506]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_48, compiling. 
+[2020.02.03-13.56.39:468][507]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_51, compiling. 
+[2020.02.03-13.56.39:512][507]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_51, compiling. 
+[2020.02.03-13.56.39:673][508]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WallA_02_1004, compiling. 
+[2020.02.03-13.56.39:753][508]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WallA_02_1004, compiling. 
+[2020.02.03-13.56.39:835][509]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WallA_02_1006, compiling. 
+[2020.02.03-13.56.39:917][509]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WallA_02_1006, compiling. 
+[2020.02.03-13.56.40:040][510]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WallA_02_1005, compiling. 
+[2020.02.03-13.56.40:123][510]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WallA_02_1005, compiling. 
+[2020.02.03-13.56.40:238][511]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_Window_02_1005, compiling. 
+[2020.02.03-13.56.40:302][511]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_Window_02_1005, compiling. 
+[2020.02.03-13.56.40:472][512]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 28
+[2020.02.03-13.56.40:472][512]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_Window_02_1004, compiling. 
+[2020.02.03-13.56.40:519][512]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 24
+[2020.02.03-13.56.40:519][512]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 20
+[2020.02.03-13.56.40:519][512]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2020.02.03-13.56.40:519][512]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2020.02.03-13.56.40:519][512]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_Window_02_1004, compiling. 
+[2020.02.03-13.56.40:605][513]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2020.02.03-13.56.40:696][513]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2020.02.03-13.56.40:697][513]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.02.03-13.56.40:697][513]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WallA_02_1001, compiling. 
+[2020.02.03-13.56.40:760][513]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WallA_02_1001, compiling. 
+[2020.02.03-13.56.41:283][514]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WallA_02_1002, compiling. 
+[2020.02.03-13.56.41:428][514]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WallA_02_1002, compiling. 
+[2020.02.03-13.56.41:564][515]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WallA_02_1007, compiling. 
+[2020.02.03-13.56.41:612][515]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WallA_02_1007, compiling. 
+[2020.02.03-13.56.41:813][516]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WallA_02_1003, compiling. 
+[2020.02.03-13.56.41:909][516]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WallA_02_1003, compiling. 
+[2020.02.03-13.56.42:073][517]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WallA_01_1001, compiling. 
+[2020.02.03-13.56.42:170][517]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WallA_01_1001, compiling. 
+[2020.02.03-13.56.42:297][518]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WallA_01_1005, compiling. 
+[2020.02.03-13.56.42:405][518]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WallA_01_1005, compiling. 
+[2020.02.03-13.56.42:526][519]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WallA_01_1004, compiling. 
+[2020.02.03-13.56.42:604][519]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 35
+[2020.02.03-13.56.42:605][519]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WallA_01_1004, compiling. 
+[2020.02.03-13.56.42:715][520]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 30
+[2020.02.03-13.56.42:809][520]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WallA_01_1007, compiling. 
+[2020.02.03-13.56.42:859][520]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 28
+[2020.02.03-13.56.42:860][520]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 26
+[2020.02.03-13.56.42:860][520]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WallA_01_1007, compiling. 
+[2020.02.03-13.56.43:351][522]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2020.02.03-13.56.43:688][523]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_Window_01_1003, compiling. 
+[2020.02.03-13.56.43:766][523]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_Window_01_1003, compiling. 
+[2020.02.03-13.56.43:931][523]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 22
+[2020.02.03-13.56.44:060][524]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_Window_01_1007, compiling. 
+[2020.02.03-13.56.44:114][524]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_Window_01_1007, compiling. 
+[2020.02.03-13.56.44:194][525]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 25
+[2020.02.03-13.56.44:502][526]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2020.02.03-13.56.44:554][526]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer m_en_Roof_01_03, compiling. 
+[2020.02.03-13.56.44:587][526]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer m_en_Roof_01_03, compiling. 
+[2020.02.03-13.56.44:987][529]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WindowsC_04, compiling. 
+[2020.02.03-13.56.45:037][529]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WindowsC_04, compiling. 
+[2020.02.03-13.56.45:108][530]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_en_Pipe_01_01, compiling. 
+[2020.02.03-13.56.45:142][530]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_en_Pipe_01_01, compiling. 
+[2020.02.03-13.56.45:572][534]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_Windows_02, compiling. 
+[2020.02.03-13.56.45:609][534]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_Windows_02, compiling. 
+[2020.02.03-13.56.46:261][540]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 32
+[2020.02.03-13.56.46:455][541]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 27
+[2020.02.03-13.56.46:455][541]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 23
+[2020.02.03-13.56.46:636][541]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2020.02.03-13.56.46:732][542]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WindowB_02_1002, compiling. 
+[2020.02.03-13.56.46:774][542]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2020.02.03-13.56.46:774][542]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WindowB_02_1002, compiling. 
+[2020.02.03-13.56.46:827][542]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2020.02.03-13.56.46:849][542]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2020.02.03-13.56.46:927][543]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_Windows_01, compiling. 
+[2020.02.03-13.56.46:967][543]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_Windows_01, compiling. 
+[2020.02.03-13.56.47:343][545]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2020.02.03-13.56.47:344][545]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WindowB_01_1002, compiling. 
+[2020.02.03-13.56.47:388][545]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WindowB_01_1002, compiling. 
+[2020.02.03-13.56.47:497][546]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer m_en_Roof_01_02, compiling. 
+[2020.02.03-13.56.47:540][546]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer m_en_Roof_01_02, compiling. 
+[2020.02.03-13.56.47:638][547]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer m_en_Roof_01_01, compiling. 
+[2020.02.03-13.56.47:677][547]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer m_en_Roof_01_01, compiling. 
+[2020.02.03-13.56.47:747][548]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WindowsC_03, compiling. 
+[2020.02.03-13.56.47:784][548]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WindowsC_03, compiling. 
+[2020.02.03-13.56.48:396][554]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 30
+[2020.02.03-13.56.48:737][557]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2020.02.03-13.56.48:737][557]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2020.02.03-13.56.48:891][558]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2020.02.03-13.56.48:922][558]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WindowsD_01, compiling. 
+[2020.02.03-13.56.48:955][558]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WindowsD_01, compiling. 
+[2020.02.03-13.56.49:074][559]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WindowsD_03, compiling. 
+[2020.02.03-13.56.49:135][559]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2020.02.03-13.56.49:135][559]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WindowsD_03, compiling. 
+[2020.02.03-13.56.49:297][560]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2020.02.03-13.56.49:297][560]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_WindowsD_02, compiling. 
+[2020.02.03-13.56.49:511][562]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2020.02.03-13.56.49:815][564]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Env_Fire_Magma, compiling. 
+[2020.02.03-13.56.49:862][564]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Env_Fire_Magma, compiling. 
+[2020.02.03-13.56.49:957][565]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Bark3, compiling. 
+[2020.02.03-13.56.49:999][565]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2020.02.03-13.56.50:000][565]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Bark3, compiling. 
+[2020.02.03-13.56.50:108][566]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_imp_multi2, compiling. 
+[2020.02.03-13.56.50:142][566]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_imp_multi2, compiling. 
+[2020.02.03-13.56.50:176][566]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_imp_multi2, compiling. 
+[2020.02.03-13.56.50:243][567]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Bark1, compiling. 
+[2020.02.03-13.56.50:281][567]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Bark1, compiling. 
+[2020.02.03-13.56.50:348][568]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_imp_3, compiling. 
+[2020.02.03-13.56.50:382][568]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_imp_3, compiling. 
+[2020.02.03-13.56.50:419][568]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_imp_3, compiling. 
+[2020.02.03-13.56.50:496][569]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_plants_stems, compiling. 
+[2020.02.03-13.56.50:550][569]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_plants_stems, compiling. 
+[2020.02.03-13.56.50:598][569]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_plants_stems, compiling. 
+[2020.02.03-13.56.50:674][570]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_plants_leaf2, compiling. 
+[2020.02.03-13.56.50:720][570]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_plants_leaf2, compiling. 
+[2020.02.03-13.56.50:767][570]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_plants_leaf2, compiling. 
+[2020.02.03-13.56.50:898][571]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_en_CartonBox_01_01, compiling. 
+[2020.02.03-13.56.50:983][572]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 52
+[2020.02.03-13.56.50:984][572]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 45
+[2020.02.03-13.56.50:984][572]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Fire_Lava_Blend, compiling. 
+[2020.02.03-13.56.51:023][572]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Fire_Lava_Blend, compiling. 
+[2020.02.03-13.56.51:139][573]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.02.03-13.56.51:172][573]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.02.03-13.56.51:211][574]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 47
+[2020.02.03-13.56.57:008][575]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 41
+[2020.02.03-13.56.57:008][575]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 35
+[2020.02.03-13.56.57:008][575]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 30
+[2020.02.03-13.56.57:008][575]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2020.02.03-13.56.57:008][575]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2020.02.03-13.56.57:008][575]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2020.02.03-13.56.57:008][575]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2020.02.03-13.56.57:008][575]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2020.02.03-13.56.57:008][575]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2020.02.03-13.56.57:008][575]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.02.03-13.56.57:008][575]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.02.03-13.56.57:008][575]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2020.02.03-13.56.57:008][575]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.02.03-13.56.57:008][575]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.02.03-13.56.57:008][575]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2020.02.03-13.56.57:008][575]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.02.03-13.56.57:008][575]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2020.02.03-13.57.01:781][691]LogUObjectHash: Compacting FUObjectHashTables data took  18.92ms
+[2020.02.03-14.01.02:662][859]LogUObjectHash: Compacting FUObjectHashTables data took 126.97ms
+[2020.02.03-14.01.06:838][859]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Prac1world9ABB23274F15638B72D821AE4C217925.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/Prac1world.umap'
+[2020.02.03-14.01.07:043][859]AssetCheck: New page: Asset Save: Prac1world
+[2020.02.03-14.01.07:046][859]LogContentValidation: Display: Validating World /Game/Practica1/Prac1world.Prac1world
+[2020.02.03-14.01.10:846][975]LogUObjectHash: Compacting FUObjectHashTables data took  36.07ms
+[2020.02.03-14.01.11:008][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CoinDoor" FILE="../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/CoinDoor.uasset" SILENT=true
+[2020.02.03-14.01.11:099][975]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/CoinDoorEDA3EADA4400E66F13E07BB016579386.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/CoinDoor.uasset'
+[2020.02.03-14.01.11:205][975]AssetCheck: New page: Asset Save: CoinDoor
+[2020.02.03-14.01.11:206][975]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CoinDoor.CoinDoor
+[2020.02.03-14.05.38:457][ 32]LogHttp: Warning: 000001799AD95A80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B54A01DF9-440F-BF23-0473-EE938D889D0B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=27f168ab478137365f5b54ae8e2d8bd1%7C93a69fc451024811897d26c901b30920%7C6ff73697-efb0-4d5f-a328-5126453eb80a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.02.03-14.05.38:457][ 32]LogHttp: Warning: 000001799AD95A80: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.02.03-14.05.38:457][ 32]LogHttp: Warning: 000001799AD95A80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x176f9217f70 [can pipeline])
+[2020.02.03-14.05.38:457][ 32]LogHttp: Warning: 000001799AD95A80: libcurl info message cache 1 (Re-using existing connection! (#90) with host datarouter.ol.epicgames.com)
+[2020.02.03-14.05.38:457][ 32]LogHttp: Warning: 000001799AD95A80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.70.218.65) port 443 (#90))
+[2020.02.03-14.05.38:457][ 32]LogHttp: Warning: 000001799AD95A80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.02.03-14.05.38:457][ 32]LogHttp: Warning: 000001799AD95A80: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.02.03-14.05.38:457][ 32]LogHttp: Warning: 000001799AD95A80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.02.03-14.05.38:457][ 32]LogHttp: Warning: 000001799AD95A80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.02.03-14.05.38:457][ 32]LogHttp: Warning: 000001799AD95A80: libcurl info message cache 7 (Closing connection 90)
+[2020.02.03-14.05.38:478][ 33]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B54A01DF9-440F-BF23-0473-EE938D889D0B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=27f168ab478137365f5b54ae8e2d8bd1%7C93a69fc451024811897d26c901b30920%7C6ff73697-efb0-4d5f-a328-5126453eb80a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.03-14.09.38:470][700]LogHttp: Warning: 000001799AD94400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B54A01DF9-440F-BF23-0473-EE938D889D0B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=27f168ab478137365f5b54ae8e2d8bd1%7C93a69fc451024811897d26c901b30920%7C6ff73697-efb0-4d5f-a328-5126453eb80a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.02.03-14.09.38:471][700]LogHttp: Warning: 000001799AD94400: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.02.03-14.09.38:471][700]LogHttp: Warning: 000001799AD94400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x176f9217f70 [can pipeline])
+[2020.02.03-14.09.38:471][700]LogHttp: Warning: 000001799AD94400: libcurl info message cache 1 (Re-using existing connection! (#91) with host datarouter.ol.epicgames.com)
+[2020.02.03-14.09.38:471][700]LogHttp: Warning: 000001799AD94400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.1.127.160) port 443 (#91))
+[2020.02.03-14.09.38:471][700]LogHttp: Warning: 000001799AD94400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.02.03-14.09.38:471][700]LogHttp: Warning: 000001799AD94400: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.02.03-14.09.38:471][700]LogHttp: Warning: 000001799AD94400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.02.03-14.09.38:471][700]LogHttp: Warning: 000001799AD94400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.02.03-14.09.38:471][700]LogHttp: Warning: 000001799AD94400: libcurl info message cache 7 (Closing connection 91)
+[2020.02.03-14.09.38:494][701]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B54A01DF9-440F-BF23-0473-EE938D889D0B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=27f168ab478137365f5b54ae8e2d8bd1%7C93a69fc451024811897d26c901b30920%7C6ff73697-efb0-4d5f-a328-5126453eb80a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.03-14.13.58:749][286]LogUObjectHash: Compacting FUObjectHashTables data took 115.15ms
+[2020.02.03-14.16.51:992][481]LogSlate: Window 'ConfusionZone' being destroyed
+[2020.02.03-14.16.52:009][481]LogSlate: Window 'ConfusionZone' being destroyed
+[2020.02.03-14.16.52:124][481]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-14.16.52:126][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-14.16.53:529][481]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.03-14.16.53:529][481]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-14.16.53:529][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-14.16.55:920][481]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-14.16.55:921][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-14.16.56:448][481]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.03-14.16.56:448][481]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-14.16.56:448][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-14.16.57:513][481]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.03-14.16.57:513][481]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-14.16.57:513][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-14.16.58:617][481]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.03-14.16.58:617][481]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-14.16.58:617][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-14.16.59:397][481]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.03-14.16.59:397][481]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-14.16.59:397][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-14.17.00:434][481]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.03-14.17.00:434][481]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-14.17.00:434][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-14.17.01:419][481]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.03-14.17.01:419][481]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-14.17.01:419][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-14.17.01:886][481]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.03-14.17.01:886][481]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-14.17.01:887][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-14.21.00:827][839]LogUObjectHash: Compacting FUObjectHashTables data took  42.59ms
+[2020.02.03-14.21.03:218][839]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Prac1world_Auto556BB4DAC44C208BE7B021DA848B60701.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Autosaves/Game/Practica1/Prac1world_Auto5.umap'
+[2020.02.03-14.21.03:230][839]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Practica1/Prac1world' took 4.339
+[2020.02.03-14.21.03:230][839]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 4.339
+[2020.02.03-14.47.38:454][198]LogHttp: Warning: 000001778E0D9D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B54A01DF9-440F-BF23-0473-EE938D889D0B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=27f168ab478137365f5b54ae8e2d8bd1%7C93a69fc451024811897d26c901b30920%7C6ff73697-efb0-4d5f-a328-5126453eb80a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.02.03-14.47.38:455][198]LogHttp: Warning: 000001778E0D9D00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.02.03-14.47.38:456][198]LogHttp: Warning: 000001778E0D9D00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x176f9217f70 [can pipeline])
+[2020.02.03-14.47.38:456][198]LogHttp: Warning: 000001778E0D9D00: libcurl info message cache 1 (Re-using existing connection! (#104) with host datarouter.ol.epicgames.com)
+[2020.02.03-14.47.38:456][198]LogHttp: Warning: 000001778E0D9D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.22.193.227) port 443 (#104))
+[2020.02.03-14.47.38:456][198]LogHttp: Warning: 000001778E0D9D00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.02.03-14.47.38:456][198]LogHttp: Warning: 000001778E0D9D00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.02.03-14.47.38:456][198]LogHttp: Warning: 000001778E0D9D00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.02.03-14.47.38:456][198]LogHttp: Warning: 000001778E0D9D00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.02.03-14.47.38:456][198]LogHttp: Warning: 000001778E0D9D00: libcurl info message cache 7 (Closing connection 104)
+[2020.02.03-14.47.38:478][199]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B54A01DF9-440F-BF23-0473-EE938D889D0B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=27f168ab478137365f5b54ae8e2d8bd1%7C93a69fc451024811897d26c901b30920%7C6ff73697-efb0-4d5f-a328-5126453eb80a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.03-14.53.38:526][ 67]LogHttp: Warning: 000001778E0DA200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B54A01DF9-440F-BF23-0473-EE938D889D0B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=27f168ab478137365f5b54ae8e2d8bd1%7C93a69fc451024811897d26c901b30920%7C6ff73697-efb0-4d5f-a328-5126453eb80a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.02.03-14.53.38:526][ 67]LogHttp: Warning: 000001778E0DA200: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.02.03-14.53.38:526][ 67]LogHttp: Warning: 000001778E0DA200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x176f9217f70 [can pipeline])
+[2020.02.03-14.53.38:526][ 67]LogHttp: Warning: 000001778E0DA200: libcurl info message cache 1 (Re-using existing connection! (#106) with host datarouter.ol.epicgames.com)
+[2020.02.03-14.53.38:526][ 67]LogHttp: Warning: 000001778E0DA200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.152.62.189) port 443 (#106))
+[2020.02.03-14.53.38:526][ 67]LogHttp: Warning: 000001778E0DA200: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.02.03-14.53.38:526][ 67]LogHttp: Warning: 000001778E0DA200: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.02.03-14.53.38:526][ 67]LogHttp: Warning: 000001778E0DA200: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.02.03-14.53.38:526][ 67]LogHttp: Warning: 000001778E0DA200: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.02.03-14.53.38:526][ 67]LogHttp: Warning: 000001778E0DA200: libcurl info message cache 7 (Closing connection 106)
+[2020.02.03-14.53.38:526][ 67]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B54A01DF9-440F-BF23-0473-EE938D889D0B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=27f168ab478137365f5b54ae8e2d8bd1%7C93a69fc451024811897d26c901b30920%7C6ff73697-efb0-4d5f-a328-5126453eb80a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.03-15.00.38:503][888]LogHttp: Warning: 000001778E0D8680: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B54A01DF9-440F-BF23-0473-EE938D889D0B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=27f168ab478137365f5b54ae8e2d8bd1%7C93a69fc451024811897d26c901b30920%7C6ff73697-efb0-4d5f-a328-5126453eb80a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.02.03-15.00.38:504][888]LogHttp: Warning: 000001778E0D8680: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.02.03-15.00.38:504][888]LogHttp: Warning: 000001778E0D8680: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x176f9217f70 [can pipeline])
+[2020.02.03-15.00.38:504][888]LogHttp: Warning: 000001778E0D8680: libcurl info message cache 1 (Re-using existing connection! (#108) with host datarouter.ol.epicgames.com)
+[2020.02.03-15.00.38:504][888]LogHttp: Warning: 000001778E0D8680: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.195.227.190) port 443 (#108))
+[2020.02.03-15.00.38:504][888]LogHttp: Warning: 000001778E0D8680: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.02.03-15.00.38:504][888]LogHttp: Warning: 000001778E0D8680: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.02.03-15.00.38:504][888]LogHttp: Warning: 000001778E0D8680: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.02.03-15.00.38:504][888]LogHttp: Warning: 000001778E0D8680: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.02.03-15.00.38:504][888]LogHttp: Warning: 000001778E0D8680: libcurl info message cache 7 (Closing connection 108)
+[2020.02.03-15.00.38:528][889]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B54A01DF9-440F-BF23-0473-EE938D889D0B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=27f168ab478137365f5b54ae8e2d8bd1%7C93a69fc451024811897d26c901b30920%7C6ff73697-efb0-4d5f-a328-5126453eb80a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.03-15.05.00:895][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_WallA_02_20)
+[2020.02.03-15.12.38:718][179]LogHttp: Warning: 00000177BEEB51C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B54A01DF9-440F-BF23-0473-EE938D889D0B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=27f168ab478137365f5b54ae8e2d8bd1%7C93a69fc451024811897d26c901b30920%7C6ff73697-efb0-4d5f-a328-5126453eb80a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.02.03-15.12.38:718][179]LogHttp: Warning: 00000177BEEB51C0: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.02.03-15.12.38:718][179]LogHttp: Warning: 00000177BEEB51C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x176f9217f70 [can pipeline])
+[2020.02.03-15.12.38:718][179]LogHttp: Warning: 00000177BEEB51C0: libcurl info message cache 1 (Re-using existing connection! (#112) with host datarouter.ol.epicgames.com)
+[2020.02.03-15.12.38:718][179]LogHttp: Warning: 00000177BEEB51C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.236.207.251) port 443 (#112))
+[2020.02.03-15.12.38:718][179]LogHttp: Warning: 00000177BEEB51C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.02.03-15.12.38:718][179]LogHttp: Warning: 00000177BEEB51C0: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.02.03-15.12.38:718][179]LogHttp: Warning: 00000177BEEB51C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.02.03-15.12.38:718][179]LogHttp: Warning: 00000177BEEB51C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.02.03-15.12.38:719][179]LogHttp: Warning: 00000177BEEB51C0: libcurl info message cache 7 (Closing connection 112)
+[2020.02.03-15.12.38:719][179]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B54A01DF9-440F-BF23-0473-EE938D889D0B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=27f168ab478137365f5b54ae8e2d8bd1%7C93a69fc451024811897d26c901b30920%7C6ff73697-efb0-4d5f-a328-5126453eb80a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.03-15.13.29:562][522]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build canceled.
+[2020.02.03-15.13.30:648][522]Job has failed! Job is closed while Tasks are still RUNNING
+[2020.02.03-15.13.30:715][522]DumpUnbuiltLightIteractions
+[2020.02.03-15.13.30:716][522]Lights with unbuilt interactions: 28
+[2020.02.03-15.13.30:716][522]    Light PointLight_32
+[2020.02.03-15.13.30:716][522]    Light SpotLight6_9
+[2020.02.03-15.13.30:716][522]    Light SpotLight7
+[2020.02.03-15.13.30:716][522]    Light SpotLight8
+[2020.02.03-15.13.30:716][522]    Light SpotLight13_6
+[2020.02.03-15.13.30:716][522]    Light PointLight3_5
+[2020.02.03-15.13.30:716][522]    Light PointLight6
+[2020.02.03-15.13.30:716][522]    Light RectLight2_8
+[2020.02.03-15.13.30:716][522]    Light RectLight3_14
+[2020.02.03-15.13.30:716][522]    Light RectLight4_17
+[2020.02.03-15.13.30:716][522]    Light SpotLight4
+[2020.02.03-15.13.30:716][522]    Light PointLight10
+[2020.02.03-15.13.30:716][522]    Light PointLight2_2
+[2020.02.03-15.13.30:716][522]    Light RectLight5
+[2020.02.03-15.13.30:716][522]    Light PointLight4_8
+[2020.02.03-15.13.30:716][522]    Light SpotLight9
+[2020.02.03-15.13.30:717][522]    Light SpotLight2
+[2020.02.03-15.13.30:717][522]    Light SpotLight3
+[2020.02.03-15.13.30:717][522]    Light SpotLight5_21
+[2020.02.03-15.13.30:717][522]    Light PointLight7_27
+[2020.02.03-15.13.30:717][522]    Light PointLight8
+[2020.02.03-15.13.30:717][522]    Light PointLight9
+[2020.02.03-15.13.30:717][522]    Light DirectionalLight_3
+[2020.02.03-15.13.30:717][522]    Light SpotLight_1
+[2020.02.03-15.13.30:717][522]    Light SpotLight12_3
+[2020.02.03-15.13.30:717][522]    Light SpotLight11_3
+[2020.02.03-15.13.30:717][522]    Light SpotLight10
+[2020.02.03-15.13.30:717][522]    Light RectLight_5
+[2020.02.03-15.13.30:717][522]
+[2020.02.03-15.13.30:717][522]Primitives with unbuilt interactions: 317
+[2020.02.03-15.13.30:717][522]    Primitive FoliageInstancedStaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_5
+[2020.02.03-15.13.30:717][522]    Primitive FoliageInstancedStaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_3
+[2020.02.03-15.13.30:717][522]    Primitive FoliageInstancedStaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_2
+[2020.02.03-15.13.30:717][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallD_03_9.StaticMeshComponent0
+[2020.02.03-15.13.30:717][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallD_03_8.StaticMeshComponent0
+[2020.02.03-15.13.30:717][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallD_03_3.StaticMeshComponent0
+[2020.02.03-15.13.30:717][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallD_03_02_13.StaticMeshComponent0
+[2020.02.03-15.13.30:717][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallC_05.StaticMeshComponent0
+[2020.02.03-15.13.30:717][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_en_Roof_01_9.StaticMeshComponent0
+[2020.02.03-15.13.30:717][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Teulat.StaticMeshComponent0
+[2020.02.03-15.13.30:717][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_en_Roof_01_17.StaticMeshComponent0
+[2020.02.03-15.13.30:717][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallA_02_5.StaticMeshComponent0
+[2020.02.03-15.13.30:717][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallA_02_18.StaticMeshComponent0
+[2020.02.03-15.13.30:717][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallA_02_08_47.StaticMeshComponent0
+[2020.02.03-15.13.30:717][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallA_02_04_50.StaticMeshComponent0
+[2020.02.03-15.13.30:717][522]    Primitive LandscapeComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Landscape_1.LandscapeComponent_3
+[2020.02.03-15.13.30:717][522]    Primitive LandscapeComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Landscape_1.LandscapeComponent_1
+[2020.02.03-15.13.30:717][522]    Primitive LandscapeComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Landscape_1.LandscapeComponent_2
+[2020.02.03-15.13.30:717][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallA_02_19.StaticMeshComponent0
+[2020.02.03-15.13.30:717][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallA_02_15.StaticMeshComponent0
+[2020.02.03-15.13.30:717][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallA_02_14.StaticMeshComponent0
+[2020.02.03-15.13.30:717][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallA_02_13.StaticMeshComponent0
+[2020.02.03-15.13.30:717][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallA_02_12.StaticMeshComponent0
+[2020.02.03-15.13.30:717][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallA_02_11.StaticMeshComponent0
+[2020.02.03-15.13.30:717][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallA_02_10.StaticMeshComponent0
+[2020.02.03-15.13.30:717][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallA_03_03_30.StaticMeshComponent0
+[2020.02.03-15.13.30:717][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh79
+[2020.02.03-15.13.30:717][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh110
+[2020.02.03-15.13.30:717][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh108
+[2020.02.03-15.13.30:717][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallA_02_9.StaticMeshComponent0
+[2020.02.03-15.13.30:717][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallA_02_8.StaticMeshComponent0
+[2020.02.03-15.13.30:717][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallA_02_7.StaticMeshComponent0
+[2020.02.03-15.13.30:717][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallA_02_6.StaticMeshComponent0
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallA_02_38.StaticMeshComponent0
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallA_02_17.StaticMeshComponent0
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallA_02_57.StaticMeshComponent0
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallA_02_21.StaticMeshComponent0
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallA_03_4.StaticMeshComponent0
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_en_CartonBox_01_5.StaticMeshComponent0
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_en_CartonBox_01_4.StaticMeshComponent0
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_en_CartonBox_01_2.StaticMeshComponent0
+[2020.02.03-15.13.30:718][522]    Primitive LandscapeComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Landscape_1.LandscapeComponent_0
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh96
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh95
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh93
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh81
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh80
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh27
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh26
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh25
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh24
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh23
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh22
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallD_03_15.StaticMeshComponent0
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallD_03_14.StaticMeshComponent0
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallD_03_13.StaticMeshComponent0
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallD_03_12.StaticMeshComponent0
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallD_03_11.StaticMeshComponent0
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallD_03_10.StaticMeshComponent0
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.LavaSpill_65.StaticMeshComponent0
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh69
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh65
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh64
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh33
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_en_Roof_01_49.StaticMeshComponent0
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_en_Roof_01_15.StaticMeshComponent0
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_en_Roof_01_13.StaticMeshComponent0
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_en_Roof_01_12.StaticMeshComponent0
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_en_Roof_01_11.StaticMeshComponent0
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh94
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallD_03_7.StaticMeshComponent0
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallD_03_6.StaticMeshComponent0
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh74
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh28
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh21
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh19
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh66
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh61
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh60
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh59
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh57
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh34
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh32
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh5
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh70
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh71
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh72
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh73
+[2020.02.03-15.13.30:718][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_en_Roof_01_7.StaticMeshComponent0
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallA_02_3.StaticMeshComponent0
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh107
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh100
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh99
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh97
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh82
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh30
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh29
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh111
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh109
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh35
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh31
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.SM_WaterPlain2_Blueprint.StaticMeshComponent0
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Lava_3.StaticMeshComponent0
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh103
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh102
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh101
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh100
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh99
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh98
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh97
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh96
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh95
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh93
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh90
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh87
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh86
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh85
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh84
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh82
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh81
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh80
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh79
+[2020.02.03-15.13.30:719][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh76
+[2020.02.03-15.13.30:720][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh74
+[2020.02.03-15.13.30:720][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh30
+[2020.02.03-15.13.30:720][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh29
+[2020.02.03-15.13.30:720][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh28
+[2020.02.03-15.13.30:720][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh27
+[2020.02.03-15.13.30:720][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh26
+[2020.02.03-15.13.30:720][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh25
+[2020.02.03-15.13.30:720][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh24
+[2020.02.03-15.13.30:720][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh23
+[2020.02.03-15.13.30:720][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh22
+[2020.02.03-15.13.30:720][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh21
+[2020.02.03-15.13.30:720][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh20
+[2020.02.03-15.13.30:720][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh19
+[2020.02.03-15.13.30:720][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh18
+[2020.02.03-15.13.30:720][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh17
+[2020.02.03-15.13.30:720][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh16
+[2020.02.03-15.13.30:720][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh15
+[2020.02.03-15.13.30:720][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh14
+[2020.02.03-15.13.30:720][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh13
+[2020.02.03-15.13.30:720][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh12
+[2020.02.03-15.13.30:720][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh11
+[2020.02.03-15.13.30:720][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh10
+[2020.02.03-15.13.30:720][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh9
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh8
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh7
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh6
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh4
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh3
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh2
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh103
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh102
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh101
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh98
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh90
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh87
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh86
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh85
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh84
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh76
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh20
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh18
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh17
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh16
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh15
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh14
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh13
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh12
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh11
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh10
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh9
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh8
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh7
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh6
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh4
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh3
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh2
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh113
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh112
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh111
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh110
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh109
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh108
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh107
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh106
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh105
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh104
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh126
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh125
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh113
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh112
+[2020.02.03-15.13.30:721][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh106
+[2020.02.03-15.13.30:722][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh105
+[2020.02.03-15.13.30:722][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh104
+[2020.02.03-15.13.30:722][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallA_01_01_20.StaticMeshComponent0
+[2020.02.03-15.13.30:722][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh126
+[2020.02.03-15.13.30:722][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh125
+[2020.02.03-15.13.30:722][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh123
+[2020.02.03-15.13.30:722][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh122
+[2020.02.03-15.13.30:722][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh120
+[2020.02.03-15.13.30:722][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh119
+[2020.02.03-15.13.30:722][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh117
+[2020.02.03-15.13.30:722][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh114
+[2020.02.03-15.13.30:722][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh123
+[2020.02.03-15.13.30:722][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh122
+[2020.02.03-15.13.30:722][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh120
+[2020.02.03-15.13.30:722][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh119
+[2020.02.03-15.13.30:722][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh117
+[2020.02.03-15.13.30:722][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh114
+[2020.02.03-15.13.30:722][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh69
+[2020.02.03-15.13.30:722][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh68
+[2020.02.03-15.13.30:722][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh67
+[2020.02.03-15.13.30:722][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh66
+[2020.02.03-15.13.30:722][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh65
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh64
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh63
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh62
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh61
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh60
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh59
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh58
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh57
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh56
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh55
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh54
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh53
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh52
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh51
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh50
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh49
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh48
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh47
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh46
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh45
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh44
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh43
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh42
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh41
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh40
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh39
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh38
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh37
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh36
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh35
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh34
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh33
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh32
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh31
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh5
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh1
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh68
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh67
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh63
+[2020.02.03-15.13.30:723][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh62
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh58
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh56
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh55
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh54
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh53
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh52
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh51
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh50
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh49
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh48
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh47
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh46
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh45
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh44
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh43
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh42
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh41
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh40
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh39
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh38
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh37
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh36
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh1
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_en_Roof_01_06_41.StaticMeshComponent0
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallA_02_31.StaticMeshComponent0
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallA_02_05_27.StaticMeshComponent0
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_WallA_02_01_11.StaticMeshComponent0
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.sm_en_Manhole_01_01_63.StaticMeshComponent0
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh124
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh121
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh118
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh116
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh115
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh70
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh71
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh72
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh73
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh75
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh77
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh78
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh83
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh88
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh89
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh91
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh92
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh94
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh115
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh116
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh118
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh121
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_2.StaticMesh124
+[2020.02.03-15.13.30:724][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh75
+[2020.02.03-15.13.30:725][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh77
+[2020.02.03-15.13.30:725][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh78
+[2020.02.03-15.13.30:725][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh83
+[2020.02.03-15.13.30:725][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh88
+[2020.02.03-15.13.30:725][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh89
+[2020.02.03-15.13.30:725][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh91
+[2020.02.03-15.13.30:725][522]    Primitive StaticMeshComponent /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Factory_01_01.StaticMesh92
+[2020.02.03-15.13.32:653][523]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.03-15.13.32:669][523]MapCheck: New page: Prac1world - 3 feb. 2020 17:13:32
+[2020.02.03-15.13.32:679][523]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2020.02.03-15.13.32:697][523]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 41,603ms to complete.
+[2020.02.03-15.13.48:667][263]LogUObjectHash: Compacting FUObjectHashTables data took  66.95ms
+[2020.02.03-15.13.49:267][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.02.03-15.13.50:635][263]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Prac1worldB52928964D4BD3FEFFC2279508E8C79D.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/Prac1world.umap'
+[2020.02.03-15.13.50:672][263]LogFileHelpers: Saving map 'Prac1world' took 1.461
+[2020.02.03-15.13.50:697][263]AssetCheck: New page: Asset Save: Prac1world
+[2020.02.03-15.13.50:697][263]LogContentValidation: Display: Validating World /Game/Practica1/Prac1world.Prac1world
+[2020.02.03-15.13.51:361][284]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2020.02.03-15.13.51:772][284]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Prac1world091F1E164F4D0B3564BB7EAB5BB0973F.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/Prac1world.umap'
+[2020.02.03-15.13.51:807][284]AssetCheck: New page: Asset Save: Prac1world
+[2020.02.03-15.13.51:807][284]LogContentValidation: Display: Validating World /Game/Practica1/Prac1world.Prac1world
+[2020.02.03-15.13.53:013][332]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.02.03-15.13.53:059][332]LogSlate: Window 'Practica1 - Unreal Editor' being destroyed
+[2020.02.03-15.13.53:069][332]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.03-15.13.53:990][333]Cmd: QUIT_EDITOR
+[2020.02.03-15.13.53:990][333]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.02.03-15.13.54:038][333]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.02.03-15.13.54:038][333]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.03-15.13.55:047][333]LogExit: Preparing to exit.
+[2020.02.03-15.13.56:096][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:096][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:096][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:096][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:096][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:096][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:096][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:096][333]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-15.13.56:096][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:096][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:096][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:096][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:096][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:097][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:097][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:097][333]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-15.13.56:097][333]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-15.13.56:097][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:097][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:097][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:097][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:097][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:097][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:097][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:097][333]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-15.13.56:099][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:099][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:099][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:099][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:099][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:099][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:099][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:099][333]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-15.13.56:099][333]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-15.13.56:100][333]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-15.13.56:100][333]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-15.13.56:101][333]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-15.13.56:101][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:101][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:101][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:101][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:101][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:101][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:101][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:101][333]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-15.13.56:102][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:102][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:102][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:102][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:102][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:102][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:102][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:102][333]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-15.13.56:102][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:102][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:102][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:102][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:102][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:102][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:102][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:102][333]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-15.13.56:103][333]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-15.13.56:103][333]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-15.13.56:103][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:103][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:103][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:104][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:104][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:104][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:104][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:104][333]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-15.13.56:104][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:104][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:104][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:104][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:104][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:104][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:104][333]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.03-15.13.56:104][333]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-15.13.56:213][333]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.02.03-15.13.56:323][333]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-15.13.56:344][333]LogExit: Editor shut down
+[2020.02.03-15.13.56:350][333]LogExit: Transaction tracking system shut down
+[2020.02.03-15.13.58:502][333]LogExit: Object subsystem successfully closed.
+[2020.02.03-15.13.58:587][333]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.02.03-15.13.58:702][333]LogModuleManager: Shutting down and abandoning module PortalProxies (706)
+[2020.02.03-15.13.58:702][333]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (704)
+[2020.02.03-15.13.58:703][333]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (702)
+[2020.02.03-15.13.58:703][333]LogModuleManager: Shutting down and abandoning module Voice (700)
+[2020.02.03-15.13.58:703][333]LogModuleManager: Shutting down and abandoning module BlueprintGraph (698)
+[2020.02.03-15.13.58:705][333]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (696)
+[2020.02.03-15.13.58:705][333]LogModuleManager: Shutting down and abandoning module AddContentDialog (694)
+[2020.02.03-15.13.58:739][333]LogModuleManager: Shutting down and abandoning module WidgetCarousel (693)
+[2020.02.03-15.13.58:739][333]LogModuleManager: Shutting down and abandoning module EditorWidgets (690)
+[2020.02.03-15.13.58:739][333]LogModuleManager: Shutting down and abandoning module CollectionManager (688)
+[2020.02.03-15.13.58:740][333]LogModuleManager: Shutting down and abandoning module SceneOutliner (686)
+[2020.02.03-15.13.58:740][333]LogModuleManager: Shutting down and abandoning module StatsViewer (684)
+[2020.02.03-15.13.58:740][333]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (682)
+[2020.02.03-15.13.58:740][333]LogModuleManager: Shutting down and abandoning module FoliageEdit (680)
+[2020.02.03-15.13.58:740][333]LogModuleManager: Shutting down and abandoning module LandscapeEditor (678)
+[2020.02.03-15.13.58:742][333]LogModuleManager: Shutting down and abandoning module MeshPaintMode (676)
+[2020.02.03-15.13.58:742][333]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (674)
+[2020.02.03-15.13.58:742][333]LogModuleManager: Shutting down and abandoning module ActorPickerMode (672)
+[2020.02.03-15.13.58:742][333]LogModuleManager: Shutting down and abandoning module GeometryMode (670)
+[2020.02.03-15.13.58:742][333]LogModuleManager: Shutting down and abandoning module TextureAlignMode (668)
+[2020.02.03-15.13.58:742][333]LogModuleManager: Shutting down and abandoning module BspMode (666)
+[2020.02.03-15.13.58:742][333]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (664)
+[2020.02.03-15.13.58:743][333]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (662)
+[2020.02.03-15.13.58:743][333]LogModuleManager: Shutting down and abandoning module AutomationWorker (660)
+[2020.02.03-15.13.58:743][333]LogModuleManager: Shutting down and abandoning module SteamVREditor (658)
+[2020.02.03-15.13.58:744][333]LogModuleManager: Shutting down and abandoning module OculusMR (656)
+[2020.02.03-15.13.58:744][333]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (654)
+[2020.02.03-15.13.58:744][333]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (652)
+[2020.02.03-15.13.58:744][333]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (650)
+[2020.02.03-15.13.58:745][333]LogModuleManager: Shutting down and abandoning module PlacementMode (649)
+[2020.02.03-15.13.58:746][333]LogModuleManager: Shutting down and abandoning module MaterialEditor (648)
+[2020.02.03-15.13.58:746][333]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (644)
+[2020.02.03-15.13.58:746][333]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (642)
+[2020.02.03-15.13.58:746][333]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (640)
+[2020.02.03-15.13.58:746][333]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (638)
+[2020.02.03-15.13.58:746][333]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (636)
+[2020.02.03-15.13.58:746][333]LogModuleManager: Shutting down and abandoning module WebMMedia (634)
+[2020.02.03-15.13.58:747][333]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (632)
+[2020.02.03-15.13.58:747][333]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (630)
+[2020.02.03-15.13.58:747][333]LogModuleManager: Shutting down and abandoning module SequenceRecorder (629)
+[2020.02.03-15.13.58:747][333]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (626)
+[2020.02.03-15.13.58:747][333]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (624)
+[2020.02.03-15.13.58:747][333]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (622)
+[2020.02.03-15.13.58:747][333]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (620)
+[2020.02.03-15.13.58:747][333]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (618)
+[2020.02.03-15.13.58:747][333]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (616)
+[2020.02.03-15.13.58:747][333]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (614)
+[2020.02.03-15.13.58:747][333]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (612)
+[2020.02.03-15.13.58:747][333]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (610)
+[2020.02.03-15.13.58:747][333]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (608)
+[2020.02.03-15.13.58:747][333]LogModuleManager: Shutting down and abandoning module CharacterAI (606)
+[2020.02.03-15.13.58:747][333]LogModuleManager: Shutting down and abandoning module SmartSnapping (604)
+[2020.02.03-15.13.58:747][333]LogModuleManager: Shutting down and abandoning module SessionServices (602)
+[2020.02.03-15.13.58:747][333]LogModuleManager: Shutting down and abandoning module MeshPaint (600)
+[2020.02.03-15.13.58:747][333]LogModuleManager: Shutting down and abandoning module ViewportSnapping (598)
+[2020.02.03-15.13.58:747][333]LogModuleManager: Shutting down and abandoning module ViewportInteraction (596)
+[2020.02.03-15.13.58:747][333]LogModuleManager: Shutting down and abandoning module ClothPainter (594)
+[2020.02.03-15.13.58:747][333]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (593)
+[2020.02.03-15.13.58:747][333]LogModuleManager: Shutting down and abandoning module LogVisualizer (590)
+[2020.02.03-15.13.58:747][333]LogModuleManager: Shutting down and abandoning module IntroTutorials (588)
+[2020.02.03-15.13.58:750][333]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (587)
+[2020.02.03-15.13.58:750][333]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (584)
+[2020.02.03-15.13.58:750][333]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (582)
+[2020.02.03-15.13.58:750][333]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (580)
+[2020.02.03-15.13.58:750][333]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (579)
+[2020.02.03-15.14.00:195][333]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (576)
+[2020.02.03-15.14.00:195][333]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (574)
+[2020.02.03-15.14.00:195][333]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (572)
+[2020.02.03-15.14.00:195][333]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (570)
+[2020.02.03-15.14.00:195][333]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (568)
+[2020.02.03-15.14.00:195][333]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (566)
+[2020.02.03-15.14.00:195][333]LogModuleManager: Shutting down and abandoning module InputBindingEditor (564)
+[2020.02.03-15.14.00:195][333]LogModuleManager: Shutting down and abandoning module MergeActors (562)
+[2020.02.03-15.14.00:195][333]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (560)
+[2020.02.03-15.14.00:196][333]LogModuleManager: Shutting down and abandoning module LocalizationService (559)
+[2020.02.03-15.14.00:196][333]LogModuleManager: Shutting down and abandoning module HardwareTargeting (556)
+[2020.02.03-15.14.00:196][333]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (554)
+[2020.02.03-15.14.00:196][333]LogModuleManager: Shutting down and abandoning module UndoHistory (552)
+[2020.02.03-15.14.00:196][333]LogModuleManager: Shutting down and abandoning module XmlParser (550)
+[2020.02.03-15.14.00:196][333]LogModuleManager: Shutting down and abandoning module Blutility (548)
+[2020.02.03-15.14.00:196][333]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (546)
+[2020.02.03-15.14.00:197][333]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (545)
+[2020.02.03-15.14.00:198][333]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (542)
+[2020.02.03-15.14.00:198][333]LogModuleManager: Shutting down and abandoning module SettingsEditor (540)
+[2020.02.03-15.14.00:199][333]LogModuleManager: Shutting down and abandoning module ProjectLauncher (538)
+[2020.02.03-15.14.00:199][333]LogModuleManager: Shutting down and abandoning module SessionFrontend (536)
+[2020.02.03-15.14.00:199][333]LogModuleManager: Shutting down and abandoning module ProfilerClient (534)
+[2020.02.03-15.14.00:199][333]LogModuleManager: Shutting down and abandoning module DeviceManager (532)
+[2020.02.03-15.14.00:199][333]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (531)
+[2020.02.03-15.14.00:234][333]LogModuleManager: Shutting down and abandoning module AutomationController (528)
+[2020.02.03-15.14.00:234][333]LogModuleManager: Shutting down and abandoning module AutomationWindow (526)
+[2020.02.03-15.14.00:234][333]LogModuleManager: Shutting down and abandoning module Layers (524)
+[2020.02.03-15.14.00:234][333]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (522)
+[2020.02.03-15.14.00:234][333]LogModuleManager: Shutting down and abandoning module DetailCustomizations (520)
+[2020.02.03-15.14.00:234][333]LogModuleManager: Shutting down and abandoning module PackagesDialog (518)
+[2020.02.03-15.14.00:235][333]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (516)
+[2020.02.03-15.14.00:235][333]LogModuleManager: Shutting down and abandoning module Persona (514)
+[2020.02.03-15.14.00:236][333]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (513)
+[2020.02.03-15.14.00:236][333]LogModuleManager: Shutting down and abandoning module AnimGraph (511)
+[2020.02.03-15.14.00:236][333]LogModuleManager: Shutting down and abandoning module Kismet (508)
+[2020.02.03-15.14.00:309][333]LogModuleManager: Shutting down and abandoning module KismetWidgets (507)
+[2020.02.03-15.14.00:309][333]LogModuleManager: Shutting down and abandoning module GraphEditor (504)
+[2020.02.03-15.14.00:312][333]LogModuleManager: Shutting down and abandoning module StructViewer (502)
+[2020.02.03-15.14.00:312][333]LogModuleManager: Shutting down and abandoning module ClassViewer (500)
+[2020.02.03-15.14.00:329][333]LogModuleManager: Shutting down and abandoning module Toolbox (498)
+[2020.02.03-15.14.00:329][333]LogModuleManager: Shutting down and abandoning module ModuleUI (496)
+[2020.02.03-15.14.00:329][333]LogModuleManager: Shutting down and abandoning module OutputLog (494)
+[2020.02.03-15.14.00:549][333]LogModuleManager: Shutting down and abandoning module GammaUI (492)
+[2020.02.03-15.14.00:549][333]LogModuleManager: Shutting down and abandoning module Documentation (490)
+[2020.02.03-15.14.00:594][333]LogModuleManager: Shutting down and abandoning module ToolMenus (488)
+[2020.02.03-15.14.00:594][333]LogModuleManager: Shutting down and abandoning module LiveCoding (486)
+[2020.02.03-15.14.00:595][333]LogModuleManager: Shutting down and abandoning module LevelSequence (484)
+[2020.02.03-15.14.00:595][333]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (482)
+[2020.02.03-15.14.00:595][333]LogModuleManager: Shutting down and abandoning module MovieScene (480)
+[2020.02.03-15.14.00:595][333]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (478)
+[2020.02.03-15.14.00:595][333]LogModuleManager: Shutting down and abandoning module LauncherPlatform (476)
+[2020.02.03-15.14.00:595][333]LogModuleManager: Shutting down and abandoning module AnalyticsET (474)
+[2020.02.03-15.14.00:595][333]LogModuleManager: Shutting down and abandoning module PortalServices (472)
+[2020.02.03-15.14.00:595][333]LogModuleManager: Shutting down and abandoning module PortalRpc (470)
+[2020.02.03-15.14.00:595][333]LogModuleManager: Shutting down and abandoning module MessagingRpc (468)
+[2020.02.03-15.14.00:595][333]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (466)
+[2020.02.03-15.14.00:595][333]LogModuleManager: Shutting down and abandoning module AIModule (464)
+[2020.02.03-15.14.00:596][333]LogModuleManager: Shutting down and abandoning module GameplayDebugger (463)
+[2020.02.03-15.14.00:596][333]LogModuleManager: Shutting down and abandoning module AITestSuite (461)
+[2020.02.03-15.14.00:596][333]LogModuleManager: Shutting down and abandoning module NavigationSystem (459)
+[2020.02.03-15.14.00:596][333]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (456)
+[2020.02.03-15.14.00:602][333]LogModuleManager: Shutting down and abandoning module ProfilerService (454)
+[2020.02.03-15.14.00:651][333]LogModuleManager: Shutting down and abandoning module TaskGraph (452)
+[2020.02.03-15.14.00:651][333]LogModuleManager: Shutting down and abandoning module ScreenshotTools (450)
+[2020.02.03-15.14.00:651][333]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (448)
+[2020.02.03-15.14.00:651][333]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (446)
+[2020.02.03-15.14.00:651][333]LogModuleManager: Shutting down and abandoning module OculusEditor (444)
+[2020.02.03-15.14.00:651][333]LogModuleManager: Shutting down and abandoning module OculusInput (442)
+[2020.02.03-15.14.00:651][333]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (440)
+[2020.02.03-15.14.00:652][333]LogModuleManager: Shutting down and abandoning module EditableMesh (438)
+[2020.02.03-15.14.00:652][333]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (436)
+[2020.02.03-15.14.00:652][333]LogModuleManager: Shutting down and abandoning module CableComponent (434)
+[2020.02.03-15.14.00:652][333]LogModuleManager: Shutting down and abandoning module AudioCapture (432)
+[2020.02.03-15.14.00:652][333]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (431)
+[2020.02.03-15.14.00:652][333]LogModuleManager: Shutting down and abandoning module AssetTags (428)
+[2020.02.03-15.14.00:652][333]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (426)
+[2020.02.03-15.14.00:652][333]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (424)
+[2020.02.03-15.14.00:652][333]LogModuleManager: Shutting down and abandoning module AppleImageUtils (422)
+[2020.02.03-15.14.00:652][333]LogModuleManager: Shutting down and abandoning module AndroidPermission (420)
+[2020.02.03-15.14.00:652][333]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (418)
+[2020.02.03-15.14.00:652][333]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (416)
+[2020.02.03-15.14.00:652][333]LogModuleManager: Shutting down and abandoning module MediaCompositing (414)
+[2020.02.03-15.14.00:652][333]LogModuleManager: Shutting down and abandoning module ImgMedia (412)
+[2020.02.03-15.14.00:652][333]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (410)
+[2020.02.03-15.14.00:652][333]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (408)
+[2020.02.03-15.14.00:652][333]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (406)
+[2020.02.03-15.14.00:652][333]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (404)
+[2020.02.03-15.14.00:652][333]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (402)
+[2020.02.03-15.14.00:652][333]LogModuleManager: Shutting down and abandoning module BackChannel (400)
+[2020.02.03-15.14.00:652][333]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (398)
+[2020.02.03-15.14.00:652][333]LogModuleManager: Shutting down and abandoning module AutomationUtils (396)
+[2020.02.03-15.14.00:652][333]LogModuleManager: Shutting down and abandoning module AlembicImporter (394)
+[2020.02.03-15.14.00:653][333]LogModuleManager: Shutting down and abandoning module AlembicLibrary (393)
+[2020.02.03-15.14.00:653][333]LogModuleManager: Shutting down and abandoning module GeometryCache (392)
+[2020.02.03-15.14.00:653][333]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (391)
+[2020.02.03-15.14.00:653][333]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (386)
+[2020.02.03-15.14.00:653][333]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (384)
+[2020.02.03-15.14.00:653][333]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (382)
+[2020.02.03-15.14.00:653][333]LogModuleManager: Shutting down and abandoning module PluginBrowser (380)
+[2020.02.03-15.14.00:653][333]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (378)
+[2020.02.03-15.14.00:653][333]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (376)
+[2020.02.03-15.14.00:653][333]LogModuleManager: Shutting down and abandoning module CurveEditorTools (374)
+[2020.02.03-15.14.00:653][333]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (372)
+[2020.02.03-15.14.00:653][333]LogModuleManager: Shutting down and abandoning module CryptoKeys (370)
+[2020.02.03-15.14.00:653][333]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (368)
+[2020.02.03-15.14.00:653][333]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (366)
+[2020.02.03-15.14.00:653][333]LogModuleManager: Shutting down and abandoning module UObjectPlugin (364)
+[2020.02.03-15.14.00:654][333]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (362)
+[2020.02.03-15.14.00:654][333]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (360)
+[2020.02.03-15.14.00:654][333]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (358)
+[2020.02.03-15.14.00:654][333]LogModuleManager: Shutting down and abandoning module GitSourceControl (356)
+[2020.02.03-15.14.00:654][333]LogModuleManager: Shutting down and abandoning module SourceControl (355)
+[2020.02.03-15.14.00:655][333]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (352)
+[2020.02.03-15.14.00:655][333]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (350)
+[2020.02.03-15.14.00:655][333]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (348)
+[2020.02.03-15.14.00:655][333]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (346)
+[2020.02.03-15.14.00:655][333]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (344)
+[2020.02.03-15.14.00:655][333]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (342)
+[2020.02.03-15.14.00:655][333]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (340)
+[2020.02.03-15.14.00:655][333]LogModuleManager: Shutting down and abandoning module Paper2DEditor (338)
+[2020.02.03-15.14.00:656][333]LogModuleManager: Shutting down and abandoning module SignificanceManager (336)
+[2020.02.03-15.14.00:656][333]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (334)
+[2020.02.03-15.14.00:656][333]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2020.02.03-15.14.00:656][333]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2020.02.03-15.14.00:656][333]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.02.03-15.14.00:656][333]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2020.02.03-15.14.00:756][333]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2020.02.03-15.14.00:858][333]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2020.02.03-15.14.00:858][333]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2020.02.03-15.14.00:858][333]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.02.03-15.14.00:858][333]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2020.02.03-15.14.00:858][333]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2020.02.03-15.14.00:858][333]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2020.02.03-15.14.00:858][333]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2020.02.03-15.14.00:858][333]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2020.02.03-15.14.00:858][333]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2020.02.03-15.14.00:858][333]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2020.02.03-15.14.00:859][333]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.02.03-15.14.00:861][333]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2020.02.03-15.14.00:861][333]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2020.02.03-15.14.00:861][333]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2020.02.03-15.14.00:861][333]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2020.02.03-15.14.00:862][333]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2020.02.03-15.14.00:862][333]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2020.02.03-15.14.00:862][333]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2020.02.03-15.14.00:862][333]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2020.02.03-15.14.00:862][333]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2020.02.03-15.14.00:868][333]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2020.02.03-15.14.00:868][333]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2020.02.03-15.14.00:869][333]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2020.02.03-15.14.00:869][333]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2020.02.03-15.14.00:869][333]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2020.02.03-15.14.00:875][333]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2020.02.03-15.14.00:875][333]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.02.03-15.14.00:875][333]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.02.03-15.14.00:875][333]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.02.03-15.14.00:875][333]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.02.03-15.14.00:911][333]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.02.03-15.14.00:911][333]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.02.03-15.14.00:911][333]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.02.03-15.14.00:911][333]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.02.03-15.14.00:911][333]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.02.03-15.14.00:912][333]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.02.03-15.14.00:912][333]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.02.03-15.14.00:913][333]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.02.03-15.14.00:913][333]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.02.03-15.14.00:913][333]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.02.03-15.14.00:913][333]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.02.03-15.14.00:913][333]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.02.03-15.14.00:913][333]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.02.03-15.14.00:913][333]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.02.03-15.14.00:913][333]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.02.03-15.14.00:913][333]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.02.03-15.14.00:913][333]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.02.03-15.14.00:913][333]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.02.03-15.14.00:913][333]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.02.03-15.14.00:913][333]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.02.03-15.14.00:913][333]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.02.03-15.14.00:913][333]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.02.03-15.14.00:913][333]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.02.03-15.14.00:913][333]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.02.03-15.14.00:913][333]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.02.03-15.14.00:913][333]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.02.03-15.14.00:913][333]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.02.03-15.14.00:913][333]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.02.03-15.14.00:913][333]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.02.03-15.14.00:913][333]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.02.03-15.14.00:913][333]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.02.03-15.14.00:913][333]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.02.03-15.14.00:914][333]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.02.03-15.14.00:928][333]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.02.03-15.14.00:928][333]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.02.03-15.14.00:929][333]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.02.03-15.14.00:929][333]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.02.03-15.14.00:929][333]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.02.03-15.14.00:929][333]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.02.03-15.14.00:929][333]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.02.03-15.14.00:929][333]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.02.03-15.14.00:929][333]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.02.03-15.14.00:929][333]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.02.03-15.14.00:929][333]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.02.03-15.14.00:929][333]LogDerivedDataCache: Shutdown
+[2020.02.03-15.14.00:929][333]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.02.03-15.14.00:929][333]LogXGEController: Cleaning working directory: C:/Users/mire-/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.03-15.14.00:931][333]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.02.03-15.14.00:931][333]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.02.03-15.14.00:932][333]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.02.03-15.14.00:932][333]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.02.03-15.14.00:932][333]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.02.03-15.14.00:933][333]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.02.03-15.14.00:933][333]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.02.03-15.14.00:933][333]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.02.03-15.14.00:934][333]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.02.03-15.14.00:934][333]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.02.03-15.14.00:935][333]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.02.03-15.14.00:936][333]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.02.03-15.14.00:936][333]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.02.03-15.14.00:936][333]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.02.03-15.14.00:937][333]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.02.03-15.14.00:937][333]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.02.03-15.14.00:937][333]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.02.03-15.14.00:937][333]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.02.03-15.14.00:937][333]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.02.03-15.14.00:937][333]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.02.03-15.14.00:937][333]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.02.03-15.14.00:981][333]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.02.03-15.14.00:998][333]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.02.03-15.14.00:998][333]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.02.03-15.14.00:998][333]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.02.03-15.14.00:998][333]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.02.03-15.14.00:998][333]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.02.03-15.14.00:998][333]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.02.03-15.14.00:998][333]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.02.03-15.14.00:998][333]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.02.03-15.14.01:004][333]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.02.03-15.14.01:072][333]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.02.03-15.14.01:072][333]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.02.03-15.14.01:072][333]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.02.03-15.14.01:073][333]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.02.03-15.14.01:075][333]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.02.03-15.14.01:075][333]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.02.03-15.14.01:075][333]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.02.03-15.14.01:075][333]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.02.03-15.14.01:075][333]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.02.03-15.14.01:075][333]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.02.03-15.14.01:075][333]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.02.03-15.14.01:075][333]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.02.03-15.14.01:075][333]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.02.03-15.14.01:075][333]LogHMD: Freeing OpenVRDLLHandle.
+[2020.02.03-15.14.01:075][333]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.02.03-15.14.01:075][333]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.02.03-15.14.01:075][333]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.02.03-15.14.01:075][333]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.02.03-15.14.01:075][333]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.02.03-15.14.01:079][333]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.02.03-15.14.01:080][333]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.02.03-15.14.01:097][333]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.02.03-15.14.01:097][333]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.02.03-15.14.01:097][333]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B54A01DF9-440F-BF23-0473-EE938D889D0B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=27f168ab478137365f5b54ae8e2d8bd1%7C93a69fc451024811897d26c901b30920%7C6ff73697-efb0-4d5f-a328-5126453eb80a&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.02.03-15.14.01:129][333]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.02.03-15.14.01:137][333]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.02.03-15.14.01:140][333]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.02.03-15.14.01:141][333]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.02.03-15.14.01:141][333]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.02.03-15.14.01:141][333]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.02.03-15.14.01:142][333]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.02.03-15.14.01:142][333]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.02.03-15.14.01:142][333]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.02.03-15.14.01:142][333]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.02.03-15.14.01:142][333]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.02.03-15.14.01:142][333]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.02.03-15.14.01:142][333]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.02.03-15.14.01:144][333]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.02.03-15.14.01:147][333]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.02.03-15.14.01:147][333]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.02.03-15.14.01:147][333]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.02.03-15.14.01:147][333]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.02.03-15.14.01:200][333]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.02.03-15.14.01:200][333]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.02.03-15.14.01:200][333]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.02.03-15.14.01:200][333]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.02.03-15.14.01:200][333]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.02.03-15.14.01:200][333]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.02.03-15.14.01:200][333]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.02.03-15.14.01:200][333]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.02.03-15.14.01:200][333]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.02.03-15.14.01:200][333]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.02.03-15.14.01:200][333]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.02.03-15.14.01:200][333]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.02.03-15.14.01:295][333]LogD3D11RHI: Shutdown
+[2020.02.03-15.14.01:295][333]LogD3D11RHI: CleanupD3DDevice
+[2020.02.03-15.14.01:355][333]LogExit: Exiting.
+[2020.02.03-15.14.01:403][333]Log file closed, 02/03/20 16:14:01
