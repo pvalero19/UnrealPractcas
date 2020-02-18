@@ -1778,3 +1778,1048 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.18-18.16.06:281][ 44]LogAudioMixer: Display: No commands were queued while flushing the source manager.
 [2020.02.18-18.16.06:298][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
 [2020.02.18-18.16.06:321][ 45]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2020.02.18-18.20.06:425][  5]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.02.18-18.20.06:434][  5]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.02.18-18.20.06:501][  5]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.20.06:501][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.20.06:518][  5]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.20.06:518][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.20.06:772][  5]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.20.06:772][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.20.08:455][ 83]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.18-18.20.08:467][ 83]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Practica1/MenuPrincipal.MenuPrincipal:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/MenuPrincipal.MenuPrincipal:PersistentLevel.MenuPrincipal' with GeneratedClass '/Game/Practica1/MenuPrincipal.MenuPrincipal_C' with ClassGeneratedBy '/Game/Practica1/MenuPrincipal.MenuPrincipal:PersistentLevel.MenuPrincipal'
+[2020.02.18-18.20.08:467][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.18-18.20.08:467][ 83]PIE: New page: PIE session: MenuPrincipal (18 feb. 2020 20:20:08)
+[2020.02.18-18.20.08:467][ 83]LogPlayLevel: Creating play world package: /Game/Practica1/UEDPIE_0_MenuPrincipal
+[2020.02.18-18.20.08:469][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001210s)
+[2020.02.18-18.20.08:469][ 83]LogAIModule: Creating AISystem for world MenuPrincipal
+[2020.02.18-18.20.08:470][ 83]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2020.02.18-18.20.08:470][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Practica1/MenuPrincipal.MenuPrincipal to /Game/Practica1/UEDPIE_0_MenuPrincipal.MenuPrincipal (0.002160s)
+[2020.02.18-18.20.08:513][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.02.18-18.20.08:533][ 83]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.18-18.20.08:533][ 83]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.18-18.20.08:533][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.18-18.20.08:533][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.18-18.20.08:533][ 83]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.18-18.20.08:533][ 83]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.18-18.20.08:533][ 83]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.18-18.20.08:533][ 83]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.18-18.20.08:534][ 83]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.18-18.20.08:534][ 83]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.18-18.20.08:543][ 83]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.18-18.20.08:544][ 83]LogAudioMixer: Display: Name: Altavoces (2- Realtek(R) Audio)
+[2020.02.18-18.20.08:544][ 83]LogAudioMixer: Display: Is Default: Yes
+[2020.02.18-18.20.08:544][ 83]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.18-18.20.08:544][ 83]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.18-18.20.08:544][ 83]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.18-18.20.08:544][ 83]LogAudioMixer: Display: Channel Order:
+[2020.02.18-18.20.08:544][ 83]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.18-18.20.08:544][ 83]LogAudioMixer: Display: 1: FrontRight
+[2020.02.18-18.20.08:552][ 83]LogAudioMixer: Display: Using Audio Device Altavoces (2- Realtek(R) Audio)
+[2020.02.18-18.20.08:553][ 83]LogInit: FAudioDevice initialized.
+[2020.02.18-18.20.08:609][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.18-18.20.08:610][ 83]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.18-18.20.08:611][ 83]LogWorld: Bringing World /Game/Practica1/UEDPIE_0_MenuPrincipal.MenuPrincipal up for play (max tick rate 60) at 2020.02.18-19.20.08
+[2020.02.18-18.20.08:611][ 83]LogWorld: Bringing up level for play took: 0.000442
+[2020.02.18-18.20.08:611][ 83]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2020.02.18-18.20.08:614][ 83]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.02.18-18.20.08:615][ 83]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.02.18-18.20.08:616][ 83]PIE: Play in editor start time for /Game/Practica1/UEDPIE_0_MenuPrincipal 0,53
+[2020.02.18-18.20.08:616][ 83]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Practica1/MenuPrincipal.MenuPrincipal:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/MenuPrincipal.MenuPrincipal:PersistentLevel.MenuPrincipal' with GeneratedClass '/Game/Practica1/MenuPrincipal.MenuPrincipal_C' with ClassGeneratedBy '/Game/Practica1/MenuPrincipal.MenuPrincipal:PersistentLevel.MenuPrincipal'
+[2020.02.18-18.20.09:635][143]LogNet: Browse: /Game/Practica1/Prac1world
+[2020.02.18-18.20.09:635][143]LogLoad: LoadMap: /Game/Practica1/Prac1world
+[2020.02.18-18.20.09:635][143]LogWorld: BeginTearingDown for /Game/Practica1/UEDPIE_0_MenuPrincipal
+[2020.02.18-18.20.09:635][143]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.20.09:635][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.20.09:635][143]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.18-18.20.09:672][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.02.18-18.20.09:808][143]LogAIModule: Creating AISystem for world Prac1world
+[2020.02.18-18.20.09:808][143]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.18-18.20.09:864][143]LogWorld: Bringing World /Game/Practica1/UEDPIE_0_Prac1world.Prac1world up for play (max tick rate 60) at 2020.02.18-19.20.09
+[2020.02.18-18.20.09:864][143]LogWorld: Bringing up level for play took: 0.054974
+[2020.02.18-18.20.09:865][143]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.02.18-18.20.09:866][143]LogLoad: Took 0.231146 seconds to LoadMap(/Game/Practica1/Prac1world)
+[2020.02.18-18.20.18:208][633]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.18-18.20.18:218][633]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.18-18.20.18:239][633]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.18-18.20.18:239][633]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Practica1/MenuPrincipal.MenuPrincipal:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/MenuPrincipal.MenuPrincipal:PersistentLevel.MenuPrincipal' with GeneratedClass '/Game/Practica1/MenuPrincipal.MenuPrincipal_C' with ClassGeneratedBy '/Game/Practica1/MenuPrincipal.MenuPrincipal:PersistentLevel.MenuPrincipal'
+[2020.02.18-18.20.18:239][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.18-18.20.18:239][633]LogWorld: BeginTearingDown for /Game/Practica1/UEDPIE_0_Prac1world
+[2020.02.18-18.20.18:248][633]LogSlate: Window 'Practica1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.18-18.20.18:254][633]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.18-18.20.18:254][633]LogWorld: UWorld::CleanupWorld for Prac1world, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.20.18:257][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.20.18:267][633]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.18-18.20.18:267][633]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Practica1/MenuPrincipal.MenuPrincipal:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/MenuPrincipal.MenuPrincipal:PersistentLevel.MenuPrincipal' with GeneratedClass '/Game/Practica1/MenuPrincipal.MenuPrincipal_C' with ClassGeneratedBy '/Game/Practica1/MenuPrincipal.MenuPrincipal:PersistentLevel.MenuPrincipal'
+[2020.02.18-18.20.18:272][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.20.18:303][633]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.18-18.20.18:313][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.02.18-18.20.18:330][634]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2020.02.18-18.22.02:182][ 81]LogAIModule: Creating AISystem for world Prac1world
+[2020.02.18-18.22.02:221][ 81]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Practica1/Prac1world.Prac1world
+[2020.02.18-18.22.02:287][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.02.18-18.22.03:630][ 81]LogSlate: Window 'Save Content' being destroyed
+[2020.02.18-18.22.03:652][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Prac2/MenuPausa" FILE="../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/Prac2/MenuPausa.uasset" SILENT=true
+[2020.02.18-18.22.03:663][ 81]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/MenuPausa466BC6E546DDD3EC05F6F0AA9EAC43B2.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/Prac2/MenuPausa.uasset'
+[2020.02.18-18.22.03:665][ 81]Cmd: MAP LOAD FILE="../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/Prac1world.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.18-18.22.03:665][ 81]LightingResults: New page: Lighting Build
+[2020.02.18-18.22.03:665][ 81]LoadErrors: New page: Loading map: Prac1world.umap
+[2020.02.18-18.22.03:666][ 81]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.22.03:666][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.22.03:666][ 81]MapCheck: New page: Map Check
+[2020.02.18-18.22.03:666][ 81]LightingResults: New page: Lighting Build
+[2020.02.18-18.22.03:704][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.02.18-18.22.03:904][ 81]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.18-18.22.03:944][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.02.18-18.22.03:960][ 81]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.18-18.22.03:960][ 81]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,116ms to complete.
+[2020.02.18-18.22.03:960][ 81]LogFileHelpers: Loading map 'Prac1world' took 0.295
+[2020.02.18-18.22.04:009][ 81]AssetCheck: New page: Asset Save: MenuPausa
+[2020.02.18-18.22.04:009][ 81]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Prac2/MenuPausa.MenuPausa
+[2020.02.18-18.22.13:441][628]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Prac2/MenuPausa.MenuPausa
+[2020.02.18-18.28.20:577][200]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.18-18.28.20:595][200]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.18-18.28.43:111][580]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world
+[2020.02.18-18.29.39:779][232]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.18-18.30.11:118][590]BlueprintLog: New page: Compile Prac1world
+[2020.02.18-18.30.11:129][590]LogBlueprint: Error: [Compiler PersistentLevel.Prac1world] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2020.02.18-18.30.11:807][590]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2020.02.18-18.30.11:951][590]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.02.18-18.30.11:962][590]LogBlueprint: Error: [Compiler PersistentLevel.Prac1world] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2020.02.18-18.30.12:368][590]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Prac1world6A2D9E4E48D2C72D6682E8908436EA5A.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/Prac1world.umap'
+[2020.02.18-18.30.12:392][590]LogFileHelpers: Saving map 'Prac1world' took 0.534
+[2020.02.18-18.30.12:416][590]AssetCheck: New page: Asset Save: Prac1world
+[2020.02.18-18.30.12:416][590]LogContentValidation: Display: Validating World /Game/Practica1/Prac1world.Prac1world
+[2020.02.18-18.30.12:911][605]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.02.18-18.30.12:917][605]LogBlueprint: Error: [Compiler PersistentLevel.Prac1world] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2020.02.18-18.30.13:301][605]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Prac1world6EC03352408DBEF8231700A9352EC997.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/Prac1world.umap'
+[2020.02.18-18.30.13:320][605]LogFileHelpers: Saving map 'Prac1world' took 0.458
+[2020.02.18-18.30.13:339][605]AssetCheck: New page: Asset Save: Prac1world
+[2020.02.18-18.30.13:339][605]LogContentValidation: Display: Validating World /Game/Practica1/Prac1world.Prac1world
+[2020.02.18-18.30.34:384][800]LogHttp: Warning: 000001E8188BCCC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCB0FFE7F-41AC-1557-B13C-ADB766A1C9DA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=27f168ab478137365f5b54ae8e2d8bd1%7C93a69fc451024811897d26c901b30920%7C6ff73697-efb0-4d5f-a328-5126453eb80a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.02.18-18.30.34:384][800]LogHttp: Warning: 000001E8188BCCC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.02.18-18.30.34:386][800]LogHttp: Warning: 000001E8188BCCC0: libcurl info message cache 0 (Connection 25 seems to be dead!)
+[2020.02.18-18.30.34:386][800]LogHttp: Warning: 000001E8188BCCC0: libcurl info message cache 1 (Closing connection 25)
+[2020.02.18-18.30.34:386][800]LogHttp: Warning: 000001E8188BCCC0: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.02.18-18.30.34:386][800]LogHttp: Warning: 000001E8188BCCC0: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.02.18-18.30.34:386][800]LogHttp: Warning: 000001E8188BCCC0: libcurl info message cache 4 (Closing connection 26)
+[2020.02.18-18.30.34:714][801]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCB0FFE7F-41AC-1557-B13C-ADB766A1C9DA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=27f168ab478137365f5b54ae8e2d8bd1%7C93a69fc451024811897d26c901b30920%7C6ff73697-efb0-4d5f-a328-5126453eb80a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.18-18.31.43:147][673]BlueprintLog: New page: Compile Prac1world
+[2020.02.18-18.31.43:449][673]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.02.18-18.31.43:958][692]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.02.18-18.31.44:340][692]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Prac1world6074FB9D445D518F8D89D6A0750B7BB3.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/Prac1world.umap'
+[2020.02.18-18.31.44:359][692]LogFileHelpers: Saving map 'Prac1world' took 0.450
+[2020.02.18-18.31.44:378][692]AssetCheck: New page: Asset Save: Prac1world
+[2020.02.18-18.31.44:378][692]LogContentValidation: Display: Validating World /Game/Practica1/Prac1world.Prac1world
+[2020.02.18-18.32.53:693][308]BlueprintLog: New page: Compile Prac1world
+[2020.02.18-18.32.53:996][308]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.02.18-18.32.54:421][322]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.02.18-18.32.54:792][322]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Prac1world953E5854486A96C43F52CA9CA7B93F48.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/Prac1world.umap'
+[2020.02.18-18.32.54:810][322]LogFileHelpers: Saving map 'Prac1world' took 0.435
+[2020.02.18-18.32.54:829][322]AssetCheck: New page: Asset Save: Prac1world
+[2020.02.18-18.32.54:829][322]LogContentValidation: Display: Validating World /Game/Practica1/Prac1world.Prac1world
+[2020.02.18-18.33.36:435][384]BlueprintLog: New page: Compile Prac1world
+[2020.02.18-18.33.36:733][384]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.02.18-18.33.37:278][402]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.02.18-18.33.37:675][402]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Prac1world18B0CFA44D605D1D0E0E6E823B4BB5D2.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/Prac1world.umap'
+[2020.02.18-18.33.37:695][402]LogFileHelpers: Saving map 'Prac1world' took 0.457
+[2020.02.18-18.33.37:715][402]AssetCheck: New page: Asset Save: Prac1world
+[2020.02.18-18.33.37:716][402]LogContentValidation: Display: Validating World /Game/Practica1/Prac1world.Prac1world
+[2020.02.18-18.33.40:365][529]BlueprintLog: New page: Compile MenuPausa
+[2020.02.18-18.33.40:423][529]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.02.18-18.33.41:023][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Prac2/MenuPausa" FILE="../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/Prac2/MenuPausa.uasset" SILENT=true
+[2020.02.18-18.33.41:034][554]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/MenuPausaAE545884482247F8EDB5C9B73CBA604B.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/Prac2/MenuPausa.uasset'
+[2020.02.18-18.33.41:057][554]AssetCheck: New page: Asset Save: MenuPausa
+[2020.02.18-18.33.41:057][554]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Prac2/MenuPausa.MenuPausa
+[2020.02.18-18.33.47:151][901]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.18-18.33.47:166][901]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.02.18-18.33.47:166][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.18-18.33.47:166][901]PIE: New page: PIE session: Prac1world (18 feb. 2020 20:33:47)
+[2020.02.18-18.33.47:166][901]LogPlayLevel: Creating play world package: /Game/Practica1/UEDPIE_0_Prac1world
+[2020.02.18-18.33.47:278][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.112454s)
+[2020.02.18-18.33.47:279][901]LogAIModule: Creating AISystem for world Prac1world
+[2020.02.18-18.33.47:279][901]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2020.02.18-18.33.47:279][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Practica1/Prac1world.Prac1world to /Game/Practica1/UEDPIE_0_Prac1world.Prac1world (0.113623s)
+[2020.02.18-18.33.47:319][901]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.02.18-18.33.47:320][901]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.18-18.33.47:320][901]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.18-18.33.47:320][901]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.18-18.33.47:320][901]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.18-18.33.47:320][901]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.18-18.33.47:320][901]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.18-18.33.47:320][901]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.18-18.33.47:320][901]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.18-18.33.47:321][901]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.18-18.33.47:321][901]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.18-18.33.47:333][901]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.18-18.33.47:333][901]LogAudioMixer: Display: Name: Altavoces (2- Realtek(R) Audio)
+[2020.02.18-18.33.47:333][901]LogAudioMixer: Display: Is Default: Yes
+[2020.02.18-18.33.47:333][901]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.18-18.33.47:333][901]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.18-18.33.47:333][901]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.18-18.33.47:333][901]LogAudioMixer: Display: Channel Order:
+[2020.02.18-18.33.47:333][901]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.18-18.33.47:333][901]LogAudioMixer: Display: 1: FrontRight
+[2020.02.18-18.33.47:342][901]LogAudioMixer: Display: Using Audio Device Altavoces (2- Realtek(R) Audio)
+[2020.02.18-18.33.47:347][901]LogInit: FAudioDevice initialized.
+[2020.02.18-18.33.47:400][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.18-18.33.47:401][901]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.18-18.33.47:421][901]LogWorld: Bringing World /Game/Practica1/UEDPIE_0_Prac1world.Prac1world up for play (max tick rate 60) at 2020.02.18-19.33.47
+[2020.02.18-18.33.47:423][901]LogWorld: Bringing up level for play took: 0.019337
+[2020.02.18-18.33.47:423][901]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2020.02.18-18.33.47:426][901]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.02.18-18.33.47:431][901]PIE: Play in editor start time for /Game/Practica1/UEDPIE_0_Prac1world -0,655
+[2020.02.18-18.33.47:431][901]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.02.18-18.33.51:908][162]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.02.18-18.33.58:916][579]LogSlate: Window 'Practica1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.18-18.33.58:923][579]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.02.18-18.33.58:923][579]LogWorld: BeginTearingDown for /Game/Practica1/UEDPIE_0_Prac1world
+[2020.02.18-18.33.58:923][579]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.18-18.33.58:924][579]LogWorld: UWorld::CleanupWorld for Prac1world, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.33.58:925][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.33.58:937][579]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.18-18.33.58:937][579]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.02.18-18.33.58:946][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.33.58:988][579]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.18-18.33.58:999][579]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.02.18-18.33.59:024][580]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2020.02.18-18.35.07:674][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.02.18-18.35.08:072][992]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Prac1worldE689030D4FE74F351D1D5198F157F4DB.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/Prac1world.umap'
+[2020.02.18-18.35.08:092][992]LogFileHelpers: Saving map 'Prac1world' took 0.465
+[2020.02.18-18.35.08:113][992]AssetCheck: New page: Asset Save: Prac1world
+[2020.02.18-18.35.08:113][992]LogContentValidation: Display: Validating World /Game/Practica1/Prac1world.Prac1world
+[2020.02.18-18.35.15:476][410]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.18-18.35.15:491][410]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.02.18-18.35.15:491][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.18-18.35.15:491][410]PIE: New page: PIE session: Prac1world (18 feb. 2020 20:35:15)
+[2020.02.18-18.35.15:491][410]LogPlayLevel: Creating play world package: /Game/Practica1/UEDPIE_0_Prac1world
+[2020.02.18-18.35.15:608][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117521s)
+[2020.02.18-18.35.15:609][410]LogAIModule: Creating AISystem for world Prac1world
+[2020.02.18-18.35.15:609][410]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2020.02.18-18.35.15:609][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Practica1/Prac1world.Prac1world to /Game/Practica1/UEDPIE_0_Prac1world.Prac1world (0.118608s)
+[2020.02.18-18.35.15:654][410]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.02.18-18.35.15:655][410]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.18-18.35.15:655][410]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.18-18.35.15:655][410]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.18-18.35.15:655][410]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.18-18.35.15:655][410]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.18-18.35.15:655][410]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.18-18.35.15:655][410]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.18-18.35.15:655][410]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.18-18.35.15:655][410]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.18-18.35.15:655][410]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.18-18.35.15:667][410]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.18-18.35.15:667][410]LogAudioMixer: Display: Name: Altavoces (2- Realtek(R) Audio)
+[2020.02.18-18.35.15:667][410]LogAudioMixer: Display: Is Default: Yes
+[2020.02.18-18.35.15:667][410]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.18-18.35.15:667][410]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.18-18.35.15:667][410]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.18-18.35.15:667][410]LogAudioMixer: Display: Channel Order:
+[2020.02.18-18.35.15:667][410]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.18-18.35.15:667][410]LogAudioMixer: Display: 1: FrontRight
+[2020.02.18-18.35.15:676][410]LogAudioMixer: Display: Using Audio Device Altavoces (2- Realtek(R) Audio)
+[2020.02.18-18.35.15:678][410]LogInit: FAudioDevice initialized.
+[2020.02.18-18.35.15:742][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.18-18.35.15:742][410]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.18-18.35.15:759][410]LogWorld: Bringing World /Game/Practica1/UEDPIE_0_Prac1world.Prac1world up for play (max tick rate 60) at 2020.02.18-19.35.15
+[2020.02.18-18.35.15:759][410]LogWorld: Bringing up level for play took: 0.016435
+[2020.02.18-18.35.15:759][410]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2020.02.18-18.35.15:761][410]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.02.18-18.35.15:765][410]PIE: Play in editor start time for /Game/Practica1/UEDPIE_0_Prac1world -0,321
+[2020.02.18-18.35.15:766][410]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.02.18-18.35.17:686][511]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.02.18-18.35.25:130][955]LogSlate: Window 'Practica1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.18-18.35.25:135][955]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.02.18-18.35.25:135][955]LogWorld: BeginTearingDown for /Game/Practica1/UEDPIE_0_Prac1world
+[2020.02.18-18.35.25:135][955]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.18-18.35.25:135][955]LogWorld: UWorld::CleanupWorld for Prac1world, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.35.25:137][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.35.25:160][955]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.18-18.35.25:160][955]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.02.18-18.35.25:165][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.35.25:204][955]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.18-18.35.25:216][955]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.02.18-18.35.25:266][956]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2020.02.18-18.35.26:963][ 48]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.18-18.35.26:979][ 48]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.02.18-18.35.26:979][ 48]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.18-18.35.26:980][ 48]PIE: New page: PIE session: Prac1world (18 feb. 2020 20:35:26)
+[2020.02.18-18.35.26:980][ 48]LogPlayLevel: Creating play world package: /Game/Practica1/UEDPIE_0_Prac1world
+[2020.02.18-18.35.27:095][ 48]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114561s)
+[2020.02.18-18.35.27:095][ 48]LogAIModule: Creating AISystem for world Prac1world
+[2020.02.18-18.35.27:095][ 48]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2020.02.18-18.35.27:096][ 48]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Practica1/Prac1world.Prac1world to /Game/Practica1/UEDPIE_0_Prac1world.Prac1world (0.115577s)
+[2020.02.18-18.35.27:132][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.02.18-18.35.27:132][ 48]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.18-18.35.27:132][ 48]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.18-18.35.27:132][ 48]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.18-18.35.27:132][ 48]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.18-18.35.27:132][ 48]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.18-18.35.27:132][ 48]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.18-18.35.27:132][ 48]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.18-18.35.27:132][ 48]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.18-18.35.27:133][ 48]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.18-18.35.27:133][ 48]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.18-18.35.27:143][ 48]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.18-18.35.27:143][ 48]LogAudioMixer: Display: Name: Altavoces (2- Realtek(R) Audio)
+[2020.02.18-18.35.27:143][ 48]LogAudioMixer: Display: Is Default: Yes
+[2020.02.18-18.35.27:143][ 48]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.18-18.35.27:143][ 48]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.18-18.35.27:143][ 48]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.18-18.35.27:143][ 48]LogAudioMixer: Display: Channel Order:
+[2020.02.18-18.35.27:143][ 48]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.18-18.35.27:143][ 48]LogAudioMixer: Display: 1: FrontRight
+[2020.02.18-18.35.27:151][ 48]LogAudioMixer: Display: Using Audio Device Altavoces (2- Realtek(R) Audio)
+[2020.02.18-18.35.27:152][ 48]LogInit: FAudioDevice initialized.
+[2020.02.18-18.35.27:202][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.18-18.35.27:202][ 48]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.18-18.35.27:218][ 48]LogWorld: Bringing World /Game/Practica1/UEDPIE_0_Prac1world.Prac1world up for play (max tick rate 60) at 2020.02.18-19.35.27
+[2020.02.18-18.35.27:219][ 48]LogWorld: Bringing up level for play took: 0.015648
+[2020.02.18-18.35.27:219][ 48]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2020.02.18-18.35.27:221][ 48]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.02.18-18.35.27:224][ 48]PIE: Play in editor start time for /Game/Practica1/UEDPIE_0_Prac1world 1,138
+[2020.02.18-18.35.27:224][ 48]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.02.18-18.35.30:030][208]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.02.18-18.35.33:852][434]LogSlate: Window 'Practica1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.18-18.35.33:860][434]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.02.18-18.35.33:860][434]LogWorld: BeginTearingDown for /Game/Practica1/UEDPIE_0_Prac1world
+[2020.02.18-18.35.33:869][434]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.18-18.35.33:899][434]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.18-18.35.33:899][434]LogWorld: UWorld::CleanupWorld for Prac1world, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.35.33:901][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.35.33:912][434]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.18-18.35.33:912][434]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.02.18-18.35.33:918][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.35.33:960][434]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.18-18.35.33:972][434]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2020.02.18-18.35.34:021][435]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2020.02.18-18.36.26:916][ 81]BlueprintLog: New page: Compile MenuPausa
+[2020.02.18-18.36.26:972][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.02.18-18.36.27:822][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Prac2/MenuPausa" FILE="../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/Prac2/MenuPausa.uasset" SILENT=true
+[2020.02.18-18.36.27:837][126]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/MenuPausa2F02839E4461FAE55600548DC02D867D.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/Prac2/MenuPausa.uasset'
+[2020.02.18-18.36.27:857][126]AssetCheck: New page: Asset Save: MenuPausa
+[2020.02.18-18.36.27:857][126]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Prac2/MenuPausa.MenuPausa
+[2020.02.18-18.38.15:576][261]LogHttp: Warning: 000001E9CAA71580: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCB0FFE7F-41AC-1557-B13C-ADB766A1C9DA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=27f168ab478137365f5b54ae8e2d8bd1%7C93a69fc451024811897d26c901b30920%7C6ff73697-efb0-4d5f-a328-5126453eb80a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.02.18-18.38.15:576][261]LogHttp: Warning: 000001E9CAA71580: request failed, libcurl error: 0 (No error)
+[2020.02.18-18.38.15:576][261]LogHttp: Warning: 000001E9CAA71580: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e7eb23ff70 [can pipeline])
+[2020.02.18-18.38.15:576][261]LogHttp: Warning: 000001E9CAA71580: libcurl info message cache 1 (Re-using existing connection! (#28) with host datarouter.ol.epicgames.com)
+[2020.02.18-18.38.15:576][261]LogHttp: Warning: 000001E9CAA71580: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.203.134.23) port 443 (#28))
+[2020.02.18-18.38.15:576][261]LogHttp: Warning: 000001E9CAA71580: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.02.18-18.38.15:576][261]LogHttp: Warning: 000001E9CAA71580: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.02.18-18.38.15:576][261]LogHttp: Warning: 000001E9CAA71580: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.02.18-18.38.15:576][261]LogHttp: Warning: 000001E9CAA71580: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.02.18-18.38.15:576][261]LogHttp: Warning: 000001E9CAA71580: libcurl info message cache 7 (Closing connection 28)
+[2020.02.18-18.38.15:576][261]LogHttp: Warning: 000001E9CAA71580: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.02.18-18.38.15:576][261]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCB0FFE7F-41AC-1557-B13C-ADB766A1C9DA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=27f168ab478137365f5b54ae8e2d8bd1%7C93a69fc451024811897d26c901b30920%7C6ff73697-efb0-4d5f-a328-5126453eb80a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.18-18.38.42:141][311]BlueprintLog: New page: Compile MenuPausa
+[2020.02.18-18.38.42:208][311]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2020.02.18-18.38.42:721][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Prac2/MenuPausa" FILE="../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/Prac2/MenuPausa.uasset" SILENT=true
+[2020.02.18-18.38.42:739][334]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/MenuPausa3E09BAD641A29ACD383DAB95A03A557C.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/Prac2/MenuPausa.uasset'
+[2020.02.18-18.38.42:761][334]AssetCheck: New page: Asset Save: MenuPausa
+[2020.02.18-18.38.42:761][334]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Prac2/MenuPausa.MenuPausa
+[2020.02.18-18.38.52:179][862]BlueprintLog: New page: Compile MenuPausa
+[2020.02.18-18.38.52:230][862]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.02.18-18.38.52:833][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Prac2/MenuPausa" FILE="../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/Prac2/MenuPausa.uasset" SILENT=true
+[2020.02.18-18.38.52:849][892]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/MenuPausa872A238D4838FF1B1CBFD087FAF593BE.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/Prac2/MenuPausa.uasset'
+[2020.02.18-18.38.52:873][892]AssetCheck: New page: Asset Save: MenuPausa
+[2020.02.18-18.38.52:873][892]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Prac2/MenuPausa.MenuPausa
+[2020.02.18-18.38.57:553][165]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.18-18.38.57:571][165]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.02.18-18.38.57:571][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.18-18.38.57:571][165]PIE: New page: PIE session: Prac1world (18 feb. 2020 20:38:57)
+[2020.02.18-18.38.57:571][165]LogPlayLevel: Creating play world package: /Game/Practica1/UEDPIE_0_Prac1world
+[2020.02.18-18.38.57:685][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.113416s)
+[2020.02.18-18.38.57:686][165]LogAIModule: Creating AISystem for world Prac1world
+[2020.02.18-18.38.57:686][165]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2020.02.18-18.38.57:686][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Practica1/Prac1world.Prac1world to /Game/Practica1/UEDPIE_0_Prac1world.Prac1world (0.114553s)
+[2020.02.18-18.38.57:730][165]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.02.18-18.38.57:732][165]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.18-18.38.57:732][165]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.18-18.38.57:732][165]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.18-18.38.57:732][165]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.18-18.38.57:732][165]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.18-18.38.57:732][165]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.18-18.38.57:732][165]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.18-18.38.57:732][165]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.18-18.38.57:732][165]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.18-18.38.57:732][165]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.18-18.38.57:744][165]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.18-18.38.57:744][165]LogAudioMixer: Display: Name: Altavoces (2- Realtek(R) Audio)
+[2020.02.18-18.38.57:744][165]LogAudioMixer: Display: Is Default: Yes
+[2020.02.18-18.38.57:744][165]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.18-18.38.57:744][165]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.18-18.38.57:744][165]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.18-18.38.57:744][165]LogAudioMixer: Display: Channel Order:
+[2020.02.18-18.38.57:744][165]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.18-18.38.57:744][165]LogAudioMixer: Display: 1: FrontRight
+[2020.02.18-18.38.57:754][165]LogAudioMixer: Display: Using Audio Device Altavoces (2- Realtek(R) Audio)
+[2020.02.18-18.38.57:755][165]LogInit: FAudioDevice initialized.
+[2020.02.18-18.38.57:816][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.18-18.38.57:816][165]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.18-18.38.57:835][165]LogWorld: Bringing World /Game/Practica1/UEDPIE_0_Prac1world.Prac1world up for play (max tick rate 60) at 2020.02.18-19.38.57
+[2020.02.18-18.38.57:835][165]LogWorld: Bringing up level for play took: 0.018896
+[2020.02.18-18.38.57:836][165]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2020.02.18-18.38.57:837][165]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.02.18-18.38.57:842][165]PIE: Play in editor start time for /Game/Practica1/UEDPIE_0_Prac1world -0,245
+[2020.02.18-18.38.57:842][165]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.02.18-18.39.04:363][549]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.02.18-18.39.08:501][793]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.02.18-18.39.09:367][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.18-18.39.09:367][845]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.02.18-18.39.09:367][845]LogWorld: BeginTearingDown for /Game/Practica1/UEDPIE_0_Prac1world
+[2020.02.18-18.39.09:378][845]LogSlate: Window 'Practica1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.18-18.39.09:385][845]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.18-18.39.09:386][845]LogWorld: UWorld::CleanupWorld for Prac1world, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.39.09:387][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.39.09:395][845]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.18-18.39.09:395][845]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.02.18-18.39.09:403][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.39.09:450][845]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.18-18.39.09:460][845]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.02.18-18.39.09:486][846]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2020.02.18-18.40.21:300][859]LogAIModule: Creating AISystem for world MenuPrincipal
+[2020.02.18-18.40.21:360][859]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.02.18-18.40.21:606][859]LogAIModule: Creating AISystem for world MenuPrincipal_2
+[2020.02.18-18.40.31:861][425]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.02.18-18.40.31:863][425]LogMetaData: Removing '/Game/Practica1/GameOverScreen.SKEL_GameOverScreen_C' ref from Metadata '/Game/Practica1/MenuPrincipal_2.PackageMetaData'
+[2020.02.18-18.40.31:863][425]LogMetaData: Removing '/Game/Practica1/GameOverScreen.GameOverScreen_C' ref from Metadata '/Game/Practica1/MenuPrincipal_2.PackageMetaData'
+[2020.02.18-18.40.31:946][425]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.02.18-18.40.32:213][425]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/GameOverScreen3810F5A748494D1B233B8DBCBC5CB3D4.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/GameOverScreen.umap'
+[2020.02.18-18.40.32:215][425]LogFileHelpers: Saving map 'GameOverScreen' took 0.316
+[2020.02.18-18.40.32:478][425]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.02.18-18.40.32:536][425]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.02.18-18.40.32:581][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.02.18-18.40.32:669][425]AssetCheck: New page: Asset Save: GameOverScreen
+[2020.02.18-18.40.32:669][425]LogContentValidation: Display: Validating World /Game/Practica1/GameOverScreen.GameOverScreen
+[2020.02.18-18.40.34:602][524]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Practica1/GameOverScreen.GameOverScreen
+[2020.02.18-18.40.34:639][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.02.18-18.40.34:643][524]Cmd: MAP LOAD FILE="../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/GameOverScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.18-18.40.34:643][524]LightingResults: New page: Lighting Build
+[2020.02.18-18.40.34:645][524]LoadErrors: New page: Loading map: GameOverScreen.umap
+[2020.02.18-18.40.34:682][524]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.40.34:682][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.40.34:719][524]LogWorld: UWorld::CleanupWorld for Prac1world, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.40.34:719][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.40.34:719][524]MapCheck: New page: Map Check
+[2020.02.18-18.40.34:719][524]LightingResults: New page: Lighting Build
+[2020.02.18-18.40.34:777][524]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.02.18-18.40.34:827][524]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.02.18-18.40.34:872][524]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.02.18-18.40.34:958][524]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.18-18.40.35:001][524]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.02.18-18.40.35:025][524]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.18-18.40.35:025][524]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,126ms to complete.
+[2020.02.18-18.40.35:025][524]LogFileHelpers: Loading map 'GameOverScreen' took 0.385
+[2020.02.18-18.40.37:551][667]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Practica1/GameOverScreen.GameOverScreen
+[2020.02.18-18.40.37:589][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.02.18-18.40.37:592][667]Cmd: MAP LOAD FILE="../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/GameOverScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.18-18.40.37:592][667]LightingResults: New page: Lighting Build
+[2020.02.18-18.40.37:592][667]LoadErrors: New page: Loading map: GameOverScreen.umap
+[2020.02.18-18.40.37:593][667]LogWorld: UWorld::CleanupWorld for GameOverScreen, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.40.37:593][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.40.37:593][667]MapCheck: New page: Map Check
+[2020.02.18-18.40.37:593][667]LightingResults: New page: Lighting Build
+[2020.02.18-18.40.37:633][667]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.02.18-18.40.37:640][667]LogAIModule: Creating AISystem for world GameOverScreen
+[2020.02.18-18.40.37:707][667]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.18-18.40.37:745][667]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.02.18-18.40.37:763][667]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.18-18.40.37:764][667]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,457ms to complete.
+[2020.02.18-18.40.37:764][667]LogFileHelpers: Loading map 'GameOverScreen' took 0.173
+[2020.02.18-18.40.50:093][392]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.02.18-18.40.58:095][826]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.02.18-18.40.58:103][826]LogMetaData: Removing '/Game/Practica1/MenuPrincipal/GameOver.SKEL_GameOver_C' ref from Metadata '/Game/Practica1/MenuPrincipal/Menu_2.PackageMetaData'
+[2020.02.18-18.40.58:103][826]LogMetaData: Removing '/Game/Practica1/MenuPrincipal/GameOver.GameOver_C' ref from Metadata '/Game/Practica1/MenuPrincipal/Menu_2.PackageMetaData'
+[2020.02.18-18.40.58:148][826]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/GameOverFBE5303C4B4C7840AA64089333E0EEB8.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/MenuPrincipal/GameOver.uasset'
+[2020.02.18-18.40.58:377][826]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.02.18-18.40.58:423][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.02.18-18.40.58:459][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.02.18-18.40.58:486][826]AssetCheck: New page: Asset Save: GameOver
+[2020.02.18-18.40.58:486][826]LogContentValidation: Display: Validating WidgetBlueprint /Game/Practica1/MenuPrincipal/GameOver.GameOver
+[2020.02.18-18.40.59:607][890]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Practica1/MenuPrincipal/GameOver.GameOver
+[2020.02.18-18.41.19:589][ 50]BlueprintLog: New page: Compile GameOver
+[2020.02.18-18.41.19:635][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.02.18-18.41.20:171][ 77]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/GameOver5E99C3974F8422CCD23CBA82166ABF02.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/MenuPrincipal/GameOver.uasset'
+[2020.02.18-18.41.20:192][ 77]AssetCheck: New page: Asset Save: GameOver
+[2020.02.18-18.41.20:193][ 77]LogContentValidation: Display: Validating WidgetBlueprint /Game/Practica1/MenuPrincipal/GameOver.GameOver
+[2020.02.18-18.41.59:819][386]BlueprintLog: New page: Compile GameOver
+[2020.02.18-18.41.59:823][386]LogBlueprint: Error: [Compiler GameOver] Binding: Property ' Tool Tip Text Delegate ' on Widget ' Button_160 ': Member:GetToolTipText_0 Has the wrong number of arguments, it needs to return 1 value and take no parameters.
+[2020.02.18-18.41.59:868][386]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.02.18-18.42.00:453][415]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/GameOverE89940034C55D07A4B7B118A61950152.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/MenuPrincipal/GameOver.uasset'
+[2020.02.18-18.42.00:472][415]AssetCheck: New page: Asset Save: GameOver
+[2020.02.18-18.42.00:472][415]LogContentValidation: Display: Validating WidgetBlueprint /Game/Practica1/MenuPrincipal/GameOver.GameOver
+[2020.02.18-18.42.14:516][208]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Practica1/MenuPrincipal/Menu.Menu
+[2020.02.18-18.42.40:155][659]LogHttp: Warning: 000001E9D823EE80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCB0FFE7F-41AC-1557-B13C-ADB766A1C9DA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=27f168ab478137365f5b54ae8e2d8bd1%7C93a69fc451024811897d26c901b30920%7C6ff73697-efb0-4d5f-a328-5126453eb80a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.02.18-18.42.40:156][659]LogHttp: Warning: 000001E9D823EE80: request failed, libcurl error: 0 (No error)
+[2020.02.18-18.42.40:156][659]LogHttp: Warning: 000001E9D823EE80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e7eb23ff70 [can pipeline])
+[2020.02.18-18.42.40:156][659]LogHttp: Warning: 000001E9D823EE80: libcurl info message cache 1 (Re-using existing connection! (#30) with host datarouter.ol.epicgames.com)
+[2020.02.18-18.42.40:156][659]LogHttp: Warning: 000001E9D823EE80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (23.23.44.24) port 443 (#30))
+[2020.02.18-18.42.40:156][659]LogHttp: Warning: 000001E9D823EE80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.02.18-18.42.40:156][659]LogHttp: Warning: 000001E9D823EE80: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.02.18-18.42.40:156][659]LogHttp: Warning: 000001E9D823EE80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.02.18-18.42.40:156][659]LogHttp: Warning: 000001E9D823EE80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.02.18-18.42.40:156][659]LogHttp: Warning: 000001E9D823EE80: libcurl info message cache 7 (Closing connection 30)
+[2020.02.18-18.42.40:156][659]LogHttp: Warning: 000001E9D823EE80: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.02.18-18.42.40:172][660]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCB0FFE7F-41AC-1557-B13C-ADB766A1C9DA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=27f168ab478137365f5b54ae8e2d8bd1%7C93a69fc451024811897d26c901b30920%7C6ff73697-efb0-4d5f-a328-5126453eb80a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.18-18.42.42:565][803]BlueprintLog: New page: Compile GameOver
+[2020.02.18-18.42.42:567][803]LogBlueprint: Error: [Compiler GameOver] Binding: Property ' Tool Tip Text Delegate ' on Widget ' Button_160 ': Member:GetToolTipText_0 Has the wrong number of arguments, it needs to return 1 value and take no parameters.
+[2020.02.18-18.42.42:614][803]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.02.18-18.42.43:432][846]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/GameOver5ED85F2D4FCB339E34681C983B11C353.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/MenuPrincipal/GameOver.uasset'
+[2020.02.18-18.42.43:451][846]AssetCheck: New page: Asset Save: GameOver
+[2020.02.18-18.42.43:451][846]LogContentValidation: Display: Validating WidgetBlueprint /Game/Practica1/MenuPrincipal/GameOver.GameOver
+[2020.02.18-18.43.09:933][374]BlueprintLog: New page: Compile GameOver
+[2020.02.18-18.43.09:985][374]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2020.02.18-18.43.10:598][405]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/GameOver3E4204AD4B8C321734FFCE9DB86D2A04.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/MenuPrincipal/GameOver.uasset'
+[2020.02.18-18.43.10:619][405]AssetCheck: New page: Asset Save: GameOver
+[2020.02.18-18.43.10:619][405]LogContentValidation: Display: Validating WidgetBlueprint /Game/Practica1/MenuPrincipal/GameOver.GameOver
+[2020.02.18-18.43.45:217][389]BlueprintLog: New page: Compile GameOver
+[2020.02.18-18.43.45:266][389]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.02.18-18.43.46:149][437]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/GameOver922DDCF3480813BFA6A35085EC759E6B.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/MenuPrincipal/GameOver.uasset'
+[2020.02.18-18.43.46:170][437]AssetCheck: New page: Asset Save: GameOver
+[2020.02.18-18.43.46:170][437]LogContentValidation: Display: Validating WidgetBlueprint /Game/Practica1/MenuPrincipal/GameOver.GameOver
+[2020.02.18-18.43.56:096][ 12]LogAIModule: Creating AISystem for world Prac1world
+[2020.02.18-18.43.56:145][ 12]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Practica1/Prac1world.Prac1world
+[2020.02.18-18.43.56:216][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.02.18-18.43.56:218][ 12]Cmd: MAP LOAD FILE="../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/Prac1world.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.18-18.43.56:219][ 12]LightingResults: New page: Lighting Build
+[2020.02.18-18.43.56:220][ 12]LoadErrors: New page: Loading map: Prac1world.umap
+[2020.02.18-18.43.56:220][ 12]LogWorld: UWorld::CleanupWorld for GameOverScreen, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.43.56:220][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.43.56:220][ 12]MapCheck: New page: Map Check
+[2020.02.18-18.43.56:221][ 12]LightingResults: New page: Lighting Build
+[2020.02.18-18.43.56:265][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2020.02.18-18.43.56:504][ 12]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.18-18.43.56:561][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.02.18-18.43.56:583][ 12]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.18-18.43.56:583][ 12]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,137ms to complete.
+[2020.02.18-18.43.56:583][ 12]LogFileHelpers: Loading map 'Prac1world' took 0.366
+[2020.02.18-18.44.07:644][649]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world
+[2020.02.18-18.44.39:362][414]BlueprintLog: New page: Compile Prac1world
+[2020.02.18-18.44.39:660][414]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.02.18-18.44.40:080][428]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.02.18-18.44.40:461][428]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Prac1worldC918D82A4D949841A78503A8E1786263.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/Prac1world.umap'
+[2020.02.18-18.44.40:480][428]LogFileHelpers: Saving map 'Prac1world' took 0.449
+[2020.02.18-18.44.40:499][428]AssetCheck: New page: Asset Save: Prac1world
+[2020.02.18-18.44.40:499][428]LogContentValidation: Display: Validating World /Game/Practica1/Prac1world.Prac1world
+[2020.02.18-18.44.49:851][967]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.02.18-18.44.55:310][239]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.18-18.44.55:663][239]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.02.18-18.44.56:141][244]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/ThirdPersonCharacter3F1CB3294118F808843134840B686E74.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.02.18-18.44.56:174][244]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.02.18-18.44.56:174][244]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.02.18-18.44.59:154][410]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.18-18.44.59:177][410]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.02.18-18.44.59:177][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.18-18.44.59:177][410]PIE: New page: PIE session: Prac1world (18 feb. 2020 20:44:59)
+[2020.02.18-18.44.59:177][410]LogPlayLevel: Creating play world package: /Game/Practica1/UEDPIE_0_Prac1world
+[2020.02.18-18.44.59:299][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.121303s)
+[2020.02.18-18.44.59:299][410]LogAIModule: Creating AISystem for world Prac1world
+[2020.02.18-18.44.59:300][410]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2020.02.18-18.44.59:300][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Practica1/Prac1world.Prac1world to /Game/Practica1/UEDPIE_0_Prac1world.Prac1world (0.122289s)
+[2020.02.18-18.44.59:350][410]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.02.18-18.44.59:351][410]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.18-18.44.59:351][410]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.18-18.44.59:351][410]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.18-18.44.59:351][410]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.18-18.44.59:351][410]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.18-18.44.59:352][410]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.18-18.44.59:352][410]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.18-18.44.59:352][410]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.18-18.44.59:352][410]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.18-18.44.59:352][410]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.18-18.44.59:365][410]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.18-18.44.59:365][410]LogAudioMixer: Display: Name: Altavoces (2- Realtek(R) Audio)
+[2020.02.18-18.44.59:365][410]LogAudioMixer: Display: Is Default: Yes
+[2020.02.18-18.44.59:366][410]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.18-18.44.59:366][410]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.18-18.44.59:366][410]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.18-18.44.59:366][410]LogAudioMixer: Display: Channel Order:
+[2020.02.18-18.44.59:366][410]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.18-18.44.59:366][410]LogAudioMixer: Display: 1: FrontRight
+[2020.02.18-18.44.59:379][410]LogAudioMixer: Display: Using Audio Device Altavoces (2- Realtek(R) Audio)
+[2020.02.18-18.44.59:381][410]LogInit: FAudioDevice initialized.
+[2020.02.18-18.44.59:441][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.18-18.44.59:441][410]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.18-18.44.59:463][410]LogWorld: Bringing World /Game/Practica1/UEDPIE_0_Prac1world.Prac1world up for play (max tick rate 60) at 2020.02.18-19.44.59
+[2020.02.18-18.44.59:464][410]LogWorld: Bringing up level for play took: 0.021215
+[2020.02.18-18.44.59:464][410]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2020.02.18-18.44.59:466][410]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.02.18-18.44.59:472][410]PIE: Play in editor start time for /Game/Practica1/UEDPIE_0_Prac1world -0,614
+[2020.02.18-18.44.59:473][410]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.02.18-18.45.07:228][861]LogNet: Browse: /Game/Practica1/GameOverScreen
+[2020.02.18-18.45.07:228][861]LogLoad: LoadMap: /Game/Practica1/GameOverScreen
+[2020.02.18-18.45.07:228][861]LogWorld: BeginTearingDown for /Game/Practica1/UEDPIE_0_Prac1world
+[2020.02.18-18.45.07:230][861]LogWorld: UWorld::CleanupWorld for Prac1world, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.45.07:231][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.45.07:239][861]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.18-18.45.07:259][861]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.18-18.45.07:315][861]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.02.18-18.45.07:324][861]LogAIModule: Creating AISystem for world GameOverScreen
+[2020.02.18-18.45.07:324][861]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.18-18.45.07:325][861]LogWorld: Bringing World /Game/Practica1/UEDPIE_0_GameOverScreen.GameOverScreen up for play (max tick rate 60) at 2020.02.18-19.45.07
+[2020.02.18-18.45.07:326][861]LogWorld: Bringing up level for play took: 0.000565
+[2020.02.18-18.45.07:326][861]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.18-18.45.07:326][861]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.02.18-18.45.07:327][861]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.02.18-18.45.07:327][861]LogLoad: Took 0.098415 seconds to LoadMap(/Game/Practica1/GameOverScreen)
+[2020.02.18-18.45.11:001][ 80]LogNet: Browse: /Game/Practica1/Prac1world
+[2020.02.18-18.45.11:002][ 80]LogLoad: LoadMap: /Game/Practica1/Prac1world
+[2020.02.18-18.45.11:002][ 80]LogWorld: BeginTearingDown for /Game/Practica1/UEDPIE_0_GameOverScreen
+[2020.02.18-18.45.11:002][ 80]LogWorld: UWorld::CleanupWorld for GameOverScreen, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.45.11:002][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.45.11:002][ 80]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.18-18.45.11:049][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.02.18-18.45.11:050][ 80]LogPlayLevel: Creating play world package: /Game/Practica1/UEDPIE_0_Prac1world
+[2020.02.18-18.45.11:164][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114051s)
+[2020.02.18-18.45.11:165][ 80]LogAIModule: Creating AISystem for world Prac1world
+[2020.02.18-18.45.11:165][ 80]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2020.02.18-18.45.11:165][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Practica1/Prac1world.Prac1world to /Game/Practica1/UEDPIE_0_Prac1world.Prac1world (0.115042s)
+[2020.02.18-18.45.11:165][ 80]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.18-18.45.11:174][ 80]LogWorld: Bringing World /Game/Practica1/UEDPIE_0_Prac1world.Prac1world up for play (max tick rate 60) at 2020.02.18-19.45.11
+[2020.02.18-18.45.11:175][ 80]LogWorld: Bringing up level for play took: 0.008715
+[2020.02.18-18.45.11:175][ 80]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.02.18-18.45.11:176][ 80]LogLoad: Took 0.174118 seconds to LoadMap(/Game/Practica1/UEDPIE_0_Prac1world)
+[2020.02.18-18.45.18:543][511]LogNet: Browse: /Game/Practica1/GameOverScreen
+[2020.02.18-18.45.18:543][511]LogLoad: LoadMap: /Game/Practica1/GameOverScreen
+[2020.02.18-18.45.18:543][511]LogWorld: BeginTearingDown for /Game/Practica1/UEDPIE_0_Prac1world
+[2020.02.18-18.45.18:544][511]LogWorld: UWorld::CleanupWorld for Prac1world, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.45.18:545][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.45.18:545][511]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.18-18.45.18:605][511]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.02.18-18.45.18:614][511]LogAIModule: Creating AISystem for world GameOverScreen
+[2020.02.18-18.45.18:614][511]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.18-18.45.18:615][511]LogWorld: Bringing World /Game/Practica1/UEDPIE_0_GameOverScreen.GameOverScreen up for play (max tick rate 60) at 2020.02.18-19.45.18
+[2020.02.18-18.45.18:615][511]LogWorld: Bringing up level for play took: 0.000504
+[2020.02.18-18.45.18:615][511]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.18-18.45.18:616][511]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.02.18-18.45.18:616][511]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.02.18-18.45.18:616][511]LogLoad: Took 0.073079 seconds to LoadMap(/Game/Practica1/GameOverScreen)
+[2020.02.18-18.45.19:877][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.18-18.45.19:877][584]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.02.18-18.45.19:877][584]LogWorld: BeginTearingDown for /Game/Practica1/UEDPIE_0_GameOverScreen
+[2020.02.18-18.45.19:886][584]LogSlate: Window 'Practica1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.18-18.45.19:891][584]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.18-18.45.19:891][584]LogWorld: UWorld::CleanupWorld for GameOverScreen, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.45.19:891][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.45.19:896][584]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.18-18.45.19:896][584]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.02.18-18.45.19:905][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.45.19:955][584]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.18-18.45.19:963][584]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.02.18-18.45.19:984][585]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2020.02.18-18.45.22:014][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.02.18-18.45.22:404][701]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Prac1world266CE1CB42635C140D8A5383DF6A7DEB.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/Prac1world.umap'
+[2020.02.18-18.45.22:425][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Practica1/Prac1world_BuiltData" FILE="../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/Prac1world_BuiltData.uasset" SILENT=true
+[2020.02.18-18.45.28:580][701]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Prac1world_BuiltDataC2B1A9264C2586143AE5B0BE52EA64A1.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/Prac1world_BuiltData.uasset'
+[2020.02.18-18.45.28:670][701]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.18-18.45.28:670][701]LogContentValidation: Display: Validating World /Game/Practica1/Prac1world.Prac1world
+[2020.02.18-18.45.28:670][701]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Practica1/Prac1world_BuiltData.Prac1world_BuiltData
+[2020.02.18-18.45.36:652][855]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.02.18-18.45.36:709][855]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.02.18-18.45.36:772][855]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.45.36:773][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.45.36:792][855]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.45.36:792][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.45.36:972][855]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.45.36:972][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.45.36:985][855]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.45.36:985][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.45.37:054][855]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.45.37:055][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.45.37:059][855]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.45.37:059][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.45.37:109][855]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.45.37:109][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.45.37:157][855]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.45.37:157][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.45.37:230][855]LogSlate: Window 'Practica1 - Unreal Editor' being destroyed
+[2020.02.18-18.45.37:237][855]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.18-18.45.37:689][856]Cmd: QUIT_EDITOR
+[2020.02.18-18.45.37:690][856]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.02.18-18.45.37:709][856]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.02.18-18.45.37:712][856]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.18-18.45.38:830][856]LogExit: Preparing to exit.
+[2020.02.18-18.45.39:882][856]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.45.39:884][856]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.45.39:885][856]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.45.39:886][856]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.45.39:888][856]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.45.39:890][856]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.45.39:892][856]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.45.39:893][856]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.45.39:894][856]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.45.39:895][856]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.45.39:896][856]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.45.39:897][856]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.18-18.45.39:897][856]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.18-18.45.39:897][856]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.18-18.45.39:897][856]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.18-18.45.39:897][856]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.18-18.45.39:897][856]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.18-18.45.39:897][856]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.18-18.45.39:897][856]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.45.39:919][856]LogDirectoryWatcher: A directory notification failed for 'C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/', and we were unable to create a new request.
+[2020.02.18-18.45.40:137][856]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.45.40:149][856]LogExit: Editor shut down
+[2020.02.18-18.45.40:163][856]LogExit: Transaction tracking system shut down
+[2020.02.18-18.45.40:209][856]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.02.18-18.45.42:742][856]LogExit: Object subsystem successfully closed.
+[2020.02.18-18.45.42:871][856]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.02.18-18.45.43:192][856]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (708)
+[2020.02.18-18.45.43:192][856]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (706)
+[2020.02.18-18.45.43:192][856]LogModuleManager: Shutting down and abandoning module Voice (704)
+[2020.02.18-18.45.43:193][856]LogModuleManager: Shutting down and abandoning module SequencerWidgets (702)
+[2020.02.18-18.45.43:193][856]LogModuleManager: Shutting down and abandoning module BlueprintGraph (700)
+[2020.02.18-18.45.43:194][856]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (698)
+[2020.02.18-18.45.43:194][856]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (696)
+[2020.02.18-18.45.43:195][856]LogModuleManager: Shutting down and abandoning module AddContentDialog (694)
+[2020.02.18-18.45.43:242][856]LogModuleManager: Shutting down and abandoning module WidgetCarousel (693)
+[2020.02.18-18.45.43:242][856]LogModuleManager: Shutting down and abandoning module EditorWidgets (690)
+[2020.02.18-18.45.43:242][856]LogModuleManager: Shutting down and abandoning module CollectionManager (688)
+[2020.02.18-18.45.43:244][856]LogModuleManager: Shutting down and abandoning module SceneOutliner (686)
+[2020.02.18-18.45.43:244][856]LogModuleManager: Shutting down and abandoning module StatsViewer (684)
+[2020.02.18-18.45.43:246][856]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (682)
+[2020.02.18-18.45.43:246][856]LogModuleManager: Shutting down and abandoning module FoliageEdit (680)
+[2020.02.18-18.45.43:247][856]LogModuleManager: Shutting down and abandoning module LandscapeEditor (678)
+[2020.02.18-18.45.43:254][856]LogModuleManager: Shutting down and abandoning module MeshPaintMode (676)
+[2020.02.18-18.45.43:254][856]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (674)
+[2020.02.18-18.45.43:254][856]LogModuleManager: Shutting down and abandoning module ActorPickerMode (672)
+[2020.02.18-18.45.43:254][856]LogModuleManager: Shutting down and abandoning module GeometryMode (670)
+[2020.02.18-18.45.43:255][856]LogModuleManager: Shutting down and abandoning module TextureAlignMode (668)
+[2020.02.18-18.45.43:255][856]LogModuleManager: Shutting down and abandoning module BspMode (666)
+[2020.02.18-18.45.43:256][856]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (664)
+[2020.02.18-18.45.43:258][856]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (662)
+[2020.02.18-18.45.43:258][856]LogModuleManager: Shutting down and abandoning module AutomationWorker (660)
+[2020.02.18-18.45.43:259][856]LogModuleManager: Shutting down and abandoning module SteamVREditor (658)
+[2020.02.18-18.45.43:260][856]LogModuleManager: Shutting down and abandoning module OculusMR (656)
+[2020.02.18-18.45.43:260][856]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (654)
+[2020.02.18-18.45.43:261][856]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (652)
+[2020.02.18-18.45.43:264][856]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (650)
+[2020.02.18-18.45.43:269][856]LogModuleManager: Shutting down and abandoning module PlacementMode (649)
+[2020.02.18-18.45.43:269][856]LogModuleManager: Shutting down and abandoning module MaterialEditor (648)
+[2020.02.18-18.45.43:273][856]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (644)
+[2020.02.18-18.45.43:274][856]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (642)
+[2020.02.18-18.45.43:274][856]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (640)
+[2020.02.18-18.45.43:274][856]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (638)
+[2020.02.18-18.45.43:275][856]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (636)
+[2020.02.18-18.45.43:275][856]LogModuleManager: Shutting down and abandoning module WebMMedia (634)
+[2020.02.18-18.45.43:275][856]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (632)
+[2020.02.18-18.45.43:277][856]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (630)
+[2020.02.18-18.45.43:279][856]LogModuleManager: Shutting down and abandoning module SequenceRecorder (629)
+[2020.02.18-18.45.43:281][856]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (626)
+[2020.02.18-18.45.43:281][856]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (624)
+[2020.02.18-18.45.43:281][856]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (622)
+[2020.02.18-18.45.43:281][856]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (620)
+[2020.02.18-18.45.43:281][856]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (618)
+[2020.02.18-18.45.43:281][856]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (616)
+[2020.02.18-18.45.43:281][856]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (614)
+[2020.02.18-18.45.43:281][856]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (612)
+[2020.02.18-18.45.43:281][856]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (610)
+[2020.02.18-18.45.43:282][856]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (608)
+[2020.02.18-18.45.43:282][856]LogModuleManager: Shutting down and abandoning module CharacterAI (606)
+[2020.02.18-18.45.43:282][856]LogModuleManager: Shutting down and abandoning module SmartSnapping (604)
+[2020.02.18-18.45.43:282][856]LogModuleManager: Shutting down and abandoning module SessionServices (602)
+[2020.02.18-18.45.43:282][856]LogModuleManager: Shutting down and abandoning module MeshPaint (600)
+[2020.02.18-18.45.43:284][856]LogModuleManager: Shutting down and abandoning module ViewportSnapping (598)
+[2020.02.18-18.45.43:284][856]LogModuleManager: Shutting down and abandoning module ViewportInteraction (596)
+[2020.02.18-18.45.43:284][856]LogModuleManager: Shutting down and abandoning module ClothPainter (594)
+[2020.02.18-18.45.43:287][856]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (593)
+[2020.02.18-18.45.43:289][856]LogModuleManager: Shutting down and abandoning module LogVisualizer (590)
+[2020.02.18-18.45.43:292][856]LogModuleManager: Shutting down and abandoning module IntroTutorials (588)
+[2020.02.18-18.45.43:298][856]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (587)
+[2020.02.18-18.45.43:301][856]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (584)
+[2020.02.18-18.45.43:301][856]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (582)
+[2020.02.18-18.45.43:301][856]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (580)
+[2020.02.18-18.45.43:301][856]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (579)
+[2020.02.18-18.45.44:507][856]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (576)
+[2020.02.18-18.45.44:507][856]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (574)
+[2020.02.18-18.45.44:507][856]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (572)
+[2020.02.18-18.45.44:507][856]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (570)
+[2020.02.18-18.45.44:507][856]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (568)
+[2020.02.18-18.45.44:507][856]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (566)
+[2020.02.18-18.45.44:508][856]LogModuleManager: Shutting down and abandoning module InputBindingEditor (564)
+[2020.02.18-18.45.44:509][856]LogModuleManager: Shutting down and abandoning module MergeActors (562)
+[2020.02.18-18.45.44:510][856]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (560)
+[2020.02.18-18.45.44:512][856]LogModuleManager: Shutting down and abandoning module LocalizationService (559)
+[2020.02.18-18.45.44:513][856]LogModuleManager: Shutting down and abandoning module HardwareTargeting (556)
+[2020.02.18-18.45.44:513][856]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (554)
+[2020.02.18-18.45.44:514][856]LogModuleManager: Shutting down and abandoning module UndoHistory (552)
+[2020.02.18-18.45.44:514][856]LogModuleManager: Shutting down and abandoning module XmlParser (550)
+[2020.02.18-18.45.44:515][856]LogModuleManager: Shutting down and abandoning module Blutility (548)
+[2020.02.18-18.45.44:515][856]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (546)
+[2020.02.18-18.45.44:516][856]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (545)
+[2020.02.18-18.45.44:525][856]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (542)
+[2020.02.18-18.45.44:525][856]LogModuleManager: Shutting down and abandoning module SettingsEditor (540)
+[2020.02.18-18.45.44:526][856]LogModuleManager: Shutting down and abandoning module ProjectLauncher (538)
+[2020.02.18-18.45.44:528][856]LogModuleManager: Shutting down and abandoning module SessionFrontend (536)
+[2020.02.18-18.45.44:529][856]LogModuleManager: Shutting down and abandoning module ProfilerClient (534)
+[2020.02.18-18.45.44:529][856]LogModuleManager: Shutting down and abandoning module DeviceManager (532)
+[2020.02.18-18.45.44:530][856]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (531)
+[2020.02.18-18.45.44:566][856]LogModuleManager: Shutting down and abandoning module AutomationController (528)
+[2020.02.18-18.45.44:567][856]LogModuleManager: Shutting down and abandoning module AutomationWindow (526)
+[2020.02.18-18.45.44:568][856]LogModuleManager: Shutting down and abandoning module Layers (524)
+[2020.02.18-18.45.44:571][856]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (522)
+[2020.02.18-18.45.44:571][856]LogModuleManager: Shutting down and abandoning module DetailCustomizations (520)
+[2020.02.18-18.45.44:572][856]LogModuleManager: Shutting down and abandoning module PackagesDialog (518)
+[2020.02.18-18.45.44:574][856]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (516)
+[2020.02.18-18.45.44:576][856]LogModuleManager: Shutting down and abandoning module Persona (514)
+[2020.02.18-18.45.44:578][856]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (513)
+[2020.02.18-18.45.44:578][856]LogModuleManager: Shutting down and abandoning module AnimGraph (511)
+[2020.02.18-18.45.44:579][856]LogModuleManager: Shutting down and abandoning module Kismet (508)
+[2020.02.18-18.45.44:680][856]LogModuleManager: Shutting down and abandoning module KismetWidgets (507)
+[2020.02.18-18.45.44:680][856]LogModuleManager: Shutting down and abandoning module GraphEditor (504)
+[2020.02.18-18.45.44:681][856]LogModuleManager: Shutting down and abandoning module StructViewer (502)
+[2020.02.18-18.45.44:682][856]LogModuleManager: Shutting down and abandoning module ClassViewer (500)
+[2020.02.18-18.45.44:686][856]LogModuleManager: Shutting down and abandoning module Toolbox (498)
+[2020.02.18-18.45.44:687][856]LogModuleManager: Shutting down and abandoning module ModuleUI (496)
+[2020.02.18-18.45.44:687][856]LogModuleManager: Shutting down and abandoning module OutputLog (494)
+[2020.02.18-18.45.44:722][856]LogModuleManager: Shutting down and abandoning module GammaUI (492)
+[2020.02.18-18.45.44:722][856]LogModuleManager: Shutting down and abandoning module Documentation (490)
+[2020.02.18-18.45.44:737][856]LogModuleManager: Shutting down and abandoning module ToolMenus (488)
+[2020.02.18-18.45.44:738][856]LogModuleManager: Shutting down and abandoning module LiveCoding (486)
+[2020.02.18-18.45.44:740][856]LogModuleManager: Shutting down and abandoning module LevelSequence (484)
+[2020.02.18-18.45.44:740][856]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (482)
+[2020.02.18-18.45.44:741][856]LogModuleManager: Shutting down and abandoning module MovieScene (480)
+[2020.02.18-18.45.44:741][856]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (478)
+[2020.02.18-18.45.44:742][856]LogModuleManager: Shutting down and abandoning module LauncherPlatform (476)
+[2020.02.18-18.45.44:742][856]LogModuleManager: Shutting down and abandoning module AnalyticsET (474)
+[2020.02.18-18.45.44:742][856]LogModuleManager: Shutting down and abandoning module PortalServices (472)
+[2020.02.18-18.45.44:742][856]LogModuleManager: Shutting down and abandoning module PortalRpc (470)
+[2020.02.18-18.45.44:742][856]LogModuleManager: Shutting down and abandoning module MessagingRpc (468)
+[2020.02.18-18.45.44:742][856]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (466)
+[2020.02.18-18.45.44:742][856]LogModuleManager: Shutting down and abandoning module AIModule (464)
+[2020.02.18-18.45.44:743][856]LogModuleManager: Shutting down and abandoning module GameplayDebugger (463)
+[2020.02.18-18.45.44:743][856]LogModuleManager: Shutting down and abandoning module AITestSuite (461)
+[2020.02.18-18.45.44:744][856]LogModuleManager: Shutting down and abandoning module NavigationSystem (459)
+[2020.02.18-18.45.44:744][856]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (456)
+[2020.02.18-18.45.44:757][856]LogModuleManager: Shutting down and abandoning module ProfilerService (454)
+[2020.02.18-18.45.44:991][856]LogModuleManager: Shutting down and abandoning module TaskGraph (452)
+[2020.02.18-18.45.44:992][856]LogModuleManager: Shutting down and abandoning module ScreenshotTools (450)
+[2020.02.18-18.45.44:992][856]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (448)
+[2020.02.18-18.45.44:993][856]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (446)
+[2020.02.18-18.45.44:993][856]LogModuleManager: Shutting down and abandoning module OculusEditor (444)
+[2020.02.18-18.45.44:993][856]LogModuleManager: Shutting down and abandoning module OculusInput (442)
+[2020.02.18-18.45.44:994][856]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (440)
+[2020.02.18-18.45.44:994][856]LogModuleManager: Shutting down and abandoning module EditableMesh (438)
+[2020.02.18-18.45.44:994][856]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (436)
+[2020.02.18-18.45.44:994][856]LogModuleManager: Shutting down and abandoning module CableComponent (434)
+[2020.02.18-18.45.44:994][856]LogModuleManager: Shutting down and abandoning module AudioCapture (432)
+[2020.02.18-18.45.44:994][856]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (431)
+[2020.02.18-18.45.44:994][856]LogModuleManager: Shutting down and abandoning module AssetTags (428)
+[2020.02.18-18.45.44:994][856]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (426)
+[2020.02.18-18.45.44:994][856]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (424)
+[2020.02.18-18.45.44:994][856]LogModuleManager: Shutting down and abandoning module AppleImageUtils (422)
+[2020.02.18-18.45.44:994][856]LogModuleManager: Shutting down and abandoning module AndroidPermission (420)
+[2020.02.18-18.45.44:994][856]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (418)
+[2020.02.18-18.45.44:995][856]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (416)
+[2020.02.18-18.45.44:997][856]LogModuleManager: Shutting down and abandoning module MediaCompositing (414)
+[2020.02.18-18.45.44:998][856]LogModuleManager: Shutting down and abandoning module ImgMedia (412)
+[2020.02.18-18.45.44:998][856]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (410)
+[2020.02.18-18.45.44:998][856]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (408)
+[2020.02.18-18.45.44:998][856]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (406)
+[2020.02.18-18.45.44:998][856]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (404)
+[2020.02.18-18.45.44:999][856]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (402)
+[2020.02.18-18.45.44:999][856]LogModuleManager: Shutting down and abandoning module BackChannel (400)
+[2020.02.18-18.45.44:999][856]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (398)
+[2020.02.18-18.45.44:999][856]LogModuleManager: Shutting down and abandoning module AutomationUtils (396)
+[2020.02.18-18.45.44:999][856]LogModuleManager: Shutting down and abandoning module AlembicImporter (394)
+[2020.02.18-18.45.45:000][856]LogModuleManager: Shutting down and abandoning module AlembicLibrary (393)
+[2020.02.18-18.45.45:001][856]LogModuleManager: Shutting down and abandoning module GeometryCache (392)
+[2020.02.18-18.45.45:001][856]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (391)
+[2020.02.18-18.45.45:001][856]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (386)
+[2020.02.18-18.45.45:001][856]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (384)
+[2020.02.18-18.45.45:002][856]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (382)
+[2020.02.18-18.45.45:002][856]LogModuleManager: Shutting down and abandoning module PluginBrowser (380)
+[2020.02.18-18.45.45:007][856]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (378)
+[2020.02.18-18.45.45:008][856]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (376)
+[2020.02.18-18.45.45:009][856]LogModuleManager: Shutting down and abandoning module CurveEditorTools (374)
+[2020.02.18-18.45.45:009][856]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (372)
+[2020.02.18-18.45.45:009][856]LogModuleManager: Shutting down and abandoning module CryptoKeys (370)
+[2020.02.18-18.45.45:009][856]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (368)
+[2020.02.18-18.45.45:010][856]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (366)
+[2020.02.18-18.45.45:010][856]LogModuleManager: Shutting down and abandoning module UObjectPlugin (364)
+[2020.02.18-18.45.45:010][856]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (362)
+[2020.02.18-18.45.45:011][856]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (360)
+[2020.02.18-18.45.45:013][856]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (358)
+[2020.02.18-18.45.45:016][856]LogModuleManager: Shutting down and abandoning module GitSourceControl (356)
+[2020.02.18-18.45.45:018][856]LogModuleManager: Shutting down and abandoning module SourceControl (355)
+[2020.02.18-18.45.45:019][856]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (352)
+[2020.02.18-18.45.45:019][856]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (350)
+[2020.02.18-18.45.45:019][856]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (348)
+[2020.02.18-18.45.45:020][856]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (346)
+[2020.02.18-18.45.45:020][856]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (344)
+[2020.02.18-18.45.45:020][856]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (342)
+[2020.02.18-18.45.45:020][856]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (340)
+[2020.02.18-18.45.45:021][856]LogModuleManager: Shutting down and abandoning module Paper2DEditor (338)
+[2020.02.18-18.45.45:023][856]LogModuleManager: Shutting down and abandoning module SignificanceManager (336)
+[2020.02.18-18.45.45:023][856]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (334)
+[2020.02.18-18.45.45:023][856]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2020.02.18-18.45.45:023][856]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2020.02.18-18.45.45:023][856]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.02.18-18.45.45:024][856]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2020.02.18-18.45.45:125][856]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2020.02.18-18.45.45:226][856]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2020.02.18-18.45.45:229][856]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2020.02.18-18.45.45:236][856]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.02.18-18.45.45:236][856]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2020.02.18-18.45.45:236][856]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2020.02.18-18.45.45:236][856]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2020.02.18-18.45.45:244][856]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2020.02.18-18.45.45:259][856]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2020.02.18-18.45.45:265][856]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2020.02.18-18.45.45:265][856]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2020.02.18-18.45.45:298][856]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.02.18-18.45.45:310][856]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2020.02.18-18.45.45:310][856]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2020.02.18-18.45.45:310][856]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2020.02.18-18.45.45:310][856]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2020.02.18-18.45.45:310][856]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2020.02.18-18.45.45:314][856]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2020.02.18-18.45.45:314][856]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2020.02.18-18.45.45:320][856]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2020.02.18-18.45.45:340][856]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2020.02.18-18.45.45:373][856]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2020.02.18-18.45.45:385][856]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2020.02.18-18.45.45:394][856]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2020.02.18-18.45.45:405][856]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2020.02.18-18.45.45:426][856]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2020.02.18-18.45.45:436][856]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2020.02.18-18.45.45:437][856]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.02.18-18.45.45:437][856]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.02.18-18.45.45:437][856]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.02.18-18.45.45:438][856]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.02.18-18.45.45:441][856]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.02.18-18.45.45:441][856]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.02.18-18.45.45:442][856]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.02.18-18.45.45:443][856]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.02.18-18.45.45:443][856]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.02.18-18.45.45:445][856]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.02.18-18.45.45:445][856]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.02.18-18.45.45:445][856]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.02.18-18.45.45:445][856]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.02.18-18.45.45:447][856]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.02.18-18.45.45:448][856]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.02.18-18.45.45:448][856]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.02.18-18.45.45:451][856]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.02.18-18.45.45:451][856]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.02.18-18.45.45:453][856]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.02.18-18.45.45:455][856]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.02.18-18.45.45:456][856]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.02.18-18.45.45:456][856]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.02.18-18.45.45:456][856]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.02.18-18.45.45:460][856]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.02.18-18.45.45:460][856]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.02.18-18.45.45:460][856]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.02.18-18.45.45:460][856]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.02.18-18.45.45:460][856]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.02.18-18.45.45:460][856]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.02.18-18.45.45:460][856]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.02.18-18.45.45:460][856]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.02.18-18.45.45:460][856]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.02.18-18.45.45:460][856]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.02.18-18.45.45:461][856]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.02.18-18.45.45:463][856]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.02.18-18.45.45:464][856]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.02.18-18.45.45:464][856]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.02.18-18.45.45:474][856]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.02.18-18.45.45:475][856]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.02.18-18.45.45:475][856]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.02.18-18.45.45:476][856]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.02.18-18.45.45:476][856]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.02.18-18.45.45:477][856]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.02.18-18.45.45:478][856]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.02.18-18.45.45:483][856]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.02.18-18.45.45:483][856]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.02.18-18.45.45:484][856]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.02.18-18.45.45:484][856]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.02.18-18.45.45:484][856]LogDerivedDataCache: Shutdown
+[2020.02.18-18.45.45:484][856]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.02.18-18.45.45:486][856]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.02.18-18.45.45:489][856]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.02.18-18.45.45:490][856]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.02.18-18.45.45:490][856]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.02.18-18.45.45:491][856]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.02.18-18.45.45:491][856]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.02.18-18.45.45:492][856]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.02.18-18.45.45:492][856]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.02.18-18.45.45:493][856]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.02.18-18.45.45:493][856]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.02.18-18.45.45:495][856]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.02.18-18.45.45:495][856]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.02.18-18.45.45:495][856]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.02.18-18.45.45:495][856]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.02.18-18.45.45:495][856]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.02.18-18.45.45:495][856]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.02.18-18.45.45:496][856]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.02.18-18.45.45:496][856]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.02.18-18.45.45:496][856]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.02.18-18.45.45:496][856]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.02.18-18.45.45:496][856]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.02.18-18.45.45:541][856]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.02.18-18.45.45:556][856]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.02.18-18.45.45:557][856]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.02.18-18.45.45:557][856]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.02.18-18.45.45:557][856]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.02.18-18.45.45:558][856]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.02.18-18.45.45:558][856]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.02.18-18.45.45:558][856]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.02.18-18.45.45:558][856]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.02.18-18.45.45:567][856]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.02.18-18.45.45:641][856]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.02.18-18.45.45:641][856]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.02.18-18.45.45:641][856]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.02.18-18.45.45:641][856]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.02.18-18.45.45:644][856]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.02.18-18.45.45:644][856]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.02.18-18.45.45:645][856]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.02.18-18.45.45:645][856]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.02.18-18.45.45:646][856]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.02.18-18.45.45:646][856]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.02.18-18.45.45:647][856]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.02.18-18.45.45:647][856]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.02.18-18.45.45:647][856]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.02.18-18.45.45:649][856]LogHMD: Freeing OpenVRDLLHandle.
+[2020.02.18-18.45.45:649][856]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.02.18-18.45.45:651][856]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.02.18-18.45.45:651][856]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.02.18-18.45.45:651][856]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.02.18-18.45.45:651][856]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.02.18-18.45.45:656][856]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.02.18-18.45.45:660][856]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.02.18-18.45.45:698][856]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.02.18-18.45.45:698][856]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.02.18-18.45.45:698][856]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCB0FFE7F-41AC-1557-B13C-ADB766A1C9DA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=27f168ab478137365f5b54ae8e2d8bd1%7C93a69fc451024811897d26c901b30920%7C6ff73697-efb0-4d5f-a328-5126453eb80a&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.02.18-18.45.45:708][856]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.02.18-18.45.45:722][856]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.02.18-18.45.45:726][856]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.02.18-18.45.45:728][856]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.02.18-18.45.45:728][856]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.02.18-18.45.45:729][856]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.02.18-18.45.45:729][856]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.02.18-18.45.45:729][856]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.02.18-18.45.45:731][856]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.02.18-18.45.45:731][856]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.02.18-18.45.45:731][856]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.02.18-18.45.45:731][856]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.02.18-18.45.45:732][856]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.02.18-18.45.45:737][856]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.02.18-18.45.45:746][856]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.02.18-18.45.45:749][856]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.02.18-18.45.45:749][856]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.02.18-18.45.45:749][856]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.02.18-18.45.45:791][856]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.02.18-18.45.45:791][856]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.02.18-18.45.45:791][856]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.02.18-18.45.45:792][856]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.02.18-18.45.45:793][856]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.02.18-18.45.45:793][856]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.02.18-18.45.45:793][856]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.02.18-18.45.45:794][856]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.02.18-18.45.45:794][856]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.02.18-18.45.45:794][856]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.02.18-18.45.45:795][856]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.02.18-18.45.45:797][856]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.02.18-18.45.45:850][856]LogD3D11RHI: Shutdown
+[2020.02.18-18.45.45:850][856]LogD3D11RHI: CleanupD3DDevice
+[2020.02.18-18.45.45:926][856]LogExit: Exiting.
+[2020.02.18-18.45.45:958][856]Log file closed, 02/18/20 19:45:45
