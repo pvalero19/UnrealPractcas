@@ -1,4 +1,4 @@
-﻿Log file open, 03/13/20 14:33:15
+﻿Log file open, 03/16/20 20:44:38
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -9,7 +9,7 @@ LogConsoleResponse: Display: Failed to find resolution value strings in scalabil
 LogInit: Display: Running engine for game: Practica1
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.195002
+LogStats: Stats thread started at 0.120353
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -130,7 +130,7 @@ LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
 LogInit: Compiled with Visual C++: 19.16.27032.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.24
-LogInit: Command Line: 
+LogInit: Command Line:  -EpicPortal -epicusername=Mireiia5 -epicuserid=93a69fc451024811897d26c901b30920 -epiclocale=es
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 25
@@ -163,266 +163,1391 @@ LogInit: Presizing for max 25165824 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Engine.ini]
-[2020.03.13-13.33.17:156][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Engine.ini]
-[2020.03.13-13.33.17:156][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Engine.ini]
-[2020.03.13-13.33.17:156][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Engine.ini]
-[2020.03.13-13.33.17:156][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2020.03.13-13.33.17:156][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Engine.ini]
-[2020.03.13-13.33.17:156][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Engine.ini]
-[2020.03.13-13.33.17:159][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2020.03.13-13.33.17:159][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
-[2020.03.13-13.33.17:160][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
-[2020.03.13-13.33.17:160][  0]LogInit: Selected Device Profile: [Windows]
-[2020.03.13-13.33.17:160][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2020.03.13-13.33.17:167][  0]LogHAL: Display: Platform has ~ 8 GB [8425897984 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2020.03.13-13.33.17:167][  0]LogInit: Going up to parent DeviceProfile []
-[2020.03.13-13.33.17:167][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2020.03.13-13.33.17:167][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
-[2020.03.13-13.33.17:168][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2020.03.13-13.33.17:173][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2020.03.13-13.33.17:173][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2020.03.13-13.33.17:173][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Engine.ini]
-[2020.03.13-13.33.17:173][  0]LogInit: Computer: DESKTOP-GH341P8
-[2020.03.13-13.33.17:173][  0]LogInit: User: mire
-[2020.03.13-13.33.17:173][  0]LogInit: CPU Page size=4096, Cores=6
-[2020.03.13-13.33.17:173][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2020.03.13-13.33.17:173][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
-[2020.03.13-13.33.17:173][  0]LogMemory: Platform Memory Stats for Windows
-[2020.03.13-13.33.17:173][  0]LogMemory: Process Physical Memory: 105.61 MB used, 105.61 MB peak
-[2020.03.13-13.33.17:173][  0]LogMemory: Process Virtual Memory: 101.37 MB used, 101.37 MB peak
-[2020.03.13-13.33.17:173][  0]LogMemory: Physical Memory: 4854.11 MB used,  3181.45 MB free, 8035.56 MB total
-[2020.03.13-13.33.17:173][  0]LogMemory: Virtual Memory: 5159.84 MB used,  134212568.00 MB free, 134217728.00 MB total
-[2020.03.13-13.33.17:185][  0]LogWindows: WindowsPlatformFeatures enabled
-[2020.03.13-13.33.17:407][  0]LogInit: Overriding language with editor language configuration option (en).
-[2020.03.13-13.33.17:408][  0]LogInit: Overriding locale with editor culture configuration option ().
-[2020.03.13-13.33.17:408][  0]LogInit: Using OS detected locale (es-ES).
-[2020.03.13-13.33.17:609][  0]LogInit: Setting process to per monitor DPI aware
-[2020.03.13-13.33.17:694][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2020.03.13-13.33.17:694][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2020.03.13-13.33.20:110][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2020.03.13-13.33.20:110][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
-[2020.03.13-13.33.20:110][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
-[2020.03.13-13.33.20:110][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.16-19.44.38:638][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.16-19.44.38:638][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.16-19.44.38:638][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Engine.ini]
+[2020.03.16-19.44.38:638][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.16-19.44.38:638][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Engine.ini]
+[2020.03.16-19.44.38:638][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Engine.ini]
+[2020.03.16-19.44.38:638][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.16-19.44.38:638][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.16-19.44.38:638][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.16-19.44.38:638][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.16-19.44.38:638][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.16-19.44.38:638][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.16-19.44.38:638][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.16-19.44.38:638][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.16-19.44.38:638][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.16-19.44.38:638][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.16-19.44.38:639][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.16-19.44.38:639][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.16-19.44.38:639][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.16-19.44.38:639][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.03.16-19.44.38:639][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Engine.ini]
+[2020.03.16-19.44.38:639][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.16-19.44.38:639][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.16-19.44.38:639][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.16-19.44.38:639][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.16-19.44.38:639][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.16-19.44.38:639][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.16-19.44.38:639][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.03.16-19.44.38:639][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.16-19.44.38:639][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.16-19.44.38:639][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.16-19.44.38:639][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.16-19.44.38:639][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.16-19.44.38:639][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.16-19.44.38:639][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Engine.ini]
+[2020.03.16-19.44.38:639][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Engine.ini]
+[2020.03.16-19.44.38:642][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-19.44.38:642][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.16-19.44.38:642][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.16-19.44.38:642][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-19.44.38:642][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.16-19.44.38:642][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-19.44.38:642][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.16-19.44.38:642][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.16-19.44.38:642][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.16-19.44.38:642][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.16-19.44.38:642][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.16-19.44.38:642][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.16-19.44.38:642][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.16-19.44.38:642][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.16-19.44.38:642][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.16-19.44.38:642][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.16-19.44.38:642][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.16-19.44.38:642][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.16-19.44.38:642][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.16-19.44.38:642][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.16-19.44.38:642][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.16-19.44.38:642][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.16-19.44.38:642][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.16-19.44.38:642][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.16-19.44.38:642][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-19.44.38:642][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.16-19.44.38:642][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.16-19.44.38:642][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.16-19.44.38:642][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.16-19.44.38:642][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.16-19.44.38:642][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.16-19.44.38:642][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.16-19.44.38:643][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.16-19.44.38:644][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.16-19.44.38:644][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.16-19.44.38:644][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.16-19.44.38:644][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.16-19.44.38:644][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.16-19.44.38:644][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.16-19.44.38:644][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.16-19.44.38:644][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.16-19.44.38:644][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.16-19.44.38:644][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.16-19.44.38:644][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.16-19.44.38:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.16-19.44.38:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.16-19.44.38:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.16-19.44.38:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.16-19.44.38:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.16-19.44.38:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.16-19.44.38:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.16-19.44.38:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.16-19.44.38:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.16-19.44.38:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.16-19.44.38:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.16-19.44.38:644][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-19.44.38:644][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.16-19.44.38:644][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.16-19.44.38:644][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-19.44.38:644][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.16-19.44.38:644][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.16-19.44.38:644][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.16-19.44.38:644][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.16-19.44.38:644][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.16-19.44.38:647][  0]LogHAL: Display: Platform has ~ 8 GB [8425897984 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.16-19.44.38:647][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.16-19.44.38:647][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-19.44.38:647][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.16-19.44.38:647][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.16-19.44.38:647][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-19.44.38:647][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.16-19.44.38:648][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.16-19.44.38:649][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.16-19.44.38:649][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.16-19.44.38:649][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.16-19.44.38:649][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.16-19.44.38:649][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.16-19.44.38:649][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.16-19.44.38:649][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.16-19.44.38:649][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.16-19.44.38:649][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.16-19.44.38:649][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.16-19.44.38:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.16-19.44.38:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.16-19.44.38:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.16-19.44.38:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.16-19.44.38:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.16-19.44.38:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.16-19.44.38:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.16-19.44.38:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.16-19.44.38:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.16-19.44.38:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.16-19.44.38:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.16-19.44.38:649][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-19.44.38:649][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.16-19.44.38:649][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.16-19.44.38:649][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-19.44.38:649][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.16-19.44.38:649][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.16-19.44.38:649][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.16-19.44.38:649][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.16-19.44.38:649][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.16-19.44.38:649][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.16-19.44.38:649][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Config/Windows/Engine.ini]
+[2020.03.16-19.44.38:649][  0]LogInit: Computer: DESKTOP-GH341P8
+[2020.03.16-19.44.38:649][  0]LogInit: User: mire
+[2020.03.16-19.44.38:649][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.03.16-19.44.38:649][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.16-19.44.38:650][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2020.03.16-19.44.38:650][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.16-19.44.38:650][  0]LogMemory: Process Physical Memory: 105.87 MB used, 105.87 MB peak
+[2020.03.16-19.44.38:650][  0]LogMemory: Process Virtual Memory: 101.86 MB used, 101.86 MB peak
+[2020.03.16-19.44.38:650][  0]LogMemory: Physical Memory: 6538.89 MB used,  1496.67 MB free, 8035.56 MB total
+[2020.03.16-19.44.38:650][  0]LogMemory: Virtual Memory: 5159.84 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2020.03.16-19.44.38:654][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.03.16-19.44.38:679][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.03.16-19.44.38:679][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2020.03.16-19.44.38:679][  0]LogInit: Using OS detected locale (es-ES).
+[2020.03.16-19.44.38:953][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.16-19.44.38:997][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.16-19.44.38:997][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.16-19.44.39:189][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.16-19.44.39:189][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.03.16-19.44.39:189][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.03.16-19.44.39:189][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.16-19.44.39:267][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2020.03.16-19.44.39:267][  0]LogD3D11RHI:       4021/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.16-19.44.39:285][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.03.16-19.44.39:285][  0]LogD3D11RHI:       128/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.03.16-19.44.39:287][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.16-19.44.39:287][  0]LogD3D11RHI:       0/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.16-19.44.39:287][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.16-19.44.39:321][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.16-19.44.39:321][  0]LogD3D11RHI:     GPU DeviceId: 0x1c92 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.16-19.44.39:321][  0]LogWindows: EnumDisplayDevices:
+[2020.03.16-19.44.39:321][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.03.16-19.44.39:322][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.03.16-19.44.39:322][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.03.16-19.44.39:322][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.03.16-19.44.39:322][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2020.03.16-19.44.39:322][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.03.16-19.44.39:322][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.03.16-19.44.39:322][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2020.03.16-19.44.39:366][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.03.16-19.44.39:366][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.16-19.44.39:378][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.16-19.44.39:738][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.03.16-19.44.39:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.03.16-19.44.39:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.03.16-19.44.39:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.03.16-19.44.39:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.03.16-19.44.39:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.03.16-19.44.39:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.03.16-19.44.39:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.03.16-19.44.39:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.03.16-19.44.39:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.03.16-19.44.39:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.16-19.44.39:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.03.16-19.44.39:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.03.16-19.44.39:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.16-19.44.39:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.16-19.44.39:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.16-19.44.39:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.16-19.44.39:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.03.16-19.44.39:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.03.16-19.44.39:783][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.03.16-19.44.39:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.03.16-19.44.39:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.16-19.44.39:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.03.16-19.44.39:804][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.03.16-19.44.39:811][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.03.16-19.44.39:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.03.16-19.44.39:824][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.03.16-19.44.39:845][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.03.16-19.44.39:845][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.03.16-19.44.39:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.03.16-19.44.39:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.03.16-19.44.39:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.16-19.44.39:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.03.16-19.44.39:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.03.16-19.44.39:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.03.16-19.44.39:882][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.16-19.44.39:885][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.16-19.44.39:905][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Intermediate/Shaders/WorkingDirectory/19408/).
+[2020.03.16-19.44.39:905][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mire-/AppData/Local/Temp/UnrealShaderWorkingDir/91D08F5C413DFB8DFE5B90955BD42B64/'.
+[2020.03.16-19.44.39:906][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.16-19.44.39:906][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.16-19.44.39:906][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.16-19.44.40:590][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.16-19.44.40:644][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/mire-/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.16-19.44.40:644][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mire-/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.03.16-19.44.40:644][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.16-19.44.40:644][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.16-19.44.40:644][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.16-19.44.40:644][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.16-19.44.40:653][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.16-19.44.40:654][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.16-19.44.40:654][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.16-19.44.40:655][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mire-/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.16-19.44.40:655][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.16-19.44.40:655][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.16-19.44.40:678][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.16-19.44.40:680][  0]LogSlate: Using FreeType 2.10.0
+[2020.03.16-19.44.40:681][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.16-19.44.40:729][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2020.03.16-19.44.41:014][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.16-19.44.41:150][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.16-19.44.41:150][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.16-19.44.41:150][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.16-19.44.41:150][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.16-19.44.41:150][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.16-19.44.41:161][  0]LogNetVersion: Practica1 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1953194674)
+[2020.03.16-19.44.42:282][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.103056 seconds
+[2020.03.16-19.44.42:296][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.03.16-19.44.42:296][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.03.16-19.44.42:296][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.16-19.44.42:748][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.16-19.44.42:750][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.16-19.44.42:801][  0]SourceControl: Source control is disabled
+[2020.03.16-19.44.42:801][  0]SourceControl: Source control is disabled
+[2020.03.16-19.44.42:803][  0]SourceControl: Source control is disabled
+[2020.03.16-19.44.42:804][  0]SourceControl: Source control is disabled
+[2020.03.16-19.44.42:804][  0]SourceControl: Source control is disabled
+[2020.03.16-19.44.42:882][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.16-19.44.42:893][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.16-19.44.42:893][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.16-19.44.42:984][  0]LogOcInput: OculusInput pre-init called
+[2020.03.16-19.44.42:992][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.03.16-19.44.42:992][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.03.16-19.44.43:060][  0]LogEngine: Initializing Engine...
+[2020.03.16-19.44.43:061][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.16-19.44.43:062][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.16-19.44.43:437][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.16-19.44.43:444][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.16-19.44.43:467][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.16-19.44.43:467][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.16-19.44.43:467][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.16-19.44.43:467][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.16-19.44.43:467][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.16-19.44.43:467][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.16-19.44.43:468][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.16-19.44.43:468][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.16-19.44.43:468][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.16-19.44.43:468][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.16-19.44.43:499][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.16-19.44.43:499][  0]LogAudioMixer: Display: Name: Altavoces (2- Realtek(R) Audio)
+[2020.03.16-19.44.43:499][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.03.16-19.44.43:499][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.16-19.44.43:499][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.16-19.44.43:499][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.16-19.44.43:499][  0]LogAudioMixer: Display: Channel Order:
+[2020.03.16-19.44.43:499][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.16-19.44.43:499][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.03.16-19.44.43:549][  0]LogAudioMixer: Display: Using Audio Device Altavoces (2- Realtek(R) Audio)
+[2020.03.16-19.44.43:554][  0]LogInit: FAudioDevice initialized.
+[2020.03.16-19.44.43:555][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.16-19.44.43:623][  0]LogDerivedDataCache: Saved boot cache 0.07s 78MB C:/Users/mire-/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.16-19.44.43:627][  0]LogInit: Texture streaming: Enabled
+[2020.03.16-19.44.43:643][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.16-19.44.43:644][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.03.16-19.44.43:647][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.03.16-19.44.43:710][  0]LogInit: Transaction tracking system initialized
+[2020.03.16-19.44.43:719][  0]BlueprintLog: New page: Editor Load
+[2020.03.16-19.44.43:747][  0]LocalizationService: Localization service is disabled
+[2020.03.16-19.44.44:081][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.16-19.44.44:081][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.16-19.44.44:160][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/' took 0.04s
+[2020.03.16-19.44.44:686][  0]SourceControl: Source control is disabled
+[2020.03.16-19.44.44:686][  0]Cmd: MAP LOAD FILE="../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/Prac2/Scenes/MenuPrincipal.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.16-19.44.44:693][  0]LightingResults: New page: Lighting Build
+[2020.03.16-19.44.44:694][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-19.44.44:694][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.16-19.44.44:694][  0]MapCheck: New page: Map Check
+[2020.03.16-19.44.44:694][  0]LightingResults: New page: Lighting Build
+[2020.03.16-19.44.44:736][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.03.16-19.44.44:772][  0]LogAIModule: Creating AISystem for world MenuPrincipal
+[2020.03.16-19.44.44:773][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.16-19.44.44:811][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.03.16-19.44.44:811][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.16-19.44.44:811][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,138ms to complete.
+[2020.03.16-19.44.44:811][  0]LogFileHelpers: Loading map 'MenuPrincipal' took 0.125
+[2020.03.16-19.44.45:138][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-19.44.45:146][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-19.44.45:153][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-19.44.45:160][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-19.44.45:176][  0]LogCollectionManager: Loaded 0 collections in 0.001648 seconds
+[2020.03.16-19.44.45:215][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Collections/' took 0.00s
+[2020.03.16-19.44.45:215][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Developers/mire/Collections/' took 0.00s
+[2020.03.16-19.44.45:215][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Collections/' took 0.00s
+[2020.03.16-19.44.45:215][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 3017 classes and 720 folders.
+[2020.03.16-19.44.45:226][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.16-19.44.45:690][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.16-19.44.45:936][  0]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.16-19.44.45:954][  0]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.16-19.44.45:972][  0]LogSlate: Took 0.011372 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.16-19.44.46:091][  0]LogRenderer: Reallocating scene render targets to support 780x416 Format 10 NumSamples 1 (Frame:1).
+[2020.03.16-19.44.46:215][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.16-19.44.46:216][  0]LogLoad: (Engine Initialization) Total time: 9.17 seconds
+[2020.03.16-19.44.46:216][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.16-19.44.46:297][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.16-19.44.46:326][  0]LogSlate: Took 0.012952 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.16-19.44.46:330][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/' took 0.09s
+[2020.03.16-19.44.46:854][ 11]LogAssetRegistry: Asset discovery search completed in 6.1257 seconds
+[2020.03.16-19.44.46:859][ 11]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2020.03.16-19.44.49:297][ 85]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.16-19.44.53:499][206]AssetReimport: New page: Outstanding source content changes 21:44:53
+[2020.03.16-19.44.53:577][207]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/Prac2/Sounds/332629__treasuresounds__item-pickup.ogg)
+[2020.03.16-19.44.53:710][208]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/Prac2/Sounds/Coin.wav)
+[2020.03.16-19.44.53:761][209]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/Prac2/Sounds/Door.wav)
+[2020.03.16-19.44.53:860][210]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/Prac2/Sounds/KillShoot.wav)
+[2020.03.16-19.44.53:910][211]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/Prac2/Sounds/PossesShoot.wav)
+[2020.03.16-19.44.54:178][212]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/332629__treasuresounds__item-pic8B48247C42ADF2A97516148C8F86B813.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/Prac2/Sounds/332629__treasuresounds__item-pickup.uasset'
+[2020.03.16-19.44.54:187][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Prac2/Sounds/Coin" FILE="../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/Prac2/Sounds/Coin.uasset" SILENT=true
+[2020.03.16-19.44.54:197][212]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Coin2466971947708E9A0F25AD9E0E24311E.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/Prac2/Sounds/Coin.uasset'
+[2020.03.16-19.44.54:204][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Prac2/Sounds/Door" FILE="../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/Prac2/Sounds/Door.uasset" SILENT=true
+[2020.03.16-19.44.54:214][212]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/DoorEBAAA3424D262DB2E8C38DA076457B62.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/Prac2/Sounds/Door.uasset'
+[2020.03.16-19.44.54:229][212]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/KillShoot9813D90C418406C3FFD5CCB7B6C39DAC.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/Prac2/Sounds/KillShoot.uasset'
+[2020.03.16-19.44.54:282][212]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/PossesShootB8D6F7EE4DAA846909AE509818939A97.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/Prac2/Sounds/PossesShoot.uasset'
+[2020.03.16-19.44.54:347][213]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.16-19.44.54:347][213]LogContentValidation: Display: Validating SoundWave /Game/Blueprints/Prac2/Sounds/332629__treasuresounds__item-pickup.332629__treasuresounds__item-pickup
+[2020.03.16-19.44.54:347][213]LogContentValidation: Display: Validating SoundWave /Game/Blueprints/Prac2/Sounds/Coin.Coin
+[2020.03.16-19.44.54:347][213]LogContentValidation: Display: Validating SoundWave /Game/Blueprints/Prac2/Sounds/Door.Door
+[2020.03.16-19.44.54:347][213]LogContentValidation: Display: Validating SoundWave /Game/Blueprints/Prac2/Sounds/KillShoot.KillShoot
+[2020.03.16-19.44.54:347][213]LogContentValidation: Display: Validating SoundWave /Game/Blueprints/Prac2/Sounds/PossesShoot.PossesShoot
+[2020.03.16-19.44.57:337][274]AssetReimport: Importing new asset /Game/Blueprints/Prac2/Sounds/332629__treasuresounds__item-pickup.
+[2020.03.16-19.44.57:338][274]AssetReimport: Importing new asset /Game/Blueprints/Prac2/Sounds/Coin.
+[2020.03.16-19.44.57:338][274]AssetReimport: Importing new asset /Game/Blueprints/Prac2/Sounds/Door.
+[2020.03.16-19.44.57:338][274]AssetReimport: Importing new asset /Game/Blueprints/Prac2/Sounds/KillShoot.
+[2020.03.16-19.44.57:338][274]AssetReimport: Importing new asset /Game/Blueprints/Prac2/Sounds/PossesShoot.
+[2020.03.16-19.45.12:717][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/Environment/Roof_01/Materials/m_en_Roof_01_03.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_r': Can't find file.
+[2020.03.16-19.45.12:718][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/Environment/Roof_01/Materials/m_en_Roof_01_03.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_r': Can't find file.
+[2020.03.16-19.45.12:718][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/Environment/Roof_01/Materials/m_en_Roof_01_03.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_r': Can't find file.
+[2020.03.16-19.45.12:718][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/Environment/Roof_01/Materials/m_en_Roof_01_03.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_r': Can't find file.
+[2020.03.16-19.45.12:767][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/BaseMaterials/m_BaseMaterialWindows_01.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n': Can't find file.
+[2020.03.16-19.45.12:767][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/BaseMaterials/m_BaseMaterialWindows_01.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n': Can't find file.
+[2020.03.16-19.45.12:768][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/BaseMaterials/m_BaseMaterialWindows_01.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n': Can't find file.
+[2020.03.16-19.45.12:768][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/BaseMaterials/m_BaseMaterialWindows_01.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n': Can't find file.
+[2020.03.16-19.45.12:826][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/Environment/WallB/Materials/mi_WallB_master.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n': Can't find file.
+[2020.03.16-19.45.12:826][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/Environment/WallB/Materials/mi_WallB_master.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n': Can't find file.
+[2020.03.16-19.45.12:827][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/Environment/WallB/Materials/mi_WallB_master.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n': Can't find file.
+[2020.03.16-19.45.12:827][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/Environment/WallB/Materials/mi_WallB_master.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n': Can't find file.
+[2020.03.16-19.45.12:921][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/Environment/WallA/Materials/mi_WallA_master.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n': Can't find file.
+[2020.03.16-19.45.12:921][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/Environment/WallA/Materials/mi_WallA_master.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n': Can't find file.
+[2020.03.16-19.45.12:921][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/Environment/WallA/Materials/mi_WallA_master.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n': Can't find file.
+[2020.03.16-19.45.12:921][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/Environment/WallA/Materials/mi_WallA_master.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n': Can't find file.
+[2020.03.16-19.45.14:500][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/Environment/WallC/Materials/mi_WallC_master.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n': Can't find file.
+[2020.03.16-19.45.14:500][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/Environment/WallC/Materials/mi_WallC_master.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n': Can't find file.
+[2020.03.16-19.45.14:500][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/Environment/WallC/Materials/mi_WallC_master.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n': Can't find file.
+[2020.03.16-19.45.14:501][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/Environment/WallC/Materials/mi_WallC_master.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n': Can't find file.
+[2020.03.16-19.45.14:637][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/Environment/WallD/Materials/mi_WallD_master.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n': Can't find file.
+[2020.03.16-19.45.14:638][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/Environment/WallD/Materials/mi_WallD_master.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n': Can't find file.
+[2020.03.16-19.45.14:638][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/Environment/WallD/Materials/mi_WallD_master.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n': Can't find file.
+[2020.03.16-19.45.14:638][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/Environment/WallD/Materials/mi_WallD_master.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n': Can't find file.
+[2020.03.16-19.45.15:057][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/Environment/Roof_01/Materials/m_en_Roof_01_03.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_r': Can't find file.
+[2020.03.16-19.45.15:057][612]LoadErrors: Failed to load /Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_r.t_en_asphalt_01_01_r Referenced by MaterialExpressionTextureSample_2
+[2020.03.16-19.45.15:058][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/Environment/Roof_01/Materials/m_en_Roof_01_03.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_r': Can't find file.
+[2020.03.16-19.45.15:126][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/Environment/WallB/Materials/mi_WallB_master.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n': Can't find file.
+[2020.03.16-19.45.15:126][612]LoadErrors: Failed to load /Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n.t_en_asphalt_01_01_n Referenced by mi_WallB_master
+[2020.03.16-19.45.15:127][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/Environment/WallB/Materials/mi_WallB_master.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n': Can't find file.
+[2020.03.16-19.45.15:184][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/Environment/WallD/Materials/mi_WallD_master.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n': Can't find file.
+[2020.03.16-19.45.15:184][612]LoadErrors: Failed to load /Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n.t_en_asphalt_01_01_n Referenced by mi_WallD_master
+[2020.03.16-19.45.15:184][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/Environment/WallD/Materials/mi_WallD_master.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n': Can't find file.
+[2020.03.16-19.45.15:195][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/Environment/WallC/Materials/mi_WallC_master.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n': Can't find file.
+[2020.03.16-19.45.15:196][612]LoadErrors: Failed to load /Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n.t_en_asphalt_01_01_n Referenced by mi_WallC_master
+[2020.03.16-19.45.15:196][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/Environment/WallC/Materials/mi_WallC_master.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n': Can't find file.
+[2020.03.16-19.45.15:363][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/Environment/WallA/Materials/mi_WallA_master.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n': Can't find file.
+[2020.03.16-19.45.15:363][612]LoadErrors: Failed to load /Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n.t_en_asphalt_01_01_n Referenced by mi_WallA_master
+[2020.03.16-19.45.15:364][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/Environment/WallA/Materials/mi_WallA_master.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n': Can't find file.
+[2020.03.16-19.45.15:398][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/BaseMaterials/m_BaseMaterialWindows_01.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n': Can't find file.
+[2020.03.16-19.45.15:398][612]LoadErrors: Failed to load /Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n.t_en_asphalt_01_01_n Referenced by MaterialExpressionTextureSampleParameter2D_2
+[2020.03.16-19.45.15:398][612]LogLinker: Warning: While loading '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/AbandonedFactory/BaseMaterials/m_BaseMaterialWindows_01.uasset' failed to load '/Game/AbandonedFactory/Landscape/Textures/t_en_asphalt_01_01_n': Can't find file.
+[2020.03.16-19.45.15:570][612]LogMaterial: Display: Missing cached shader map for material m_en_Roof_01_03, compiling. 
+[2020.03.16-19.45.15:576][612]LogMaterial: Warning: C:\Users\mire-\Documents\GitHub\UnrealPractcas\Practica1\Content\AbandonedFactory\Environment\Roof_01\Materials\m_en_Roof_01_03.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.16-19.45.15:576][612]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.03.16-19.45.16:246][612]LogMaterial: Display: Missing cached shader map for material m_Base_Material_01, compiling. 
+[2020.03.16-19.45.16:247][612]LogMaterial: Warning: C:\Users\mire-\Documents\GitHub\UnrealPractcas\Practica1\Content\AbandonedFactory\BaseMaterials\m_Base_Material_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.16-19.45.16:247][612]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.03.16-19.45.16:253][612]LogMaterial: Display: Missing cached shader map for material m_Base_Material_01, compiling. 
+[2020.03.16-19.45.16:254][612]LogMaterial: Warning: C:\Users\mire-\Documents\GitHub\UnrealPractcas\Practica1\Content\AbandonedFactory\Environment\WallB\Materials\mi_WallB_master.uasset: Failed to compile Material Instance with Base m_Base_Material_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.16-19.45.16:254][612]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.03.16-19.45.16:289][612]LogMaterial: Display: Missing cached shader map for material m_Base_Material_01, compiling. 
+[2020.03.16-19.45.16:289][612]LogMaterial: Warning: C:\Users\mire-\Documents\GitHub\UnrealPractcas\Practica1\Content\AbandonedFactory\Environment\WallA\Materials\mi_WallA_master.uasset: Failed to compile Material Instance with Base m_Base_Material_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.16-19.45.16:289][612]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.03.16-19.45.16:300][612]LogMaterial: Display: Missing cached shader map for material m_BaseMaterialWindows_01, compiling. 
+[2020.03.16-19.45.16:301][612]LogMaterial: Warning: C:\Users\mire-\Documents\GitHub\UnrealPractcas\Practica1\Content\AbandonedFactory\BaseMaterials\m_BaseMaterialWindows_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.16-19.45.16:301][612]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.03.16-19.45.16:306][612]LogMaterial: Display: Missing cached shader map for material m_BaseMaterialWindows_01, compiling. 
+[2020.03.16-19.45.16:306][612]LogMaterial: Warning: C:\Users\mire-\Documents\GitHub\UnrealPractcas\Practica1\Content\AbandonedFactory\Environment\WallB\Materials\mi_WindowB_02_1002.uasset: Failed to compile Material Instance with Base m_BaseMaterialWindows_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.16-19.45.16:306][612]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.03.16-19.45.16:325][612]LogMaterial: Display: Missing cached shader map for material m_BaseMaterialWindows_01, compiling. 
+[2020.03.16-19.45.16:325][612]LogMaterial: Warning: C:\Users\mire-\Documents\GitHub\UnrealPractcas\Practica1\Content\AbandonedFactory\Environment\WallB\Materials\mi_Windows_02.uasset: Failed to compile Material Instance with Base m_BaseMaterialWindows_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.16-19.45.16:325][612]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.03.16-19.45.16:347][612]LogMaterial: Display: Missing cached shader map for material m_BaseMaterialWindows_01, compiling. 
+[2020.03.16-19.45.16:347][612]LogMaterial: Warning: C:\Users\mire-\Documents\GitHub\UnrealPractcas\Practica1\Content\AbandonedFactory\Environment\WallB\Materials\mi_WindowB_01_1002.uasset: Failed to compile Material Instance with Base m_BaseMaterialWindows_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.16-19.45.16:347][612]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.03.16-19.45.16:396][612]LogMaterial: Display: Missing cached shader map for material m_Base_Material_01, compiling. 
+[2020.03.16-19.45.16:397][612]LogMaterial: Warning: C:\Users\mire-\Documents\GitHub\UnrealPractcas\Practica1\Content\AbandonedFactory\Environment\Roof_01\Materials\BaseMaterial_01_Inst.uasset: Failed to compile Material Instance with Base m_Base_Material_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.16-19.45.16:397][612]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.03.16-19.45.16:406][612]LogMaterial: Display: Missing cached shader map for material m_BaseMaterialWindows_01, compiling. 
+[2020.03.16-19.45.16:407][612]LogMaterial: Warning: C:\Users\mire-\Documents\GitHub\UnrealPractcas\Practica1\Content\AbandonedFactory\Environment\WallB\Materials\mi_Windows_01.uasset: Failed to compile Material Instance with Base m_BaseMaterialWindows_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.16-19.45.16:407][612]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.03.16-19.45.16:565][612]LogMaterial: Display: Missing cached shader map for material m_BaseMaterialWindows_01, compiling. 
+[2020.03.16-19.45.16:566][612]LogMaterial: Warning: C:\Users\mire-\Documents\GitHub\UnrealPractcas\Practica1\Content\AbandonedFactory\Environment\WallD\Materials\mi_WindowsD_03.uasset: Failed to compile Material Instance with Base m_BaseMaterialWindows_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.16-19.45.16:566][612]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.03.16-19.45.16:573][612]LogMaterial: Display: Missing cached shader map for material m_BaseMaterialWindows_01, compiling. 
+[2020.03.16-19.45.16:574][612]LogMaterial: Warning: C:\Users\mire-\Documents\GitHub\UnrealPractcas\Practica1\Content\AbandonedFactory\Environment\WallD\Materials\mi_WindowsD_02.uasset: Failed to compile Material Instance with Base m_BaseMaterialWindows_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.16-19.45.16:574][612]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.03.16-19.45.16:581][612]LogMaterial: Display: Missing cached shader map for material m_BaseMaterialWindows_01, compiling. 
+[2020.03.16-19.45.16:582][612]LogMaterial: Warning: C:\Users\mire-\Documents\GitHub\UnrealPractcas\Practica1\Content\AbandonedFactory\Environment\WallD\Materials\mi_WindowsD_01.uasset: Failed to compile Material Instance with Base m_BaseMaterialWindows_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.16-19.45.16:582][612]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.03.16-19.45.16:588][612]LogMaterial: Display: Missing cached shader map for material m_Base_Material_01, compiling. 
+[2020.03.16-19.45.16:589][612]LogMaterial: Warning: C:\Users\mire-\Documents\GitHub\UnrealPractcas\Practica1\Content\AbandonedFactory\Environment\WallD\Materials\mi_WallD_master.uasset: Failed to compile Material Instance with Base m_Base_Material_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.16-19.45.16:589][612]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.03.16-19.45.16:604][612]LogMaterial: Display: Missing cached shader map for material m_BaseMaterialWindows_01, compiling. 
+[2020.03.16-19.45.16:605][612]LogMaterial: Warning: C:\Users\mire-\Documents\GitHub\UnrealPractcas\Practica1\Content\AbandonedFactory\Environment\WallC\Materials\mi_WindowsC_03.uasset: Failed to compile Material Instance with Base m_BaseMaterialWindows_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.16-19.45.16:605][612]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.03.16-19.45.16:610][612]LogMaterial: Display: Missing cached shader map for material m_Base_Material_01, compiling. 
+[2020.03.16-19.45.16:611][612]LogMaterial: Warning: C:\Users\mire-\Documents\GitHub\UnrealPractcas\Practica1\Content\AbandonedFactory\Environment\WallC\Materials\mi_WallC_master.uasset: Failed to compile Material Instance with Base m_Base_Material_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.16-19.45.16:611][612]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.03.16-19.45.16:694][612]LogMaterial: Display: Missing cached shader map for material m_Base_Material_01, compiling. 
+[2020.03.16-19.45.16:695][612]LogMaterial: Warning: C:\Users\mire-\Documents\GitHub\UnrealPractcas\Practica1\Content\AbandonedFactory\Environment\Manhole_01\Materials\mi_en_Manhole_01_01.uasset: Failed to compile Material Instance with Base m_Base_Material_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.16-19.45.16:695][612]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.03.16-19.45.17:066][612]LogMaterial: Display: Missing cached shader map for material m_BaseMaterialWindows_01, compiling. 
+[2020.03.16-19.45.17:067][612]LogMaterial: Warning: C:\Users\mire-\Documents\GitHub\UnrealPractcas\Practica1\Content\AbandonedFactory\Environment\WallC\Materials\mi_WindowsC_04.uasset: Failed to compile Material Instance with Base m_BaseMaterialWindows_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.16-19.45.17:067][612]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.03.16-19.45.17:084][612]LogAIModule: Creating AISystem for world Prac1world
+[2020.03.16-19.45.17:177][612]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Practica1/Prac1world.Prac1world
+[2020.03.16-19.45.17:241][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.03.16-19.45.17:248][612]Cmd: MAP LOAD FILE="../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/Prac1world.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.16-19.45.17:248][612]LightingResults: New page: Lighting Build
+[2020.03.16-19.45.17:249][612]LoadErrors: New page: Loading map: Prac1world.umap
+[2020.03.16-19.45.17:249][612]LogWorld: UWorld::CleanupWorld for MenuPrincipal, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-19.45.17:249][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.16-19.45.17:250][612]MapCheck: New page: Map Check
+[2020.03.16-19.45.17:250][612]LightingResults: New page: Lighting Build
+[2020.03.16-19.45.17:291][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.03.16-19.45.17:532][612]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.16-19.45.17:593][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.03.16-19.45.17:616][612]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.16-19.45.17:617][612]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,127ms to complete.
+[2020.03.16-19.45.17:617][612]LogFileHelpers: Loading map 'Prac1world' took 0.372
+[2020.03.16-19.45.20:745][689]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Coin.Coin
+[2020.03.16-19.45.21:067][689]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2020.03.16-19.45.22:112][689]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.16-19.45.22:525][690]LogSlate: Took 0.009756 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.16-19.45.52:841][242]BlueprintLog: New page: Compile Coin
+[2020.03.16-19.45.53:094][242]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.03.16-19.45.53:835][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Coin" FILE="../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/Coin.uasset" SILENT=true
+[2020.03.16-19.45.53:876][248]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Coin1E0F0DC34B852B08067DCDAD9793A370.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/Coin.uasset'
+[2020.03.16-19.45.53:894][248]AssetCheck: New page: Asset Save: Coin
+[2020.03.16-19.45.53:894][248]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Coin.Coin
+[2020.03.16-19.46.03:591][448]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Key.Key
+[2020.03.16-19.46.24:443][888]BlueprintLog: New page: Compile Key
+[2020.03.16-19.46.24:667][888]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.03.16-19.46.25:452][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Key" FILE="../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/Key.uasset" SILENT=true
+[2020.03.16-19.46.25:482][896]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Key38D213184416433E447F86BA2793B110.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/Key.uasset'
+[2020.03.16-19.46.25:500][896]AssetCheck: New page: Asset Save: Key
+[2020.03.16-19.46.25:500][896]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Key.Key
+[2020.03.16-19.46.28:561][976]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/KeyDoor.KeyDoor
+[2020.03.16-19.46.38:987][148]LogEditorViewport: Clicking on Actor (LMB): DistanceDoor_C (DistanceDoor2)
+[2020.03.16-19.46.39:088][148]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Cube)
+[2020.03.16-19.47.06:043][707]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.16-19.47.06:061][707]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.03.16-19.47.06:064][707]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.16-19.47.06:064][707]PIE: New page: PIE session: Prac1world (16 mar. 2020 21:47:06)
+[2020.03.16-19.47.06:065][707]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.03.16-19.47.06:067][707]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.03.16-19.47.06:068][707]LogPlayLevel: Creating play world package: /Game/Practica1/UEDPIE_0_Prac1world
+[2020.03.16-19.47.06:188][707]LogPlayLevel: PIE: StaticDuplicateObject took: (0.119096s)
+[2020.03.16-19.47.06:190][707]LogAIModule: Creating AISystem for world Prac1world
+[2020.03.16-19.47.06:190][707]LogPlayLevel: PIE: World Init took: (0.002708s)
+[2020.03.16-19.47.06:191][707]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Practica1/Prac1world.Prac1world to /Game/Practica1/UEDPIE_0_Prac1world.Prac1world (0.122442s)
+[2020.03.16-19.47.06:235][707]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.03.16-19.47.06:239][707]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.16-19.47.06:239][707]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.16-19.47.06:239][707]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.16-19.47.06:239][707]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.16-19.47.06:239][707]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.16-19.47.06:239][707]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.16-19.47.06:239][707]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.16-19.47.06:239][707]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.16-19.47.06:239][707]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.16-19.47.06:239][707]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.16-19.47.06:246][707]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.16-19.47.06:246][707]LogAudioMixer: Display: Name: Altavoces (2- Realtek(R) Audio)
+[2020.03.16-19.47.06:246][707]LogAudioMixer: Display: Is Default: Yes
+[2020.03.16-19.47.06:246][707]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.16-19.47.06:246][707]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.16-19.47.06:246][707]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.16-19.47.06:246][707]LogAudioMixer: Display: Channel Order:
+[2020.03.16-19.47.06:246][707]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.16-19.47.06:246][707]LogAudioMixer: Display: 1: FrontRight
+[2020.03.16-19.47.06:251][707]LogAudioMixer: Display: Using Audio Device Altavoces (2- Realtek(R) Audio)
+[2020.03.16-19.47.06:253][707]LogInit: FAudioDevice initialized.
+[2020.03.16-19.47.06:264][707]LogLoad: Game class is 'GM_FirstPersonGameMode_C'
+[2020.03.16-19.47.06:285][707]LogWorld: Bringing World /Game/Practica1/UEDPIE_0_Prac1world.Prac1world up for play (max tick rate 60) at 2020.03.16-20.47.06
+[2020.03.16-19.47.06:301][707]LogWorld: Bringing up level for play took: 0.027469
+[2020.03.16-19.47.06:303][707]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.03.16-19.47.06:322][707]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.03.16-19.47.06:363][707]PIE: Play in editor start time for /Game/Practica1/UEDPIE_0_Prac1world 0,857
+[2020.03.16-19.47.06:363][707]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.03.16-19.47.23:684][223]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.16-19.47.23:708][223]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.16-19.47.23:729][223]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.16-19.47.23:731][223]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.03.16-19.47.23:734][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-19.47.23:734][223]LogWorld: BeginTearingDown for /Game/Practica1/UEDPIE_0_Prac1world
+[2020.03.16-19.47.23:735][223]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.16-19.47.23:736][223]LogWorld: UWorld::CleanupWorld for Prac1world, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-19.47.23:738][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.16-19.47.23:776][223]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.16-19.47.23:776][223]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.03.16-19.47.23:783][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.16-19.47.23:836][223]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.16-19.47.23:839][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-19.47.23:861][223]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.03.16-19.47.23:887][224]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.03.16-19.47.25:046][259]LogEditorViewport: Clicking on Actor (LMB): BP_ConditionDooor_C (CoinsDoor)
+[2020.03.16-19.47.28:274][339]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_ConditionDooor.BP_ConditionDooor
+[2020.03.16-19.48.55:484][342]BlueprintLog: New page: Compile BP_ConditionDooor
+[2020.03.16-19.48.55:822][342]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2020.03.16-19.48.57:487][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ConditionDooor" FILE="../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/BP_ConditionDooor.uasset" SILENT=true
+[2020.03.16-19.48.57:536][358]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/BP_ConditionDooorFC6462BB4FF307D2C61116BEBC561283.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/BP_ConditionDooor.uasset'
+[2020.03.16-19.48.57:559][358]AssetCheck: New page: Asset Save: BP_ConditionDooor
+[2020.03.16-19.48.57:559][358]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_ConditionDooor.BP_ConditionDooor
+[2020.03.16-19.49.08:514][548]Cmd: DELETE
+[2020.03.16-19.49.08:514][548]Cmd: ACTOR DELETE
+[2020.03.16-19.49.08:540][548]LogEditorActor: Deleted Actor: LightDoor_C
+[2020.03.16-19.49.08:604][548]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2020.03.16-19.49.08:606][548]LogEditorActor: Deleted 1 Actors (0.081 secs)
+[2020.03.16-19.49.10:144][595]Cmd: TRANSACTION UNDO
+[2020.03.16-19.49.10:144][595]LogEditorTransaction: Undo Delete Actors
+[2020.03.16-19.49.17:115][735]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/LightDoor.LightDoor
+[2020.03.16-19.50.17:077][488]BlueprintLog: New page: Compile LightDoor
+[2020.03.16-19.50.17:390][488]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.03.16-19.50.18:301][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/LightDoor" FILE="../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/LightDoor.uasset" SILENT=true
+[2020.03.16-19.50.18:343][496]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/LightDoorDB957236422D2DC2422453A2CDCA6E7D.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/LightDoor.uasset'
+[2020.03.16-19.50.18:365][496]AssetCheck: New page: Asset Save: LightDoor
+[2020.03.16-19.50.18:365][496]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/LightDoor.LightDoor
+[2020.03.16-19.50.25:723][625]Cmd: DELETE
+[2020.03.16-19.50.25:723][625]Cmd: ACTOR DELETE
+[2020.03.16-19.50.25:729][625]LogEditorActor: Deleted Actor: DistanceDoor_C
+[2020.03.16-19.50.25:794][625]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.03.16-19.50.25:795][625]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2020.03.16-19.50.33:668][782]Cmd: DELETE
+[2020.03.16-19.50.33:668][782]Cmd: ACTOR DELETE
+[2020.03.16-19.50.33:674][782]LogEditorActor: Deleted Actor: KeyDoor_C
+[2020.03.16-19.50.33:738][782]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.03.16-19.50.33:739][782]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2020.03.16-19.50.46:699][ 18]Cmd: EDIT COPY
+[2020.03.16-19.50.48:235][ 54]Cmd: EDIT PASTE
+[2020.03.16-19.50.53:146][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Teulat)
+[2020.03.16-19.50.53:977][200]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (sm_en_Roof_01_16)
+[2020.03.16-19.50.56:426][266]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.03.16-19.51.18:115][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_en_Roof_01_14)
+[2020.03.16-19.51.19:115][797]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (sm_en_Roof_01_12)
+[2020.03.16-19.51.24:174][932]LogEditorViewport: Clicking on Actor (LMB): BP_ConditionDooor_C (KeyDoor)
+[2020.03.16-19.51.37:659][323]Cmd: TRANSACTION UNDO
+[2020.03.16-19.51.37:659][323]LogEditorTransaction: Undo Move Actors
+[2020.03.16-19.52.32:562][857]LogEditorViewport: Clicking on Actor (LMB): BP_ConditionDooor_C (CoinsDoor)
+[2020.03.16-19.52.34:248][905]Cmd: EDIT COPY
+[2020.03.16-19.52.34:728][919]Cmd: EDIT PASTE
+[2020.03.16-19.53.03:897][446]Cmd: TRANSACTION UNDO
+[2020.03.16-19.53.03:897][446]LogEditorTransaction: Undo Move Actors
+[2020.03.16-19.53.43:130][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.03.16-19.53.43:459][279]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Prac1world7ADDC3084920373BFB1CF6A2A4B612CD.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/Prac1world.umap'
+[2020.03.16-19.53.43:498][279]AssetCheck: New page: Asset Save: Prac1world
+[2020.03.16-19.53.43:498][279]LogContentValidation: Display: Validating World /Game/Practica1/Prac1world.Prac1world
+[2020.03.16-19.53.51:889][863]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.16-19.53.51:909][863]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.03.16-19.53.51:909][863]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.16-19.53.51:909][863]PIE: New page: PIE session: Prac1world (16 mar. 2020 21:53:51)
+[2020.03.16-19.53.51:909][863]LogPlayLevel: Creating play world package: /Game/Practica1/UEDPIE_0_Prac1world
+[2020.03.16-19.53.52:041][863]LogPlayLevel: PIE: StaticDuplicateObject took: (0.131569s)
+[2020.03.16-19.53.52:041][863]LogAIModule: Creating AISystem for world Prac1world
+[2020.03.16-19.53.52:042][863]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2020.03.16-19.53.52:042][863]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Practica1/Prac1world.Prac1world to /Game/Practica1/UEDPIE_0_Prac1world.Prac1world (0.132707s)
+[2020.03.16-19.53.52:091][863]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.03.16-19.53.52:093][863]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.16-19.53.52:093][863]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.16-19.53.52:093][863]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.16-19.53.52:093][863]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.16-19.53.52:093][863]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.16-19.53.52:093][863]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.16-19.53.52:093][863]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.16-19.53.52:093][863]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.16-19.53.52:093][863]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.16-19.53.52:093][863]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.16-19.53.52:102][863]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.16-19.53.52:102][863]LogAudioMixer: Display: Name: Altavoces (2- Realtek(R) Audio)
+[2020.03.16-19.53.52:102][863]LogAudioMixer: Display: Is Default: Yes
+[2020.03.16-19.53.52:102][863]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.16-19.53.52:102][863]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.16-19.53.52:102][863]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.16-19.53.52:102][863]LogAudioMixer: Display: Channel Order:
+[2020.03.16-19.53.52:102][863]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.16-19.53.52:102][863]LogAudioMixer: Display: 1: FrontRight
+[2020.03.16-19.53.52:109][863]LogAudioMixer: Display: Using Audio Device Altavoces (2- Realtek(R) Audio)
+[2020.03.16-19.53.52:110][863]LogInit: FAudioDevice initialized.
+[2020.03.16-19.53.52:122][863]LogLoad: Game class is 'GM_FirstPersonGameMode_C'
+[2020.03.16-19.53.52:132][863]LogWorld: Bringing World /Game/Practica1/UEDPIE_0_Prac1world.Prac1world up for play (max tick rate 0) at 2020.03.16-20.53.52
+[2020.03.16-19.53.52:132][863]LogWorld: Bringing up level for play took: 0.009643
+[2020.03.16-19.53.52:133][863]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.03.16-19.53.52:137][863]PIE: Play in editor start time for /Game/Practica1/UEDPIE_0_Prac1world 0,632
+[2020.03.16-19.53.52:137][863]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.03.16-19.53.58:568][418]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/BP_Character.BP_Character
+[2020.03.16-19.54.04:561][675]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.16-19.54.04:562][675]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.16-19.54.04:562][675]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.03.16-19.54.04:562][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-19.54.04:562][675]LogWorld: BeginTearingDown for /Game/Practica1/UEDPIE_0_Prac1world
+[2020.03.16-19.54.04:562][675]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.16-19.54.04:562][675]LogWorld: UWorld::CleanupWorld for Prac1world, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-19.54.04:566][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.16-19.54.04:600][675]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.16-19.54.04:600][675]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.03.16-19.54.04:606][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.16-19.54.04:655][675]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.16-19.54.04:657][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-19.54.04:663][675]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.03.16-19.54.04:753][676]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.03.16-19.55.28:733][223]BlueprintLog: New page: Compile BP_Character
+[2020.03.16-19.55.29:082][223]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.03.16-19.55.29:437][224]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/BP_CharacterACA6B69E404C43571EF0878BAB148CA7.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/ThirdPersonBP/Blueprints/BP_Character.uasset'
+[2020.03.16-19.55.29:456][224]AssetCheck: New page: Asset Save: BP_Character
+[2020.03.16-19.55.29:456][224]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BP_Character.BP_Character
+[2020.03.16-19.56.08:534][266]LogEditorTransaction: Undo Move Nodes
+[2020.03.16-19.57.58:168][436]BlueprintLog: New page: Compile BP_Character
+[2020.03.16-19.57.58:516][436]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2020.03.16-19.57.59:449][468]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/BP_CharacterF84B4B53436D335868F11984685511B4.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/ThirdPersonBP/Blueprints/BP_Character.uasset'
+[2020.03.16-19.57.59:463][468]AssetCheck: New page: Asset Save: BP_Character
+[2020.03.16-19.57.59:463][468]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BP_Character.BP_Character
+[2020.03.16-19.58.04:408][857]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.16-19.58.04:430][857]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.03.16-19.58.04:430][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.16-19.58.04:430][857]PIE: New page: PIE session: Prac1world (16 mar. 2020 21:58:04)
+[2020.03.16-19.58.04:431][857]LogPlayLevel: Creating play world package: /Game/Practica1/UEDPIE_0_Prac1world
+[2020.03.16-19.58.04:551][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.120144s)
+[2020.03.16-19.58.04:552][857]LogAIModule: Creating AISystem for world Prac1world
+[2020.03.16-19.58.04:552][857]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2020.03.16-19.58.04:552][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Practica1/Prac1world.Prac1world to /Game/Practica1/UEDPIE_0_Prac1world.Prac1world (0.121179s)
+[2020.03.16-19.58.04:604][857]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.03.16-19.58.04:606][857]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.16-19.58.04:606][857]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.16-19.58.04:606][857]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.16-19.58.04:606][857]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.16-19.58.04:606][857]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.16-19.58.04:606][857]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.16-19.58.04:606][857]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.16-19.58.04:606][857]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.16-19.58.04:606][857]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.16-19.58.04:606][857]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.16-19.58.04:614][857]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.16-19.58.04:614][857]LogAudioMixer: Display: Name: Altavoces (2- Realtek(R) Audio)
+[2020.03.16-19.58.04:614][857]LogAudioMixer: Display: Is Default: Yes
+[2020.03.16-19.58.04:614][857]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.16-19.58.04:614][857]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.16-19.58.04:614][857]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.16-19.58.04:614][857]LogAudioMixer: Display: Channel Order:
+[2020.03.16-19.58.04:614][857]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.16-19.58.04:614][857]LogAudioMixer: Display: 1: FrontRight
+[2020.03.16-19.58.04:621][857]LogAudioMixer: Display: Using Audio Device Altavoces (2- Realtek(R) Audio)
+[2020.03.16-19.58.04:623][857]LogInit: FAudioDevice initialized.
+[2020.03.16-19.58.04:633][857]LogLoad: Game class is 'GM_FirstPersonGameMode_C'
+[2020.03.16-19.58.04:643][857]LogWorld: Bringing World /Game/Practica1/UEDPIE_0_Prac1world.Prac1world up for play (max tick rate 0) at 2020.03.16-20.58.04
+[2020.03.16-19.58.04:643][857]LogWorld: Bringing up level for play took: 0.009436
+[2020.03.16-19.58.04:643][857]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.03.16-19.58.04:647][857]PIE: Play in editor start time for /Game/Practica1/UEDPIE_0_Prac1world 1,142
+[2020.03.16-19.58.04:647][857]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.03.16-19.59.02:437][552]LogBlueprintUserMessages: [Light_2] True
+[2020.03.16-19.59.04:024][646]LogBlueprintUserMessages: [Light2] True
+[2020.03.16-19.59.05:526][741]LogBlueprintUserMessages: [LightDoor_2] WIIIN!
+[2020.03.16-19.59.05:527][741]LogBlueprintUserMessages: [Light3] True
+[2020.03.16-19.59.32:799][408]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.16-19.59.32:799][408]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.16-19.59.32:819][408]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.16-19.59.32:819][408]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.03.16-19.59.32:820][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-19.59.32:820][408]LogWorld: BeginTearingDown for /Game/Practica1/UEDPIE_0_Prac1world
+[2020.03.16-19.59.32:820][408]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.16-19.59.32:820][408]LogWorld: UWorld::CleanupWorld for Prac1world, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-19.59.32:822][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.16-19.59.32:838][408]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.16-19.59.32:838][408]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.03.16-19.59.32:844][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.16-19.59.32:894][408]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.16-19.59.32:897][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-19.59.32:904][408]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.03.16-19.59.32:926][409]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.03.16-19.59.34:277][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.03.16-19.59.34:645][489]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Prac1world1B6F402E4250B6B156596090442F9F3F.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/Prac1world.umap'
+[2020.03.16-19.59.34:685][489]AssetCheck: New page: Asset Save: Prac1world
+[2020.03.16-19.59.34:685][489]LogContentValidation: Display: Validating World /Game/Practica1/Prac1world.Prac1world
+[2020.03.16-19.59.52:619][435]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::PlaySoundAtLocation' [No se puede encontrar el módulo especificado.]
+[2020.03.16-20.01.00:748][820]BlueprintLog: New page: Compile LightDoor
+[2020.03.16-20.01.01:064][820]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.03.16-20.01.01:532][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/LightDoor" FILE="../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/LightDoor.uasset" SILENT=true
+[2020.03.16-20.01.01:585][835]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/LightDoorDF0D1072437E888D171940A44F5571CA.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/LightDoor.uasset'
+[2020.03.16-20.01.01:601][835]AssetCheck: New page: Asset Save: LightDoor
+[2020.03.16-20.01.01:601][835]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/LightDoor.LightDoor
+[2020.03.16-20.01.21:649][930]BlueprintLog: New page: Compile BP_ConditionDooor
+[2020.03.16-20.01.21:976][930]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2020.03.16-20.01.22:370][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ConditionDooor" FILE="../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/BP_ConditionDooor.uasset" SILENT=true
+[2020.03.16-20.01.22:427][935]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/BP_ConditionDooor982CEF3742E1457FE1CA88891C655A50.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/BP_ConditionDooor.uasset'
+[2020.03.16-20.01.22:441][935]AssetCheck: New page: Asset Save: BP_ConditionDooor
+[2020.03.16-20.01.22:441][935]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_ConditionDooor.BP_ConditionDooor
+[2020.03.16-20.01.35:050][676]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.16-20.01.35:082][676]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.03.16-20.01.35:082][676]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.16-20.01.35:082][676]PIE: New page: PIE session: Prac1world (16 mar. 2020 22:01:35)
+[2020.03.16-20.01.35:082][676]LogPlayLevel: Creating play world package: /Game/Practica1/UEDPIE_0_Prac1world
+[2020.03.16-20.01.35:201][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.119599s)
+[2020.03.16-20.01.35:202][676]LogAIModule: Creating AISystem for world Prac1world
+[2020.03.16-20.01.35:202][676]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2020.03.16-20.01.35:202][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Practica1/Prac1world.Prac1world to /Game/Practica1/UEDPIE_0_Prac1world.Prac1world (0.120768s)
+[2020.03.16-20.01.35:259][676]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2020.03.16-20.01.35:260][676]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.16-20.01.35:260][676]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.16-20.01.35:260][676]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.16-20.01.35:260][676]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.16-20.01.35:260][676]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.16-20.01.35:260][676]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.16-20.01.35:260][676]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.16-20.01.35:260][676]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.16-20.01.35:261][676]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.16-20.01.35:261][676]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.16-20.01.35:269][676]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.16-20.01.35:269][676]LogAudioMixer: Display: Name: Altavoces (2- Realtek(R) Audio)
+[2020.03.16-20.01.35:269][676]LogAudioMixer: Display: Is Default: Yes
+[2020.03.16-20.01.35:269][676]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.16-20.01.35:269][676]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.16-20.01.35:269][676]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.16-20.01.35:269][676]LogAudioMixer: Display: Channel Order:
+[2020.03.16-20.01.35:269][676]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.16-20.01.35:269][676]LogAudioMixer: Display: 1: FrontRight
+[2020.03.16-20.01.35:276][676]LogAudioMixer: Display: Using Audio Device Altavoces (2- Realtek(R) Audio)
+[2020.03.16-20.01.35:277][676]LogInit: FAudioDevice initialized.
+[2020.03.16-20.01.35:283][676]LogLoad: Game class is 'GM_FirstPersonGameMode_C'
+[2020.03.16-20.01.35:293][676]LogWorld: Bringing World /Game/Practica1/UEDPIE_0_Prac1world.Prac1world up for play (max tick rate 0) at 2020.03.16-21.01.35
+[2020.03.16-20.01.35:294][676]LogWorld: Bringing up level for play took: 0.009755
+[2020.03.16-20.01.35:294][676]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.03.16-20.01.35:298][676]PIE: Play in editor start time for /Game/Practica1/UEDPIE_0_Prac1world -0,208
+[2020.03.16-20.01.35:298][676]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.03.16-20.01.53:979][234]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.16-20.01.54:008][234]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.16-20.01.54:028][234]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.16-20.01.54:028][234]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.03.16-20.01.54:029][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-20.01.54:029][234]LogWorld: BeginTearingDown for /Game/Practica1/UEDPIE_0_Prac1world
+[2020.03.16-20.01.54:029][234]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.16-20.01.54:029][234]LogWorld: UWorld::CleanupWorld for Prac1world, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-20.01.54:030][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.16-20.01.54:053][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.16-20.01.54:054][234]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.03.16-20.01.54:059][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.16-20.01.54:107][234]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.16-20.01.54:110][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-20.01.54:117][234]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.03.16-20.01.54:138][235]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.03.16-20.02.21:140][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.03.16-20.02.21:505][228]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Prac1worldC3315838495A50EF74FA53BBD5998BF5.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/Prac1world.umap'
+[2020.03.16-20.02.21:543][228]AssetCheck: New page: Asset Save: Prac1world
+[2020.03.16-20.02.21:543][228]LogContentValidation: Display: Validating World /Game/Practica1/Prac1world.Prac1world
+[2020.03.16-20.02.51:064][955]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/Blueprints/Prac2/ParticleSystems/PS_LineTrace_2.PS_LineTrace_2
+[2020.03.16-20.02.51:145][955]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2020.03.16-20.03.06:707][ 51]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/PS_ShootPosses8347466E4F847E50B473E7A24FA66944.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/Prac2/ParticleSystems/PS_ShootPosses.uasset'
+[2020.03.16-20.03.07:033][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2020.03.16-20.03.07:107][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2020.03.16-20.03.07:159][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.03.16-20.03.07:246][ 51]AssetCheck: New page: Asset Save: PS_ShootPosses
+[2020.03.16-20.03.07:246][ 51]LogContentValidation: Display: Validating ParticleSystem /Game/Blueprints/Prac2/ParticleSystems/PS_ShootPosses.PS_ShootPosses
+[2020.03.16-20.03.53:376][539]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.16-20.05.01:955][960]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/PS_ShootPossesDBD059B14CB4C95BD9D7BE9E0E92C7E2.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Blueprints/Prac2/ParticleSystems/PS_ShootPosses.uasset'
+[2020.03.16-20.05.01:974][960]AssetCheck: New page: Asset Save: PS_ShootPosses
+[2020.03.16-20.05.01:974][960]LogContentValidation: Display: Validating ParticleSystem /Game/Blueprints/Prac2/ParticleSystems/PS_ShootPosses.PS_ShootPosses
+[2020.03.16-20.05.05:293][124]BlueprintLog: New page: Compile BP_Character
+[2020.03.16-20.05.05:687][124]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2020.03.16-20.05.06:012][125]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/BP_Character6BE015794EF6C09479957FB025F8F764.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/ThirdPersonBP/Blueprints/BP_Character.uasset'
+[2020.03.16-20.05.06:029][125]AssetCheck: New page: Asset Save: BP_Character
+[2020.03.16-20.05.06:029][125]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BP_Character.BP_Character
+[2020.03.16-20.05.16:744][633]BlueprintLog: New page: Compile BP_Character
+[2020.03.16-20.05.17:129][633]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2020.03.16-20.05.17:835][649]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/BP_CharacterE719770C4AFBA817BFC34E841BDAEBDD.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/ThirdPersonBP/Blueprints/BP_Character.uasset'
+[2020.03.16-20.05.17:852][649]AssetCheck: New page: Asset Save: BP_Character
+[2020.03.16-20.05.17:852][649]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BP_Character.BP_Character
+[2020.03.16-20.05.20:825][836]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.16-20.05.20:852][836]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.03.16-20.05.20:852][836]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.16-20.05.20:852][836]PIE: New page: PIE session: Prac1world (16 mar. 2020 22:05:20)
+[2020.03.16-20.05.20:852][836]LogPlayLevel: Creating play world package: /Game/Practica1/UEDPIE_0_Prac1world
+[2020.03.16-20.05.20:978][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.126990s)
+[2020.03.16-20.05.20:979][836]LogAIModule: Creating AISystem for world Prac1world
+[2020.03.16-20.05.20:979][836]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2020.03.16-20.05.20:979][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Practica1/Prac1world.Prac1world to /Game/Practica1/UEDPIE_0_Prac1world.Prac1world (0.127990s)
+[2020.03.16-20.05.21:038][836]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2020.03.16-20.05.21:041][836]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.16-20.05.21:041][836]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.16-20.05.21:041][836]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.16-20.05.21:041][836]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.16-20.05.21:041][836]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.16-20.05.21:041][836]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.16-20.05.21:041][836]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.16-20.05.21:041][836]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.16-20.05.21:042][836]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.16-20.05.21:042][836]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.16-20.05.21:050][836]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.16-20.05.21:050][836]LogAudioMixer: Display: Name: Altavoces (2- Realtek(R) Audio)
+[2020.03.16-20.05.21:050][836]LogAudioMixer: Display: Is Default: Yes
+[2020.03.16-20.05.21:050][836]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.16-20.05.21:050][836]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.16-20.05.21:050][836]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.16-20.05.21:050][836]LogAudioMixer: Display: Channel Order:
+[2020.03.16-20.05.21:050][836]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.16-20.05.21:050][836]LogAudioMixer: Display: 1: FrontRight
+[2020.03.16-20.05.21:057][836]LogAudioMixer: Display: Using Audio Device Altavoces (2- Realtek(R) Audio)
+[2020.03.16-20.05.21:058][836]LogInit: FAudioDevice initialized.
+[2020.03.16-20.05.21:067][836]LogLoad: Game class is 'GM_FirstPersonGameMode_C'
+[2020.03.16-20.05.21:077][836]LogWorld: Bringing World /Game/Practica1/UEDPIE_0_Prac1world.Prac1world up for play (max tick rate 0) at 2020.03.16-21.05.21
+[2020.03.16-20.05.21:078][836]LogWorld: Bringing up level for play took: 0.009888
+[2020.03.16-20.05.21:078][836]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.03.16-20.05.21:082][836]PIE: Play in editor start time for /Game/Practica1/UEDPIE_0_Prac1world -0,423
+[2020.03.16-20.05.21:082][836]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.03.16-20.05.35:755][102]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.16-20.05.35:768][102]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.16-20.05.35:798][102]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.16-20.05.35:798][102]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.03.16-20.05.35:799][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-20.05.35:799][102]LogWorld: BeginTearingDown for /Game/Practica1/UEDPIE_0_Prac1world
+[2020.03.16-20.05.35:799][102]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.16-20.05.35:799][102]LogWorld: UWorld::CleanupWorld for Prac1world, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-20.05.35:801][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.16-20.05.35:813][102]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.16-20.05.35:813][102]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Practica1/Prac1world.Prac1world:PersistentLevel' has LevelScriptBlueprint '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world' with GeneratedClass '/Game/Practica1/Prac1world.Prac1world_C' with ClassGeneratedBy '/Game/Practica1/Prac1world.Prac1world:PersistentLevel.Prac1world'
+[2020.03.16-20.05.35:819][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.16-20.05.35:876][102]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.16-20.05.35:878][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-20.05.35:886][102]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2020.03.16-20.05.35:912][103]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.03.16-20.05.37:239][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.03.16-20.05.37:650][206]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Prac1worldC331337540DEDE29A4653DAC6982BC37.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/Prac1world.umap'
+[2020.03.16-20.05.37:696][206]AssetCheck: New page: Asset Save: Prac1world
+[2020.03.16-20.05.37:696][206]LogContentValidation: Display: Validating World /Game/Practica1/Prac1world.Prac1world
+[2020.03.16-20.05.52:685][518]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.03.16-20.05.53:091][518]LogSavePackage: Moving '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Saved/Prac1worldC35F1E3B44CF1BA03D02F9AC0E4972C0.tmp' to '../../../../../../Users/mire-/Documents/GitHub/UnrealPractcas/Practica1/Content/Practica1/Prac1world.umap'
+[2020.03.16-20.05.53:132][518]AssetCheck: New page: Asset Save: Prac1world
+[2020.03.16-20.05.53:132][518]LogContentValidation: Display: Validating World /Game/Practica1/Prac1world.Prac1world
+[2020.03.16-20.05.54:616][629]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.03.16-20.05.54:678][629]LogSlate: Window 'BP_Character' being destroyed
+[2020.03.16-20.05.54:694][629]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-20.05.54:694][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.16-20.05.54:747][629]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.16-20.05.54:747][629]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-20.05.54:747][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.16-20.05.54:797][629]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.16-20.05.54:797][629]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-20.05.54:797][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.16-20.05.54:846][629]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.16-20.05.54:846][629]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-20.05.54:847][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.16-20.05.54:897][629]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.16-20.05.54:897][629]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-20.05.54:897][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.16-20.05.54:961][629]LogCascade: Quitting Cascade. FXSystem=0x000001E601074280
+[2020.03.16-20.05.54:986][629]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-20.05.54:986][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.16-20.05.55:030][629]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.16-20.05.55:030][629]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-20.05.55:030][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.16-20.05.55:092][629]LogSlate: Window 'Practica1 - Unreal Editor' being destroyed
+[2020.03.16-20.05.55:093][629]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.16-20.05.55:257][630]Cmd: QUIT_EDITOR
+[2020.03.16-20.05.55:257][630]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.03.16-20.05.55:271][630]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.03.16-20.05.55:272][630]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.16-20.05.55:836][630]LogExit: Preparing to exit.
+[2020.03.16-20.05.56:654][630]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-20.05.56:662][630]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-20.05.56:669][630]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-20.05.56:675][630]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-20.05.56:683][630]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-20.05.56:689][630]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-20.05.56:696][630]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-20.05.56:704][630]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-20.05.56:709][630]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-20.05.56:716][630]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-20.05.56:722][630]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-20.05.56:727][630]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-20.05.56:799][630]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.03.16-20.05.56:832][630]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-20.05.56:832][630]LogExit: Editor shut down
+[2020.03.16-20.05.56:832][630]LogExit: Transaction tracking system shut down
+[2020.03.16-20.05.57:287][630]LogExit: Object subsystem successfully closed.
+[2020.03.16-20.05.57:321][630]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.03.16-20.05.57:402][630]LogModuleManager: Shutting down and abandoning module DistCurveEditor (706)
+[2020.03.16-20.05.57:402][630]LogModuleManager: Shutting down and abandoning module Cascade (704)
+[2020.03.16-20.05.57:402][630]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (702)
+[2020.03.16-20.05.57:402][630]LogModuleManager: Shutting down and abandoning module Voice (700)
+[2020.03.16-20.05.57:403][630]LogModuleManager: Shutting down and abandoning module BlueprintGraph (698)
+[2020.03.16-20.05.57:403][630]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (696)
+[2020.03.16-20.05.57:403][630]LogModuleManager: Shutting down and abandoning module AddContentDialog (694)
+[2020.03.16-20.05.57:405][630]LogModuleManager: Shutting down and abandoning module WidgetCarousel (693)
+[2020.03.16-20.05.57:405][630]LogModuleManager: Shutting down and abandoning module EditorWidgets (690)
+[2020.03.16-20.05.57:405][630]LogModuleManager: Shutting down and abandoning module CollectionManager (688)
+[2020.03.16-20.05.57:406][630]LogModuleManager: Shutting down and abandoning module SceneOutliner (686)
+[2020.03.16-20.05.57:406][630]LogModuleManager: Shutting down and abandoning module StatsViewer (684)
+[2020.03.16-20.05.57:407][630]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (682)
+[2020.03.16-20.05.57:408][630]LogModuleManager: Shutting down and abandoning module FoliageEdit (680)
+[2020.03.16-20.05.57:409][630]LogModuleManager: Shutting down and abandoning module LandscapeEditor (678)
+[2020.03.16-20.05.57:414][630]LogModuleManager: Shutting down and abandoning module MeshPaintMode (676)
+[2020.03.16-20.05.57:414][630]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (674)
+[2020.03.16-20.05.57:414][630]LogModuleManager: Shutting down and abandoning module ActorPickerMode (672)
+[2020.03.16-20.05.57:414][630]LogModuleManager: Shutting down and abandoning module GeometryMode (670)
+[2020.03.16-20.05.57:414][630]LogModuleManager: Shutting down and abandoning module TextureAlignMode (668)
+[2020.03.16-20.05.57:414][630]LogModuleManager: Shutting down and abandoning module BspMode (666)
+[2020.03.16-20.05.57:414][630]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (664)
+[2020.03.16-20.05.57:416][630]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (662)
+[2020.03.16-20.05.57:417][630]LogModuleManager: Shutting down and abandoning module AutomationWorker (660)
+[2020.03.16-20.05.57:417][630]LogModuleManager: Shutting down and abandoning module SteamVREditor (658)
+[2020.03.16-20.05.57:417][630]LogModuleManager: Shutting down and abandoning module OculusMR (656)
+[2020.03.16-20.05.57:418][630]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (654)
+[2020.03.16-20.05.57:418][630]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (652)
+[2020.03.16-20.05.57:419][630]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (650)
+[2020.03.16-20.05.57:422][630]LogModuleManager: Shutting down and abandoning module PlacementMode (649)
+[2020.03.16-20.05.57:422][630]LogModuleManager: Shutting down and abandoning module MaterialEditor (648)
+[2020.03.16-20.05.57:426][630]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (644)
+[2020.03.16-20.05.57:427][630]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (642)
+[2020.03.16-20.05.57:427][630]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (640)
+[2020.03.16-20.05.57:427][630]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (638)
+[2020.03.16-20.05.57:427][630]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (636)
+[2020.03.16-20.05.57:427][630]LogModuleManager: Shutting down and abandoning module WebMMedia (634)
+[2020.03.16-20.05.57:427][630]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (632)
+[2020.03.16-20.05.57:429][630]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (630)
+[2020.03.16-20.05.57:431][630]LogModuleManager: Shutting down and abandoning module SequenceRecorder (629)
+[2020.03.16-20.05.57:431][630]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (626)
+[2020.03.16-20.05.57:431][630]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (624)
+[2020.03.16-20.05.57:431][630]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (622)
+[2020.03.16-20.05.57:431][630]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (620)
+[2020.03.16-20.05.57:431][630]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (618)
+[2020.03.16-20.05.57:431][630]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (616)
+[2020.03.16-20.05.57:431][630]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (614)
+[2020.03.16-20.05.57:431][630]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (612)
+[2020.03.16-20.05.57:431][630]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (610)
+[2020.03.16-20.05.57:431][630]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (608)
+[2020.03.16-20.05.57:431][630]LogModuleManager: Shutting down and abandoning module CharacterAI (606)
+[2020.03.16-20.05.57:431][630]LogModuleManager: Shutting down and abandoning module SmartSnapping (604)
+[2020.03.16-20.05.57:431][630]LogModuleManager: Shutting down and abandoning module SessionServices (602)
+[2020.03.16-20.05.57:431][630]LogModuleManager: Shutting down and abandoning module MeshPaint (600)
+[2020.03.16-20.05.57:433][630]LogModuleManager: Shutting down and abandoning module ViewportSnapping (598)
+[2020.03.16-20.05.57:433][630]LogModuleManager: Shutting down and abandoning module ViewportInteraction (596)
+[2020.03.16-20.05.57:433][630]LogModuleManager: Shutting down and abandoning module ClothPainter (594)
+[2020.03.16-20.05.57:434][630]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (593)
+[2020.03.16-20.05.57:435][630]LogModuleManager: Shutting down and abandoning module LogVisualizer (590)
+[2020.03.16-20.05.57:437][630]LogModuleManager: Shutting down and abandoning module IntroTutorials (588)
+[2020.03.16-20.05.57:438][630]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (587)
+[2020.03.16-20.05.57:438][630]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (584)
+[2020.03.16-20.05.57:438][630]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (582)
+[2020.03.16-20.05.57:439][630]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (580)
+[2020.03.16-20.05.57:439][630]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (579)
+[2020.03.16-20.05.57:489][630]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (576)
+[2020.03.16-20.05.57:489][630]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (574)
+[2020.03.16-20.05.57:490][630]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (572)
+[2020.03.16-20.05.57:490][630]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (570)
+[2020.03.16-20.05.57:490][630]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (568)
+[2020.03.16-20.05.57:490][630]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (566)
+[2020.03.16-20.05.57:490][630]LogModuleManager: Shutting down and abandoning module InputBindingEditor (564)
+[2020.03.16-20.05.57:491][630]LogModuleManager: Shutting down and abandoning module MergeActors (562)
+[2020.03.16-20.05.57:492][630]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (560)
+[2020.03.16-20.05.57:493][630]LogModuleManager: Shutting down and abandoning module LocalizationService (559)
+[2020.03.16-20.05.57:493][630]LogModuleManager: Shutting down and abandoning module HardwareTargeting (556)
+[2020.03.16-20.05.57:493][630]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (554)
+[2020.03.16-20.05.57:493][630]LogModuleManager: Shutting down and abandoning module UndoHistory (552)
+[2020.03.16-20.05.57:494][630]LogModuleManager: Shutting down and abandoning module XmlParser (550)
+[2020.03.16-20.05.57:494][630]LogModuleManager: Shutting down and abandoning module Blutility (548)
+[2020.03.16-20.05.57:494][630]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (546)
+[2020.03.16-20.05.57:494][630]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (545)
+[2020.03.16-20.05.57:494][630]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (542)
+[2020.03.16-20.05.57:494][630]LogModuleManager: Shutting down and abandoning module SettingsEditor (540)
+[2020.03.16-20.05.57:495][630]LogModuleManager: Shutting down and abandoning module ProjectLauncher (538)
+[2020.03.16-20.05.57:496][630]LogModuleManager: Shutting down and abandoning module SessionFrontend (536)
+[2020.03.16-20.05.57:497][630]LogModuleManager: Shutting down and abandoning module ProfilerClient (534)
+[2020.03.16-20.05.57:497][630]LogModuleManager: Shutting down and abandoning module DeviceManager (532)
+[2020.03.16-20.05.57:499][630]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (531)
+[2020.03.16-20.05.57:530][630]LogModuleManager: Shutting down and abandoning module AutomationController (528)
+[2020.03.16-20.05.57:531][630]LogModuleManager: Shutting down and abandoning module AutomationWindow (526)
+[2020.03.16-20.05.57:532][630]LogModuleManager: Shutting down and abandoning module Layers (524)
+[2020.03.16-20.05.57:534][630]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (522)
+[2020.03.16-20.05.57:534][630]LogModuleManager: Shutting down and abandoning module DetailCustomizations (520)
+[2020.03.16-20.05.57:534][630]LogModuleManager: Shutting down and abandoning module PackagesDialog (518)
+[2020.03.16-20.05.57:535][630]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (516)
+[2020.03.16-20.05.57:538][630]LogModuleManager: Shutting down and abandoning module Persona (514)
+[2020.03.16-20.05.57:540][630]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (513)
+[2020.03.16-20.05.57:540][630]LogModuleManager: Shutting down and abandoning module AnimGraph (511)
+[2020.03.16-20.05.57:540][630]LogModuleManager: Shutting down and abandoning module Kismet (508)
+[2020.03.16-20.05.57:550][630]LogModuleManager: Shutting down and abandoning module KismetWidgets (507)
+[2020.03.16-20.05.57:551][630]LogModuleManager: Shutting down and abandoning module GraphEditor (504)
+[2020.03.16-20.05.57:551][630]LogModuleManager: Shutting down and abandoning module StructViewer (502)
+[2020.03.16-20.05.57:551][630]LogModuleManager: Shutting down and abandoning module ClassViewer (500)
+[2020.03.16-20.05.57:552][630]LogModuleManager: Shutting down and abandoning module Toolbox (498)
+[2020.03.16-20.05.57:552][630]LogModuleManager: Shutting down and abandoning module ModuleUI (496)
+[2020.03.16-20.05.57:552][630]LogModuleManager: Shutting down and abandoning module OutputLog (494)
+[2020.03.16-20.05.57:554][630]LogModuleManager: Shutting down and abandoning module GammaUI (492)
+[2020.03.16-20.05.57:554][630]LogModuleManager: Shutting down and abandoning module Documentation (490)
+[2020.03.16-20.05.57:554][630]LogModuleManager: Shutting down and abandoning module ToolMenus (488)
+[2020.03.16-20.05.57:555][630]LogModuleManager: Shutting down and abandoning module LiveCoding (486)
+[2020.03.16-20.05.57:556][630]LogModuleManager: Shutting down and abandoning module LevelSequence (484)
+[2020.03.16-20.05.57:556][630]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (482)
+[2020.03.16-20.05.57:556][630]LogModuleManager: Shutting down and abandoning module MovieScene (480)
+[2020.03.16-20.05.57:556][630]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (478)
+[2020.03.16-20.05.57:557][630]LogModuleManager: Shutting down and abandoning module LauncherPlatform (476)
+[2020.03.16-20.05.57:557][630]LogModuleManager: Shutting down and abandoning module AnalyticsET (474)
+[2020.03.16-20.05.57:557][630]LogModuleManager: Shutting down and abandoning module PortalServices (472)
+[2020.03.16-20.05.57:557][630]LogModuleManager: Shutting down and abandoning module PortalRpc (470)
+[2020.03.16-20.05.57:557][630]LogModuleManager: Shutting down and abandoning module MessagingRpc (468)
+[2020.03.16-20.05.57:557][630]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (466)
+[2020.03.16-20.05.57:557][630]LogModuleManager: Shutting down and abandoning module AIModule (464)
+[2020.03.16-20.05.57:557][630]LogModuleManager: Shutting down and abandoning module GameplayDebugger (463)
+[2020.03.16-20.05.57:557][630]LogModuleManager: Shutting down and abandoning module AITestSuite (461)
+[2020.03.16-20.05.57:557][630]LogModuleManager: Shutting down and abandoning module NavigationSystem (459)
+[2020.03.16-20.05.57:557][630]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (456)
+[2020.03.16-20.05.57:560][630]LogModuleManager: Shutting down and abandoning module ProfilerService (454)
+[2020.03.16-20.05.57:696][630]LogModuleManager: Shutting down and abandoning module TaskGraph (452)
+[2020.03.16-20.05.57:698][630]LogModuleManager: Shutting down and abandoning module ScreenshotTools (450)
+[2020.03.16-20.05.57:698][630]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (448)
+[2020.03.16-20.05.57:698][630]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (446)
+[2020.03.16-20.05.57:698][630]LogModuleManager: Shutting down and abandoning module OculusEditor (444)
+[2020.03.16-20.05.57:699][630]LogModuleManager: Shutting down and abandoning module OculusInput (442)
+[2020.03.16-20.05.57:699][630]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (440)
+[2020.03.16-20.05.57:699][630]LogModuleManager: Shutting down and abandoning module EditableMesh (438)
+[2020.03.16-20.05.57:700][630]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (436)
+[2020.03.16-20.05.57:700][630]LogModuleManager: Shutting down and abandoning module CableComponent (434)
+[2020.03.16-20.05.57:700][630]LogModuleManager: Shutting down and abandoning module AudioCapture (432)
+[2020.03.16-20.05.57:700][630]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (431)
+[2020.03.16-20.05.57:700][630]LogModuleManager: Shutting down and abandoning module AssetTags (428)
+[2020.03.16-20.05.57:700][630]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (426)
+[2020.03.16-20.05.57:700][630]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (424)
+[2020.03.16-20.05.57:700][630]LogModuleManager: Shutting down and abandoning module AppleImageUtils (422)
+[2020.03.16-20.05.57:700][630]LogModuleManager: Shutting down and abandoning module AndroidPermission (420)
+[2020.03.16-20.05.57:700][630]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (418)
+[2020.03.16-20.05.57:700][630]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (416)
+[2020.03.16-20.05.57:702][630]LogModuleManager: Shutting down and abandoning module MediaCompositing (414)
+[2020.03.16-20.05.57:702][630]LogModuleManager: Shutting down and abandoning module ImgMedia (412)
+[2020.03.16-20.05.57:702][630]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (410)
+[2020.03.16-20.05.57:702][630]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (408)
+[2020.03.16-20.05.57:702][630]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (406)
+[2020.03.16-20.05.57:702][630]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (404)
+[2020.03.16-20.05.57:702][630]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (402)
+[2020.03.16-20.05.57:702][630]LogModuleManager: Shutting down and abandoning module BackChannel (400)
+[2020.03.16-20.05.57:702][630]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (398)
+[2020.03.16-20.05.57:702][630]LogModuleManager: Shutting down and abandoning module AutomationUtils (396)
+[2020.03.16-20.05.57:702][630]LogModuleManager: Shutting down and abandoning module AlembicImporter (394)
+[2020.03.16-20.05.57:702][630]LogModuleManager: Shutting down and abandoning module AlembicLibrary (393)
+[2020.03.16-20.05.57:703][630]LogModuleManager: Shutting down and abandoning module GeometryCache (392)
+[2020.03.16-20.05.57:703][630]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (391)
+[2020.03.16-20.05.57:703][630]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (386)
+[2020.03.16-20.05.57:703][630]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (384)
+[2020.03.16-20.05.57:704][630]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (382)
+[2020.03.16-20.05.57:704][630]LogModuleManager: Shutting down and abandoning module PluginBrowser (380)
+[2020.03.16-20.05.57:707][630]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (378)
+[2020.03.16-20.05.57:708][630]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (376)
+[2020.03.16-20.05.57:708][630]LogModuleManager: Shutting down and abandoning module CurveEditorTools (374)
+[2020.03.16-20.05.57:709][630]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (372)
+[2020.03.16-20.05.57:709][630]LogModuleManager: Shutting down and abandoning module CryptoKeys (370)
+[2020.03.16-20.05.57:709][630]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (368)
+[2020.03.16-20.05.57:709][630]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (366)
+[2020.03.16-20.05.57:710][630]LogModuleManager: Shutting down and abandoning module UObjectPlugin (364)
+[2020.03.16-20.05.57:710][630]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (362)
+[2020.03.16-20.05.57:711][630]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (360)
+[2020.03.16-20.05.57:713][630]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (358)
+[2020.03.16-20.05.57:715][630]LogModuleManager: Shutting down and abandoning module GitSourceControl (356)
+[2020.03.16-20.05.57:716][630]LogModuleManager: Shutting down and abandoning module SourceControl (355)
+[2020.03.16-20.05.57:716][630]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (352)
+[2020.03.16-20.05.57:717][630]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (350)
+[2020.03.16-20.05.57:717][630]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (348)
+[2020.03.16-20.05.57:717][630]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (346)
+[2020.03.16-20.05.57:717][630]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (344)
+[2020.03.16-20.05.57:717][630]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (342)
+[2020.03.16-20.05.57:717][630]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (340)
+[2020.03.16-20.05.57:717][630]LogModuleManager: Shutting down and abandoning module Paper2DEditor (338)
+[2020.03.16-20.05.57:719][630]LogModuleManager: Shutting down and abandoning module SignificanceManager (336)
+[2020.03.16-20.05.57:719][630]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (334)
+[2020.03.16-20.05.57:719][630]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2020.03.16-20.05.57:719][630]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2020.03.16-20.05.57:719][630]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.03.16-20.05.57:719][630]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2020.03.16-20.05.57:820][630]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2020.03.16-20.05.57:922][630]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2020.03.16-20.05.57:922][630]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2020.03.16-20.05.57:923][630]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.03.16-20.05.57:923][630]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2020.03.16-20.05.57:923][630]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2020.03.16-20.05.57:923][630]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2020.03.16-20.05.57:923][630]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2020.03.16-20.05.57:923][630]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2020.03.16-20.05.57:923][630]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2020.03.16-20.05.57:923][630]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2020.03.16-20.05.57:924][630]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.03.16-20.05.57:924][630]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2020.03.16-20.05.57:924][630]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2020.03.16-20.05.57:924][630]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2020.03.16-20.05.57:924][630]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2020.03.16-20.05.57:924][630]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2020.03.16-20.05.57:924][630]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2020.03.16-20.05.57:924][630]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2020.03.16-20.05.57:925][630]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2020.03.16-20.05.57:926][630]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2020.03.16-20.05.57:927][630]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2020.03.16-20.05.57:928][630]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2020.03.16-20.05.57:929][630]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2020.03.16-20.05.57:929][630]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2020.03.16-20.05.57:930][630]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2020.03.16-20.05.57:931][630]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2020.03.16-20.05.57:931][630]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.03.16-20.05.57:932][630]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.03.16-20.05.57:932][630]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.03.16-20.05.57:932][630]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.03.16-20.05.57:935][630]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.03.16-20.05.57:936][630]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.03.16-20.05.57:936][630]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.03.16-20.05.57:936][630]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.03.16-20.05.57:936][630]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.03.16-20.05.57:937][630]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.03.16-20.05.57:937][630]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.03.16-20.05.57:937][630]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.03.16-20.05.57:937][630]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.03.16-20.05.57:938][630]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.03.16-20.05.57:938][630]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.03.16-20.05.57:938][630]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.03.16-20.05.57:939][630]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.03.16-20.05.57:940][630]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.03.16-20.05.57:941][630]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.03.16-20.05.57:941][630]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.03.16-20.05.57:941][630]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.03.16-20.05.57:942][630]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.03.16-20.05.57:942][630]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.03.16-20.05.57:944][630]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.03.16-20.05.57:944][630]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.03.16-20.05.57:944][630]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.03.16-20.05.57:944][630]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.03.16-20.05.57:944][630]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.03.16-20.05.57:944][630]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.03.16-20.05.57:944][630]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.03.16-20.05.57:945][630]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.03.16-20.05.57:945][630]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.03.16-20.05.57:945][630]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.03.16-20.05.57:945][630]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.03.16-20.05.57:946][630]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.03.16-20.05.57:949][630]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.03.16-20.05.57:952][630]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.03.16-20.05.57:953][630]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.03.16-20.05.57:953][630]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.03.16-20.05.57:953][630]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.03.16-20.05.57:954][630]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.03.16-20.05.57:954][630]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.03.16-20.05.57:954][630]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.03.16-20.05.57:955][630]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.03.16-20.05.57:956][630]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.03.16-20.05.57:957][630]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.03.16-20.05.57:959][630]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.03.16-20.05.57:959][630]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.03.16-20.05.57:959][630]LogDerivedDataCache: Shutdown
+[2020.03.16-20.05.57:959][630]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.03.16-20.05.57:959][630]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.03.16-20.05.57:959][630]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.03.16-20.05.57:960][630]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.03.16-20.05.57:960][630]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.03.16-20.05.57:960][630]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.03.16-20.05.57:960][630]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.03.16-20.05.57:962][630]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.03.16-20.05.57:962][630]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.03.16-20.05.57:962][630]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.03.16-20.05.57:962][630]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.03.16-20.05.57:962][630]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.03.16-20.05.57:962][630]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.03.16-20.05.57:962][630]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.03.16-20.05.57:962][630]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.03.16-20.05.57:963][630]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.03.16-20.05.57:963][630]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.03.16-20.05.57:963][630]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.03.16-20.05.57:963][630]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.03.16-20.05.57:963][630]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.03.16-20.05.57:963][630]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.03.16-20.05.57:963][630]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.03.16-20.05.57:964][630]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.03.16-20.05.57:965][630]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.03.16-20.05.57:965][630]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.03.16-20.05.57:965][630]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.03.16-20.05.57:966][630]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.03.16-20.05.57:966][630]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.03.16-20.05.57:966][630]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.03.16-20.05.57:966][630]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.03.16-20.05.57:966][630]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.03.16-20.05.57:967][630]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.03.16-20.05.57:972][630]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.03.16-20.05.57:972][630]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.03.16-20.05.57:972][630]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.03.16-20.05.57:972][630]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.03.16-20.05.57:972][630]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.03.16-20.05.57:972][630]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.03.16-20.05.57:973][630]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.03.16-20.05.57:973][630]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.03.16-20.05.57:973][630]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.03.16-20.05.57:973][630]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.03.16-20.05.57:974][630]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.03.16-20.05.57:975][630]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.03.16-20.05.57:975][630]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.03.16-20.05.57:976][630]LogHMD: Freeing OpenVRDLLHandle.
+[2020.03.16-20.05.57:976][630]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.03.16-20.05.57:977][630]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.03.16-20.05.57:977][630]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.03.16-20.05.57:977][630]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.03.16-20.05.57:977][630]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.03.16-20.05.57:979][630]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.03.16-20.05.57:980][630]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.03.16-20.05.57:992][630]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.03.16-20.05.57:992][630]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.03.16-20.05.57:992][630]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEC021722-4A47-95B0-50D7-F79E8BAE611B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=27f168ab478137365f5b54ae8e2d8bd1%7C93a69fc451024811897d26c901b30920%7C6ff73697-efb0-4d5f-a328-5126453eb80a&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.03.16-20.05.57:994][630]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.03.16-20.05.57:997][630]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.03.16-20.05.57:998][630]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.03.16-20.05.57:998][630]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.03.16-20.05.57:998][630]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.03.16-20.05.57:998][630]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.03.16-20.05.57:998][630]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.03.16-20.05.57:998][630]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.03.16-20.05.57:998][630]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.03.16-20.05.57:999][630]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.03.16-20.05.57:999][630]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.03.16-20.05.57:999][630]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.03.16-20.05.57:999][630]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.03.16-20.05.58:000][630]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.03.16-20.05.58:002][630]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.03.16-20.05.58:003][630]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.03.16-20.05.58:003][630]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.03.16-20.05.58:003][630]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.03.16-20.05.58:007][630]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.03.16-20.05.58:007][630]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.03.16-20.05.58:007][630]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.03.16-20.05.58:008][630]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.03.16-20.05.58:010][630]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.03.16-20.05.58:010][630]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.03.16-20.05.58:010][630]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.03.16-20.05.58:010][630]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.03.16-20.05.58:010][630]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.03.16-20.05.58:011][630]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.03.16-20.05.58:012][630]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.03.16-20.05.58:012][630]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.03.16-20.05.58:013][630]LogD3D11RHI: Shutdown
+[2020.03.16-20.05.58:013][630]LogD3D11RHI: CleanupD3DDevice
+[2020.03.16-20.05.58:029][630]LogExit: Exiting.
+[2020.03.16-20.05.58:041][630]Log file closed, 03/16/20 21:05:58
